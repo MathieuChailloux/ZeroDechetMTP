@@ -1,0 +1,284 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1011 6c2efc30",
+  "osm3s": {
+    "timestamp_osm_base": "2020-02-21T15:01:02Z",
+    "timestamp_areas_base": "2020-02-21T14:35:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1420701955,
+  "lat": 45.7283338,
+  "lon": 4.8343382,
+  "tags": {
+    "amenity": "recycling",
+    "fixme": "not exactly here",
+    "operator": "Les Compostiers",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 1842427734,
+  "lat": 45.4467561,
+  "lon": 4.3708529,
+  "tags": {
+    "amenity": "recycling",
+    "description": "bacs à compost",
+    "recycling:green_waste": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 2104773978,
+  "lat": 43.6393477,
+  "lon": 3.8400928,
+  "tags": {
+    "amenity": "recycling",
+    "description": "Composteur collectif Croix de Lavit :     1 samedi par mois, information et distribution de bioseaux de 10h à 12h à la boulangerie juste à côté.",
+    "recycling:glass": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container",
+    "ref": "V276"
+  }
+},
+{
+  "type": "node",
+  "id": 2109247153,
+  "lat": 47.6626583,
+  "lon": -2.7629203,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:organic": "yes",
+    "recycling_type": "container",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2109247155,
+  "lat": 47.6626766,
+  "lon": -2.7647502,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:organic": "yes",
+    "recycling_type": "container",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2139264132,
+  "lat": 45.7512241,
+  "lon": 4.8645763,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:organic": "yes",
+    "recycling_type": "container",
+    "source": "local survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2318307602,
+  "lat": 48.1116882,
+  "lon": -1.7058979,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:green_waste": "compost",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 2387801544,
+  "lat": 48.1128238,
+  "lon": -1.6893652,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:operator": "Rennes Métropole",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 2437004411,
+  "lat": 44.5595203,
+  "lon": 6.0831599,
+  "tags": {
+    "amenity": "recycling",
+    "location": "underground",
+    "recycling:aluminium": "yes",
+    "recycling:batteries": "yes",
+    "recycling:beverage_cartons": "yes",
+    "recycling:books": "yes",
+    "recycling:cans": "yes",
+    "recycling:cardboard": "yes",
+    "recycling:cartons": "yes",
+    "recycling:clothes": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:glass": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:magazines": "yes",
+    "recycling:newspaper": "yes",
+    "recycling:organic": "yes",
+    "recycling:paper": "yes",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:scrap_metal": "yes",
+    "recycling:shoes": "yes",
+    "recycling:small_appliances": "yes",
+    "recycling:waste": "yes",
+    "recycling:wood": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 2493670253,
+  "lat": 45.1763144,
+  "lon": 5.7223481,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:green_waste": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 2517385568,
+  "lat": 47.2351873,
+  "lon": 6.0266376,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Chalet de compostage",
+    "operator": "SYBERT",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 2623369826,
+  "lat": 47.1891329,
+  "lon": -1.5483711,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Composteur collectif Lamour – les Forges",
+    "note": "Déchets organiques. Ouverture, tous les samedi de 11h30 à 12h30.",
+    "opening_hours": "Apr-Sep,Oct-Mar Mo 18:30-19:30; Oct-Mar Sa 11:30-12:30",
+    "recycling": "green_waste",
+    "recycling:cans": "no",
+    "recycling:clothes": "no",
+    "recycling:glass": "no",
+    "recycling:organic": "yes",
+    "recycling:paper": "no",
+    "website": "http://roussicompost.servideo.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 2783387555,
+  "lat": 42.6811282,
+  "lon": 2.8982422,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:garden_waste": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:organic": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2783387556,
+  "lat": 42.6829401,
+  "lon": 2.8999413,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:garden_waste": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:organic": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2986729317,
+  "lat": 44.8268844,
+  "lon": 5.6203714,
+  "tags": {
+    "amenity": "recycling",
+    "image": "File:Site de compostage à Clelles.jpg",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 2994097760,
+  "lat": 45.7514667,
+  "lon": 4.8386020,
+  "tags": {
+    "amenity": "recycling",
+    "location": "overground",
+    "opening_hours": "Mo 18:30-19:30",
+    "recycling:organic": "yes",
+    "recycling_type": "container",
+    "survey:date": "2019-09-05",
+    "website": "http://www.lescompostiers.org/compost/square-deperet"
+  }
+},
+{
+  "type": "node",
+  "id": 3072961632,
+  "lat": 43.7005915,
+  "lon": 3.4989761,
+  "tags": {
+    "amenity": "recycling",
+    "name": "composteur de montpeyroux",
+    "recycling:green_waste": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 3231508111,
+  "lat": 43.5783712,
+  "lon": 3.9080880,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:clothes": "yes",
+    "recycling:glass": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 3380141979,
+  "lat": 45.7521529,
+  "lon": 4.8430996,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:organic": "yes",
+    "recycling_type": "container",
+    "source": "knowledge",
+    "source:date": "2015-03-02",
+    "start_date": "2015-04-01",
+    "website": "http://www.lescompostiers.org/"
+  }
+}
+]
+}
