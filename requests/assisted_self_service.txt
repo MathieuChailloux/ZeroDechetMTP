@@ -2,4 +2,4 @@
 (area["ISO3166-1"~"FR|MC"];)->.fr;
 (node["repair"~"assisted_self_service"](area.fr);
  way["repair"~"assisted_self_service"](area.fr););
-out;
+out center;

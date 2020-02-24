@@ -2,4 +2,4 @@
 (area["ISO3166-1"~"FR|MC"];)->.fr;
 (node["bulk_purchase"~"yes|only"](area.fr);
  way["bulk_purchase"~"yes|only"](area.fr););
-out;
+out center;
