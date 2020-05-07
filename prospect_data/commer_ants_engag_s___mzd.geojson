@@ -1,0 +1,904 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A l'Origine",
+        "description": "6 rue de l'Herberie\n34000 Montpellier\n\nAccepte les contenants réutilisables propres",
+        "Type": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.876747,
+          43.609941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "72 Grand Rue Jean Moulin\n34000 Montpellier\n-\nSalon de thé\n-\nAccepte les contenants réutilisables propres\n\n\n",
+        "Type": "Salon de thé",
+        "name": "Agartha "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.875965,
+          43.606848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balthazar café et restaurant",
+        "description": "9 Place Chabaneau, 34000 Montpellier\n-\nRestaurant\n-\nAccepte les contenants réutilisables propres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.876178,
+          43.611433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bangkok street food",
+        "description": "10 rue Aristide Ollivier, 34 000 Montpellier \n-\nRestaurant\n- \nAccepte les contenants réutilisables propres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.881532,
+          43.606767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bento café",
+        "description": "44 Rue de l'Université, 34000 Montpellier\n-\nRestaurant japonais\n-\nAccepte les contenants réutilisables propres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.877261,
+          43.613938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "100, route de Nimes\n34920 Le Crès\n-\nEpicerie Bio\nVaste rayon vrac.\n-\nLe rayon traiteur (boucherie, fromagerie, etc.) accepte vos contenants réutilisables propres",
+        "Type": "Magasin / épicerie",
+        "name": "BIOCOOP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.932827,
+          43.638199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "18 Rue Fernand Soubeyran\n34830 Jacou\n-\nBoucherie, traiteur\n-\nAccepte les contenants réutilisables propres\n",
+        "Type": "Boucherie",
+        "name": "Boucherie des saveurs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.911722,
+          43.659237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boucherie Roque Bernard",
+        "description": "58 rue St Guilhem, 34 000 Montpellier \n-\nBoucherie\n- \nAccepte les contenants réutilisables propres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.87355,
+          43.608919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "3 rue Delpech\n34000 Montpellier\n-\nBoulangerie\n-\nAccepte les contenants réutilisables propres",
+        "Type": "Boulangerie",
+        "name": "Boulangerie Castel Durandet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.877978,
+          43.611767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "7 Rue du Faubourg de la Saunerie\n34000 Montpellier\n-\nBoulangerie\n-\nAccepte les contenants réutilisables propres\n",
+        "Type": "Boulangerie",
+        "name": "Boulangerie l'Authentique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.875738,
+          43.60619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brioche Dorée",
+        "description": "7 rue de la Loge, 34 000 Montpellier \n-\nBoulangerie, restauration rapide\n- \nAccepte les contenants réutilisables propres",
+        "Type": "Accepte les contenants réutilisables"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.877283,
+          43.61022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chez Cécé",
+        "description": "4 Rue Jacques d'Aragon, 34000 Montpellier\n-\nRestaurant\n-\nAccepte les contenants réutilisables propres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.877149,
+          43.608496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "1 Rue du Bras de Fer\n34000 Montpellier\n-\nPatisserie & déjeuner\n-\nAccepte les contenants réutilisables propres\nMets à disposition et/ou vend des contenants réutilisables LoopEat",
+        "Type": "Salon de thé",
+        "name": "Citron",
+        "_umap_options": {
+          "color": "Navy"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.876189,
+          43.609724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Club & Thés",
+        "description": "18 rue St Guilhem,  34 000 Montpellier \n-\nSandwicherie\n- \nAccepte les contenants réutilisables propres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.875459,
+          43.609813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "577 Boulevard d'Antigone\n34000 Montpellier\n-\nVente à emporter\n-\nAccepte les contenants réutilisables propres.\n",
+        "Type": "Magasin / épicerie",
+        "name": "Comptoir des olives"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.890204,
+          43.609149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "3 Rue Vanneau\n34000 Montpellier\n-\nRestaurant\n-\nAccepte les contenants réutilisables propres\n\n",
+        "Type": "Restaurant",
+        "name": "Délices du Liban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.880489,
+          43.608136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Passage de l'Horloge\n34000 Montpellier\n-\nRestaurant et vente à emporter\n-\nAccepte les contenants réutilisables propres\n",
+        "Type": "Restaurant",
+        "name": "En Faim Bio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.883482,
+          43.608431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "26 rue de la cavalerie \n34000 Montpellier\n-\nEpicerie\n-\nAccepte les contenants réutilisables propres",
+        "Type": "Magasin / épicerie",
+        "name": "Epicerie des beaux arts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.881356,
+          43.616936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "Green"
+        },
+        "name": "Fait'out"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.874708,
+          43.615266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gabriel créateur de gourmandises",
+        "description": "16 Boulevard Louis Blanc, 34000 Montpellier\n\nPatisserie\n\nAccepte les contenants réutilisables propres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.880282,
+          43.614226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "2 rue université\n34000 Montpellier\n-\nRestauration à emporter\n-\nAccepte les contenants réutilisables propres",
+        "Type": "Restaurant",
+        "name": "GreenLab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.876393,
+          43.611878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KAITARO",
+        "description": "1327 Avenue de Maurin, 34070 Montpellier \n\n\nAccepte les contenants réutilisables propres",
+        "Type": "Boulangerie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.875197,
+          43.593194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koffee Choc",
+        "description": "44 Rue de l'Université, 34000 Montpellier\n-\nRestaurant\n-\nAccepte les contenants réutilisables propres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.877204,
+          43.613764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krousty/Mignon",
+        "description": "Montpellier\n-\nvente à emporter\n-\nAccepte les contenants réutilisables propres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.877498,
+          43.609851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "18 Ave du professeur Grasset Grasset\n34090 Montpellier\n-\nRestauration à emporter\n-\nAccepte les contenants réutilisables propres",
+        "Type": "Restaurant",
+        "name": "L'assiette au pain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.867885,
+          43.623538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "26 Rue des Étuves\n34000 Montpellier\n-\nRestaurant/traiteur\n-\nAccepte les contenants réutilisables propres",
+        "Type": "Restaurant",
+        "name": "L'autre Sud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.877153,
+          43.60716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "L'île intense",
+        "description": "11 rue Serane, 34 000 Montpellier \n-\nRestaurant créole\n- \nAccepte les contenants réutilisables propres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.881859,
+          43.606453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "23 Rue Saint Guilhem\n34000 Montpellier\n-\nFromagerie\n-\nAccepte les contenants réutilisables propres",
+        "Type": "Fromagerie",
+        "name": "La cloche à fromage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.874997,
+          43.609364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "11, Rue du Faubourg de la Saunerie\n34000 Montpellier\n-\nBoucherie / charcuterie\n-\nAccepte les contenants réutilisables propres",
+        "Type": "Boucherie",
+        "name": "La maison de la volaille"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.875689,
+          43.606069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "14 Rue du Palais des Guilhem\n34000 Montpellier\n-\nPâtisserie/Salon de thé\n-\nAccepte les contenants réutilisables propres",
+        "Type": "Salon de thé",
+        "name": "Le Gram"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.875174,
+          43.611268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "6 rue Proudhon\n34000 Montpellier\n-\nRestaurant / vente à emporter\n-\nAccepte les contenants réutilisables propres.\n",
+        "Type": "Restaurant",
+        "name": "Le krishna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.881226,
+          43.615392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le New Kashmir",
+        "description": "7 rue Alfred Bruyas, 34 000 Montpellier \n-\nRestaurant pakistanais\n- \nAccepte les contenants réutilisables propres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.881065,
+          43.607323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "1 Rue Aristide Ollivier, 34000 Montpellier\n-\nRestaurant\n-\nAccepte les contenants réutilisables propres",
+        "name": "Le palmier oriental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.880872,
+          43.60718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le talon Aiguille",
+        "description": "Place Carnot, 34470 Pérols\n-\nRestaurant\n-\nAccepte les contenants réutilisables propres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.954043,
+          43.563853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "22 Rue de l'Université, 34000 Montpellier\n-\nCafé\n-\nAccepte les contenants réutilisables propres",
+        "name": "Les Beatnik Modernes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.876868,
+          43.612795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Les Demoiselles de Montpellier",
+        "description": "2 rue de la Carbonnerie\n34000 Montpellier\n\nSalon de thé\n\nAccepte les contenants réutilisables propres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.878099,
+          43.611758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Li's Raviolis Chinois",
+        "description": "23 Rue de l'Université, 34000 Montpellier\n-\nRestaurant de raviolis chinois\n-\nAccepte les contenants réutilisables propres",
+        "Type": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.877165,
+          43.613902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naturalia",
+        "description": "14 rue du Faubourg de la Saunerie, 34 000 Montpellier \n-\nSupermarché\n- \nAccepte les contenants réutilisables propres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.875256,
+          43.605847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rose d'Asie",
+        "description": "5 Place Alexandre Laissac, 34 000 Montpellier \n-\nTraiteur vietnamien\n- \nAccepte les contenants réutilisables propres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.876473,
+          43.60582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trendres volailles",
+        "description": "6 Rue de la Vieille, 34090 Montpellier\n-\nRestaurant\n-\nAccepte les contenants réutilisables propres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.877122,
+          43.609549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "36 rue de l'Université\n34000 Montpellier\n-\nSalon de thé \n-\nAccepte les contenants réutilisables propres",
+        "Type": "Salon de thé",
+        "name": "Zandoli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.877089,
+          43.613322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.905725,
+          43.621166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "3 rue du Plan du Parc\n34000 Montpellier\n-\nEpicerie vrac\n-\nAccepte les contenants réutilisables propres\nMets à disposition et/ou vend des contenants réutilisables",
+        "name": "A chacun son bocal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.87576,
+          43.605893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Auden Healthy Café",
+        "description": "Accepte les contenants  réutilisables propres\nPropose des consignes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.876302,
+          43.607595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "31 rue saint Guilhem\n34000 Montpellier\n-\nEpicerie vrac\n-\nAccepte les contenants réutilisables propres\nMets à disposition et/ou vend des contenants réutilisables\n",
+        "name": "DayByDay Montpellier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.87423,
+          43.609014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "76, allée Wihlem Roentgen \n34000 Montpellier \n-\nBoulangerie / Restauration sur place et à emporter \n-\nAccepte les contenants réutilisables propres\nValorisation des biodéchets - compost.",
+        "name": "Drôle de pain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.913828,
+          43.611504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "55 Rue Estelle\n34000 Montpellier\n-\nRestaurant et vente à emporter\n-\nAccepte les contenants réutilisables propres\nMets à disposition et/ou vend des contenants réutilisables",
+        "name": "Joy Healthyfood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.87479,
+          43.606098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "1 Avenue Jean Jaurès\n34170 Castelnau-le-Lez\n-\nEpicerie zéro déchet\n-\nAccepte les contenants réutilisables propres\nMets à disposition et/ou vend des contenants réutilisables",
+        "name": "L'art des choix"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.895524,
+          43.63339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le petit moulu",
+        "description": "43 Rue de l'Université, 34000 Montpellier\n-\nCafé\n-\nAccepte les contenants réutilisables propres\nVrac et pailles en inox"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.877331,
+          43.614408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "1870 Boulevard de la Liberté, 34830 Clapiers\n-\nBoutique Paysanne\n-\nAccepte les contenants réutilisables propres\nrécupération des emballages de certains producteurs\nPoubelle a biodéchets\nDon de pain à la banque alimentaire",
+        "name": "Paysans du Coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.900277,
+          43.659533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Binôm'",
+        "description": "1 bis Rue Rosset, 34000 Montpellier\n-\nRestaurant\n-\nPartenaire Loopeat",
+        "_umap_options": {
+          "iconUrl": "https://loopeat.fr/wp-content/uploads/2020/01/motif_loopeat1.png",
+          "color": "Green",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.877676,
+          43.611041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "9 rue Durand\n34000 Montpellier\n-\nEpicerie vrac / Restaurant anti-gaspi\n-\nAccepte les contenants réutilisables propres\nMets à disposition et/ou vend des contenants réutilisables LoopEat\nValorisation des biodéchets - compost.",
+        "_storage_options": {
+          "iconClass": "Ball",
+          "iconUrl": "/uploads/pictogram/shop-24_1.png"
+        },
+        "_umap_options": {
+          "iconClass": "Ball",
+          "iconUrl": "https://loopeat.fr/wp-content/uploads/2020/01/motif_loopeat1.png",
+          "color": "Green"
+        },
+        "name": "CityZen Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.877965,
+          43.605295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kydo",
+        "description": "16 rue Jules Latreilhe\n34000 Montpellier\n\nRestaurant de Pokebowls\n\nAccepte les contenants réutilisables propres et partenaire LoopEat",
+        "_umap_options": {
+          "iconUrl": "https://loopeat.fr/wp-content/uploads/2020/01/motif_loopeat1.png",
+          "color": "Green",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.876162,
+          43.60782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oh my bowl",
+        "description": "20 rue de l'université, 34000 Montpellier\n-\nPoke Bowl\n-\nPartenaire Loopeat\n-\nAccepte les contenants réutilisables propres",
+        "_umap_options": {
+          "iconUrl": "https://loopeat.fr/wp-content/uploads/2020/01/motif_loopeat1.png",
+          "color": "Green",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.876804,
+          43.612671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prairie Mimosa",
+        "description": "12 rue de la Fontaine\n34000 Montpellier\n-\nRestaurant\n-\nAccepte les contenants réutilisables propres.\n\nPartenaire LoopEat\n",
+        "Type": "Restaurant",
+        "_umap_options": {
+          "iconUrl": "https://loopeat.fr/wp-content/uploads/2020/01/motif_loopeat1.png",
+          "color": "Green",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.875867,
+          43.607517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Romy café",
+        "description": "1 Rue Draperie Rouge, 34000 Montpellier\n-\nCafé\n-\nPartenaire Loopeat",
+        "_umap_options": {
+          "iconUrl": "https://loopeat.fr/wp-content/uploads/2020/01/motif_loopeat1.png",
+          "iconClass": "Ball",
+          "color": "Green"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.877149,
+          43.609879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "150 Rue Claude Balbastre \nGAROSUD\n34070 Montpellier\n-\nRestaurant et vente à emporter\n-\nAccepte les contenants réutilisables propres\nMets à disposition et/ou vend des contenants réutilisables LoopEat\nValorisation des biodéchets - compost.\nFait une réduction pour les clients venant avec leur propres contenants",
+        "name": "Sauvage cuisine naturelle",
+        "_umap_options": {
+          "iconClass": "Ball",
+          "color": "Green"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.86237,
+          43.574526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Square Cocoon coworking",
+        "description": "Met des contenants loopeat à disposition",
+        "_umap_options": {
+          "iconUrl": "https://loopeat.fr/wp-content/uploads/2020/01/motif_loopeat1.png",
+          "color": "Green",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.87062,
+          43.616979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Umiyaki",
+        "description": "9 Rue de la friperie, 34000 Montpellier\n-\nJaponais\n-\nPartenaire Loopeat",
+        "_umap_options": {
+          "iconUrl": "https://loopeat.fr/wp-content/uploads/2020/01/motif_loopeat1.png",
+          "color": "Green",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.87579,
+          43.609711
+        ]
+      }
+    }
+  ]
+}
