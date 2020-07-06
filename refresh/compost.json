@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.56.3 eb200aeb",
+  "generator": "Overpass API 0.7.56.1004 6cd3eaec",
   "osm3s": {
-    "timestamp_osm_base": "2020-06-02T12:05:02Z",
-    "timestamp_areas_base": "2020-06-02T10:38:02Z",
+    "timestamp_osm_base": "2020-07-06T16:27:02Z",
+    "timestamp_areas_base": "2020-03-06T11:03:01Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -162,6 +162,22 @@
     "operator": "Les Compostiers",
     "recycling:organic": "yes",
     "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 1420701966,
+  "lat": 45.7712401,
+  "lon": 4.8345553,
+  "tags": {
+    "access": "private",
+    "amenity": "recycling",
+    "comment": "Vermicompost",
+    "fixme": "not exactly here",
+    "operator": "Les Compostiers",
+    "recycling:organic": "yes",
+    "recycling_type": "container",
+    "type": "compost"
   }
 },
 {
@@ -7109,10 +7125,13 @@
   "lon": 3.8726398,
   "tags": {
     "amenity": "recycling",
-    "recycling:glass": "yes",
+    "mapillary": "BlxQJk8QvmpTy1ckJohTNQ",
+    "recycling:glass": "no",
+    "recycling:glass_bottles": "yes",
     "recycling:organic": "yes",
     "recycling:paper": "yes",
-    "recycling_type": "container"
+    "recycling_type": "container",
+    "survey:date": "2018-04-14"
   }
 },
 {
@@ -9292,7 +9311,10 @@
   "lat": 50.6290755,
   "lon": 3.0960566,
   "tags": {
+    "access": "destination",
     "amenity": "recycling",
+    "name": "Composteur Jardin André Ballet",
+    "recycling:compost": "yes",
     "recycling:organic": "yes",
     "recycling_type": "container"
   }
@@ -11651,6 +11673,225 @@
   }
 },
 {
+  "type": "node",
+  "id": 7593172210,
+  "lat": 45.7430646,
+  "lon": 4.8752587,
+  "tags": {
+    "amenity": "recycling",
+    "contact:email": "lorvertdu8eme@gmail.com",
+    "opening_hours": "Tu 19:00-19:30; Sa 11:30-12:00",
+    "operator": "Grand Lyon",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7596075769,
+  "lat": 50.6147750,
+  "lon": 3.0257359,
+  "tags": {
+    "access": "destination",
+    "amenity": "recycling",
+    "operator": "ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7596129040,
+  "lat": 50.5411514,
+  "lon": 3.0250410,
+  "tags": {
+    "access": "destination",
+    "amenity": "recycling",
+    "name": "Composteur jardin du riez",
+    "operator": "ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7596151309,
+  "lat": 50.5958321,
+  "lon": 3.0919426,
+  "tags": {
+    "access": "destination",
+    "amenity": "recycling",
+    "name": "Composteur jardin du champ du cerf",
+    "operator": "ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7596190977,
+  "lat": 50.6350373,
+  "lon": 3.1928724,
+  "tags": {
+    "amenity": "recycling",
+    "operator": "ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7596200929,
+  "lat": 50.7536858,
+  "lon": 3.1693967,
+  "tags": {
+    "access": "destination",
+    "amenity": "recycling",
+    "operator": "ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7609347544,
+  "lat": 49.9100242,
+  "lon": 2.3178378,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:organic": "yes",
+    "recycling:waste": "yes",
+    "recycling_type": "underfloor-container"
+  }
+},
+{
+  "type": "node",
+  "id": 7609347550,
+  "lat": 49.9099865,
+  "lon": 2.3178383,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:organic": "yes",
+    "recycling:waste": "yes",
+    "recycling_type": "underfloor-container"
+  }
+},
+{
+  "type": "node",
+  "id": 7617726328,
+  "lat": 50.7211691,
+  "lon": 3.1424538,
+  "tags": {
+    "access": "destination",
+    "amenity": "recycling",
+    "name": "Composteur Jardin en Fabrique",
+    "operator": "ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7617742898,
+  "lat": 50.7105542,
+  "lon": 3.1699856,
+  "tags": {
+    "access": "destination",
+    "amenity": "recycling",
+    "operator": "ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7617744961,
+  "lat": 50.5474880,
+  "lon": 2.9843288,
+  "tags": {
+    "access": "destination",
+    "amenity": "recycling",
+    "name": "Composteur Jardin des Milles Pattes",
+    "operator": "ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7617752797,
+  "lat": 50.7822533,
+  "lon": 3.1134593,
+  "tags": {
+    "access": "destination",
+    "amenity": "recycling",
+    "fixme": "mettre au bon endroit",
+    "operator": "ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7617753977,
+  "lat": 50.6264336,
+  "lon": 3.0199314,
+  "tags": {
+    "access": "destination",
+    "amenity": "recycling",
+    "operator": "ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7617785671,
+  "lat": 50.6124425,
+  "lon": 3.0556239,
+  "tags": {
+    "amenity": "recycling",
+    "operator": "ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7619190016,
+  "lat": 42.9644290,
+  "lon": 1.6057058,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7620541032,
+  "lat": 48.5724528,
+  "lon": 7.7689399,
+  "tags": {
+    "amenity": "recycling",
+    "description": "Composteurs",
+    "operator": "EDEN",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
   "type": "way",
   "id": 80278324,
   "center": {
@@ -12444,6 +12685,29 @@
     "name": "Plateforme Végétaux",
     "opening_hours": "We,Sa 14:00-17:45",
     "operator": "Dinan Agglomération",
+    "recycling:organic": "yes",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 817004432,
+  "center": {
+    "lat": 47.3347225,
+    "lon": 0.7504968
+  },
+  "nodes": [
+    7630527699,
+    7630527698,
+    7630527697,
+    7630527696,
+    7630527695,
+    7630527694,
+    7630527693,
+    7630527699
+  ],
+  "tags": {
+    "amenity": "recycling",
     "recycling:organic": "yes",
     "recycling_type": "centre"
   }
