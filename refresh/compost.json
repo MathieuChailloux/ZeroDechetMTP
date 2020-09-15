@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.56.6 474850e8",
+  "generator": "Overpass API 0.7.56.7 b85c4387",
   "osm3s": {
-    "timestamp_osm_base": "2020-09-07T15:43:02Z",
-    "timestamp_areas_base": "2020-09-07T14:38:02Z",
+    "timestamp_osm_base": "2020-09-15T09:54:03Z",
+    "timestamp_areas_base": "2020-09-15T08:19:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -9765,11 +9765,12 @@
 {
   "type": "node",
   "id": 7279103551,
-  "lat": 48.9110351,
-  "lon": 2.1784100,
+  "lat": 48.9109844,
+  "lon": 2.1782819,
   "tags": {
-    "amenity": "waste_disposal",
+    "amenity": "recycling",
     "recycling:organic": "yes",
+    "recycling_type": "container",
     "waste": "organic"
   }
 },
@@ -11281,8 +11282,8 @@
 {
   "type": "node",
   "id": 7500357997,
-  "lat": 47.3246474,
-  "lon": 5.0407598,
+  "lat": 47.3246191,
+  "lon": 5.0408117,
   "tags": {
     "amenity": "recycling",
     "recycling:green_waste": "yes",
@@ -12197,6 +12198,134 @@
     "recycling:organic": "yes",
     "recycling_type": "container",
     "website": "https://www.calitom.com/fr"
+  }
+},
+{
+  "type": "node",
+  "id": 7900246164,
+  "lat": 50.6312273,
+  "lon": 3.0184119,
+  "tags": {
+    "access": "customers",
+    "amenity": "recycling",
+    "name": "Composteur L'îlot 26 / Un bio potager au Marais",
+    "operator": "Ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7900260456,
+  "lat": 50.6312899,
+  "lon": 3.1019343,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Composteur Jardin Les Sheds du Coin du monde",
+    "operator": "Ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7900302175,
+  "lat": 50.6666313,
+  "lon": 3.0642061,
+  "tags": {
+    "access": "customers",
+    "amenity": "recycling",
+    "name": "Composteur Jardin de l'Abbaye",
+    "operator": "Ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7900349035,
+  "lat": 50.6085817,
+  "lon": 2.8441618,
+  "tags": {
+    "access": "customers",
+    "amenity": "recycling",
+    "operator": "ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7900350697,
+  "lat": 50.6688746,
+  "lon": 3.0871698,
+  "tags": {
+    "access": "customers",
+    "amenity": "recycling",
+    "name": "Composteur Jardin du Noyer",
+    "operator": "Ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7900365904,
+  "lat": 50.6949091,
+  "lon": 3.1916489,
+  "tags": {
+    "access": "customers",
+    "amenity": "recycling",
+    "operator": "Ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7900387400,
+  "lat": 50.2977749,
+  "lon": 3.3962905,
+  "tags": {
+    "access": "customers",
+    "amenity": "recycling",
+    "name": "Composteur Jardin des Doux chineurs",
+    "operator": "Ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7902431187,
+  "lat": 48.5681673,
+  "lon": 7.7536145,
+  "tags": {
+    "Gestionnaire ou association auquel le composteur est affilié": "Association l'arrosoir",
+    "amenity": "recycling",
+    "name": "L'arrosoir",
+    "recycling:green_waste": "yes",
+    "recycling:organic": "yes",
+    "website": "http://www.facebook.com/arrosoir.strasbourg/"
+  }
+},
+{
+  "type": "node",
+  "id": 7902440393,
+  "lat": 48.5733444,
+  "lon": 7.7506238,
+  "tags": {
+    "Gestionnaire ou association auquel le composteur est affilié": "Eurométropole de Strasbourg",
+    "amenity": "recycling",
+    "recycling:green_waste": "yes",
+    "recycling:organic": "yes"
   }
 },
 {

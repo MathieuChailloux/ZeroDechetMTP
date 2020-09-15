@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.56.7 b85c4387",
+  "generator": "Overpass API 0.7.56.6 474850e8",
   "osm3s": {
-    "timestamp_osm_base": "2020-09-07T15:40:03Z",
-    "timestamp_areas_base": "2020-09-07T14:25:02Z",
+    "timestamp_osm_base": "2020-09-15T09:53:02Z",
+    "timestamp_areas_base": "2020-09-15T09:10:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -377,8 +377,8 @@
 {
   "type": "node",
   "id": 521232558,
-  "lat": 45.7596558,
-  "lon": 4.8471882,
+  "lat": 45.7596504,
+  "lon": 4.8471329,
   "tags": {
     "bulk_purchase": "only",
     "delivery:covid19": "yes",
@@ -392,6 +392,7 @@
     "phone": "+33 6 37 19 06 26",
     "ref:FR:SIRET": "82777302900018",
     "shop": "convenience",
+    "survey:date": "2020-09-13",
     "website": "https://alasource-lyon.com/",
     "wheelchair": "yes"
   }
@@ -433,7 +434,7 @@
     "changing_table": "no",
     "level": "0",
     "name": "Naturalia",
-    "opening_hours": "Mo-Sa 09:00-20:45, su 09:00-13:45",
+    "opening_hours": "Mo-Sa 09:00-20:45, su 09:00-19:30",
     "opening_hours:covid19": "Mo-Sa 10:00-20:00",
     "operator": "Groupe Casino",
     "organic": "only",
@@ -1450,7 +1451,7 @@
     "contact:street": "Rue de Sébastopol",
     "contact:website": "http://biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Grand-Est/Bas-Rhin/LE-QUAI-DES-HALLES",
     "currency:XLT": "STUK",
-    "name": "Le Quai des Halles",
+    "name": "Biocoop Le Quai des Halles",
     "operator": "Biocoop",
     "organic": "only",
     "payment:cash:XLT-STUK": "yes",
@@ -8369,11 +8370,12 @@
 {
   "type": "node",
   "id": 3874479888,
-  "lat": 47.2167531,
-  "lon": -1.5553276,
+  "lat": 47.2167539,
+  "lon": -1.5553253,
   "tags": {
     "bulk_purchase": "yes",
     "contact:city": "Nantes",
+    "contact:country": "FR",
     "contact:facebook": "https://www.facebook.com/Les-Bottes-Boucherie-Paysanne-311067539588459/",
     "contact:housenumber": "2",
     "contact:phone": "+33 2 52 20 13 86",
@@ -8773,6 +8775,7 @@
   "lat": 48.3973260,
   "lon": -4.4762604,
   "tags": {
+    "access:covid19": "yes",
     "addr:city": "Brest",
     "addr:housenumber": "3",
     "addr:postcode": "29200",
@@ -8784,10 +8787,11 @@
     "contact:email": "contact@finisterra.fr",
     "contact:fax": "+33 2 98 43 45 91",
     "delivery:covid19": "no",
+    "drive_through:covid19": "no",
     "email": "contact@finisterra.fr",
     "name": "Biocoop Kerbio Centre Ville",
     "opening_hours": "Mo 15:00-19:00; Tu-Sa 09:00-13:00,14:30-19:00",
-    "opening_hours:covid19": "Mo-Sa 09:00-14:00",
+    "opening_hours:covid19": "Mo 15:00-19:00; Tu-Th 09:00-13:00,15:00-19:00; Fr,Sa 09:00-19:00",
     "operator": "Finis Terra",
     "organic": "only",
     "phone": "+33 2 98 46 45 81",
@@ -12031,6 +12035,7 @@
   "lat": 48.3865357,
   "lon": -4.5323050,
   "tags": {
+    "access:covid19": "yes",
     "addr:city": "Brest",
     "addr:housenumber": "114",
     "addr:postcode": "29200",
@@ -12041,9 +12046,12 @@
     "bulk_purchase": "yes",
     "contact:email": "contact@finisterra.fr",
     "contact:fax": "+33 2 98 45 78 93",
+    "delivery:covid19": "no",
+    "drive_through:covid19": "yes",
     "email": "contact@finisterra.fr",
     "name": "Biocoop Kerbio Rive Droite",
-    "opening_hours:covid19": "Mo-Sa 10:00-13:00,14:00-18:00",
+    "opening_hours": "Mo-Sa 09:00-19:00",
+    "opening_hours:covid19": "Mo-Sa 09:00-19:00",
     "operator": "Finis Terra",
     "organic": "only",
     "phone": "+33 2 98 45 45 28",
@@ -12171,7 +12179,7 @@
     "contact:facebook": "https://www.facebook.com/Elodiededaybydayclermontferrand/",
     "description:fr": "Épicerie en vrac, sans emballage",
     "name": "Day by Day Clermont",
-    "opening_hours": "Tu-Sa 09:30-14:00,15:00-19:00",
+    "opening_hours": "Tu-Sa 10:00-13:30, 14:30-19:00; Mo 14:30-19:00",
     "opening_hours:covid19": "Mo 14:30-17:30; Tu-Sa 10:00-13:30,14:30-17:30",
     "organic": "yes",
     "payment:cash:XLT-DUME": "yes",
@@ -14337,6 +14345,8 @@
     "addr:postcode": "79000",
     "addr:street": "Rue Victor Hugo",
     "brand": "Bio C' Bon",
+    "brand:wikidata": "Q54312551",
+    "brand:wikipedia": "fr:Bio c'bon",
     "bulk_purchase": "yes",
     "contact:facebook": "https://www.facebook.com/biocbonfrance/",
     "name": "Bio C' Bon",
@@ -14659,6 +14669,11 @@
   "lat": 50.6150419,
   "lon": 3.1228322,
   "tags": {
+    "addr:city": "Lezennes",
+    "addr:housenumber": "21",
+    "addr:postcode": "59260",
+    "addr:street": "Avenue de l'Avenir",
+    "air_conditioning": "yes",
     "brand": "Bio Bon Gourmand",
     "bulk_purchase": "yes",
     "contact:facebook": "https://www.facebook.com/bbgheronparc",
@@ -14667,8 +14682,17 @@
     "opening_hours": "Mo-Fr 09:30-19:30; Sa 09:00-19:30; Su 09:30-12:30",
     "opening_hours:covid19": "same",
     "organic": "only",
+    "payment:american_express": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+33 3 20 71 62 42",
     "shop": "supermarket",
-    "website": "http://www.bbgmarket.com"
+    "stroller": "yes",
+    "website": "http://www.bbgmarket.com",
+    "wheelchair": "yes"
   }
 },
 {
@@ -14876,6 +14900,26 @@
     "organic": "only",
     "shop": "convenience",
     "website": "https://www.biocoopmarianne-montpellier.fr/"
+  }
+},
+{
+  "type": "node",
+  "id": 5230376787,
+  "lat": 43.1941477,
+  "lon": -0.6046876,
+  "tags": {
+    "addr:city": "Oloron-Sainte-Marie",
+    "addr:housenumber": "32",
+    "addr:postcode": "64400",
+    "addr:street": "Place Georges Clemenceau",
+    "bulk_purchase": "yes",
+    "contact:phone": "+33 5 59 36 11 40",
+    "contact:website": "http://lepicerieetcompagnie.fr/",
+    "description": "Epicerie Vrac, Verre, Local & produits issus de l'Agriculture Biologique",
+    "name": "L'épicerie & Compagnie",
+    "opening_hours": "Tu-Sa 09:30-13:30, 14:30-19:00",
+    "organic": "yes",
+    "shop": "supermarket"
   }
 },
 {
@@ -18876,6 +18920,7 @@
     "name": "Biocoop Coquelicot",
     "opening_hours": "Mo-Sa 10:00-20:00; Su 09:00-13:00",
     "opening_hours:covid19": "same",
+    "organic": "only",
     "shop": "convenience"
   }
 },
@@ -19676,9 +19721,11 @@
   "lon": -3.5828944,
   "tags": {
     "addr:housenumber": "25",
+    "addr:street": "Rue de Lannevain",
     "bulk_purchase": "only",
     "contact:facebook": "https://www.facebook.com/Triskell-Vrac-et-primeur-491834657883430/",
     "name": "Triskell Vrac et Primeur",
+    "opening_hours": "Tu-Sa 09:00-12:00,15:30-19:00",
     "opening_hours:covid19": "open",
     "organic": "yes",
     "shop": "convenience"
@@ -22366,6 +22413,8 @@
     "addr:postcode": "59160",
     "addr:street": "Rue Jean Jaurès",
     "brand": "Bio C' Bon",
+    "brand:wikidata": "Q54312551",
+    "brand:wikipedia": "fr:Bio c'bon",
     "bulk_purchase": "yes",
     "contact:facebook": "https://www.facebook.com/biocbonfrance/",
     "level": "0",
@@ -26109,11 +26158,12 @@
   "lon": 1.4375224,
   "tags": {
     "addr:housenumber": "25",
+    "addr:postcode": "31000",
     "addr:street": "Rue Pargaminières",
     "bulk_purchase": "yes",
     "contact:facebook": "https://www.facebook.com/cocipro/",
     "name": "Cocipro",
-    "opening_hours": "Tu-Sa 10:30-14:00, 15:00-19:30; Su-Mo 15:00-19:30",
+    "opening_hours": "We-Sa 10:30-14:00, 15:00-19:00; Tu 14:00-19:00",
     "opening_hours:covid19": "Mo-Sa 10:30-19:30",
     "shop": "convenience",
     "website": "https://www.panier-des-producteurs.com/"
@@ -26696,12 +26746,17 @@
   "lat": 49.0814020,
   "lon": 0.7775682,
   "tags": {
+    "addr:city": "Beaumont-le-Roger",
     "addr:housenumber": "2",
+    "addr:postcode": "27170",
     "addr:street": "Rue Chantereine",
     "bulk_purchase": "only",
     "contact:facebook": "https://www.facebook.com/La-Caverne-du-Vrac-1844810818891114/",
     "name": "La Caverne du Vrac",
+    "opening_hours": "Tu-Su 09:30-12:30, Tu-Sa 14:30-19:00",
     "organic": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
     "shop": "convenience"
   }
 },
@@ -30667,7 +30722,7 @@
     "bulk_purchase": "only",
     "contact:facebook": "https://www.facebook.com/lengrain02/",
     "name": "L'engrain",
-    "opening_hours": "Tu-Fr 10:00-13:00,14:30-18:30; Sa 09:30-12:30,14:30-18:30",
+    "opening_hours": "Tu-Fr 10:00-13:00,14:30-18:30; Th 10:00-13:00; Sa 09:30-12:30,14:30-17:30",
     "organic": "only",
     "shop": "convenience"
   }
@@ -32996,6 +33051,7 @@
     677882646
   ],
   "tags": {
+    "access:covid19": "yes",
     "addr:city": "Saint-Renan",
     "addr:postcode": "29290",
     "addr:street": "Zone de Mespaol",
@@ -33005,10 +33061,13 @@
     "brand:wikipedia": "fr:Biocoop",
     "building": "yes",
     "bulk_purchase": "yes",
+    "delivery:covid19": "no",
+    "drive_through:covid19": "yes",
     "email": "contact@finisterra.fr",
     "fax": "+33 2 98 32 46 33",
     "name": "Bio Abers",
     "opening_hours": "Mo-Sa 09:00-13:00,14:00-19:00",
+    "opening_hours:covid19": "Mo-Sa 09:00-19:00",
     "operator": "Finis Terra",
     "organic": "only",
     "phone": "+33 2 98 32 61 02",
@@ -37952,15 +38011,18 @@
     1348153373
   ],
   "tags": {
+    "access:covid19": "yes",
     "brand": "Biocoop",
     "brand:wikidata": "Q2904039",
     "brand:wikipedia": "fr:Biocoop",
     "building": "yes",
     "bulk_purchase": "yes",
     "currency:XLT": "FLOR",
+    "delivery:covid19": "yes",
+    "drive_through:covid19": "yes",
     "name": "Biocoop | Le Goupil Vert",
     "opening_hours": "Mo-Sa 09:00-19:00",
-    "opening_hours:covid19": "Mo-Sa 09:00-18:00",
+    "opening_hours:covid19": "Mo-Sa 09:00-19:00",
     "organic": "only",
     "payment:cash:XLT-FLOR": "yes",
     "phone": "+33 3 83384426",
@@ -41256,6 +41318,7 @@
     2535269209
   ],
   "tags": {
+    "access:covid19": "yes",
     "addr:housenumber": "2",
     "addr:street": "Rue Daumier",
     "brand": "Biocoop",
@@ -41264,9 +41327,11 @@
     "building": "yes",
     "bulk_purchase": "yes",
     "contact:email": "kerbio-europe@finisterra.fr",
+    "delivery:covid19": "no",
+    "drive_through:covid19": "yes",
     "name": "Biocoop Kerbio Europe",
     "opening_hours": "Mo-Sa 09:00-19:00",
-    "opening_hours:covid19": "Mo-Sa 10:00-13:00,14:00-18:00",
+    "opening_hours:covid19": "Mo-Sa 09:00-19:00",
     "operator": "Finis Terra",
     "organic": "only",
     "phone": "+33 2 29 00 33 33",
@@ -43017,11 +43082,11 @@
   "type": "way",
   "id": 565474608,
   "center": {
-    "lat": 45.4359427,
-    "lon": 6.0079740
+    "lat": 45.4359384,
+    "lon": 6.0080037
   },
   "nodes": [
-    794486192,
+    7906210192,
     5445877694,
     5445877695,
     5445877696,
@@ -43029,7 +43094,7 @@
     5445877698,
     5445877699,
     794483801,
-    794486192
+    7906210192
   ],
   "tags": {
     "brand": "La Vie Claire",
