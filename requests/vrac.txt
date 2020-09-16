@@ -1,5 +1,5 @@
 [out:json][timeout:500][maxsize:20737418];
-(area["ISO3166-1"~"FR|MC"];)->.fr;
+(area["ISO3166-1"~"FR|MC|BE|CH|AD"];)->.fr;
 (node["bulk_purchase"~"yes|only"](area.fr);
  way["bulk_purchase"~"yes|only"](area.fr););
 out center;
