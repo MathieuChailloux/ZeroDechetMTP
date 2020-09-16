@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.56.6 474850e8",
+  "generator": "Overpass API 0.7.56.7 b85c4387",
   "osm3s": {
-    "timestamp_osm_base": "2020-09-15T09:53:02Z",
-    "timestamp_areas_base": "2020-09-15T09:10:02Z",
+    "timestamp_osm_base": "2020-09-16T19:41:03Z",
+    "timestamp_areas_base": "2020-09-16T19:23:03Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -15102,7 +15102,7 @@
     "brand:wikipedia": "fr:Biocoop",
     "bulk_purchase": "yes",
     "name": "Biocoop Les 7 Épis",
-    "opening_hours": "Mo 15:00-19:00; Tu-Sa 09:30-19:00",
+    "opening_hours": "Mo-Sa 09:30-19:00",
     "operator": "Les 7 Épis",
     "organic": "only",
     "phone": "+33 2 97 81 89 12",
@@ -28033,6 +28033,59 @@
 },
 {
   "type": "node",
+  "id": 6534096331,
+  "lat": 42.5082224,
+  "lon": 1.5207370,
+  "tags": {
+    "addr:city": "Andorra la Vella",
+    "addr:housenumber": "15",
+    "addr:postcode": "AD500",
+    "addr:street": "Carrer de l'Alzinaret",
+    "bulk_purchase": "yes",
+    "email": "consciencia.andorra@gmail.com",
+    "name": "Consciència",
+    "organic": "yes",
+    "shop": "convenience",
+    "website": "https://www.conscienciaorganic.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 6534129406,
+  "lat": 42.5080056,
+  "lon": 1.5376852,
+  "tags": {
+    "addr:city": "Escaldes-Engordany",
+    "addr:housenumber": "9",
+    "addr:postcode": "AD700",
+    "addr:street": "Avinguda del Fener",
+    "bulk_purchase": "yes",
+    "name": "Biocoop Andorra",
+    "operator": "BioCoop",
+    "shop": "convenience",
+    "website": "https://www.biocoopandorra.ad"
+  }
+},
+{
+  "type": "node",
+  "id": 6534144493,
+  "lat": 42.5071708,
+  "lon": 1.5294413,
+  "tags": {
+    "addr:city": "Andorra la Vella",
+    "addr:housenumber": "8",
+    "addr:postcode": "AD500",
+    "addr:street": "Carrer de la Sardana",
+    "bulk_purchase": "yes",
+    "name": "de bon Gra",
+    "opening_hours": "Mo-Sa 10:00-14:00,16:00-20:00",
+    "phone": "+376 816868",
+    "shop": "convenience",
+    "website": "https://debongra.com/"
+  }
+},
+{
+  "type": "node",
   "id": 6535218454,
   "lat": 45.8568315,
   "lon": 4.7039802,
@@ -31705,8 +31758,8 @@
 {
   "type": "node",
   "id": 7436684657,
-  "lat": 48.5489000,
-  "lon": -2.7914500,
+  "lat": 48.5486825,
+  "lon": -2.7920159,
   "tags": {
     "addr:housenumber": "2",
     "addr:street": "Rue François Jacob",

@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.56.7 b85c4387",
+  "generator": "Overpass API 0.7.56.6 474850e8",
   "osm3s": {
-    "timestamp_osm_base": "2020-09-15T09:54:03Z",
-    "timestamp_areas_base": "2020-09-15T08:19:02Z",
+    "timestamp_osm_base": "2020-09-16T19:42:02Z",
+    "timestamp_areas_base": "2020-09-16T18:38:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -12308,8 +12308,8 @@
   "lat": 48.5681673,
   "lon": 7.7536145,
   "tags": {
-    "Gestionnaire ou association auquel le composteur est affilié": "Association l'arrosoir",
     "amenity": "recycling",
+    "description": "Gestionnaire ou association auquel le composteur est affilié: Association l'arrosoir",
     "name": "L'arrosoir",
     "recycling:green_waste": "yes",
     "recycling:organic": "yes",
@@ -12322,7 +12322,6 @@
   "lat": 48.5733444,
   "lon": 7.7506238,
   "tags": {
-    "Gestionnaire ou association auquel le composteur est affilié": "Eurométropole de Strasbourg",
     "amenity": "recycling",
     "recycling:green_waste": "yes",
     "recycling:organic": "yes"
