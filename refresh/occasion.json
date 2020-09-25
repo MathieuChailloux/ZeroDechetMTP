@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.6 474850e8",
   "osm3s": {
-    "timestamp_osm_base": "2020-09-16T19:43:03Z",
-    "timestamp_areas_base": "2020-09-16T18:38:02Z",
+    "timestamp_osm_base": "2020-09-25T09:37:02Z",
+    "timestamp_areas_base": "2020-09-25T08:27:03Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -4246,23 +4246,6 @@
 },
 {
   "type": "node",
-  "id": 5485469898,
-  "lat": 43.2951179,
-  "lon": -0.3703645,
-  "tags": {
-    "addr:city": "Pau",
-    "addr:housenumber": "5",
-    "addr:postcode": "64000",
-    "addr:street": "Rue Saint-Louis",
-    "description": "Magasin de vêtements de seconde main",
-    "name": "Le D Pau",
-    "opening_hours": "Mo-Sa 14:00-18:00",
-    "second_hand": "only",
-    "shop": "second_hand"
-  }
-},
-{
-  "type": "node",
   "id": 5485469899,
   "lat": 43.2947368,
   "lon": -0.3704160,
@@ -6314,8 +6297,8 @@
 {
   "type": "node",
   "id": 6504578386,
-  "lat": 47.2026211,
-  "lon": -1.5790185,
+  "lat": 47.2026213,
+  "lon": -1.5790177,
   "tags": {
     "amenity": "deposit_sale",
     "clothes": "women;children",
@@ -8554,7 +8537,7 @@
     "operator": "Entreprise La Pomme Et La Lionne",
     "recycling:clothes": "yes",
     "second_hand": "only",
-    "shop": "yes",
+    "shop": "clothes",
     "source": "Renseigné sur formulaire de mieuxtrieranantes.fr, le 01/09/2014",
     "vending": "vêtement;pull;pantalon;veste"
   }
@@ -11340,6 +11323,8 @@
   "lat": 44.3689507,
   "lon": 2.5845793,
   "tags": {
+    "contact:website": "https://autotransac-rodez.autotransac.fr/",
+    "name": "Autotransac.fr",
     "second_hand": "only",
     "shop": "car",
     "source": "survey 2020"
@@ -11938,6 +11923,7 @@
     "contact:phone": "+33 6 03 73 88 05",
     "facebook": "https://fr-fr.facebook.com/saperlypopet.fr/",
     "name": "Saperlypopet",
+    "opening_hours": "Tu-Sa 09:30-12:30,14:30-18:00",
     "payment:cash": "yes",
     "payment:cheque": "yes",
     "payment:coins": "yes",
@@ -12172,6 +12158,47 @@
     "second_hand": "only",
     "shop": "car",
     "website": "http://www.jta.be/"
+  }
+},
+{
+  "type": "node",
+  "id": 7924294089,
+  "lat": 44.8378105,
+  "lon": -0.5719230,
+  "tags": {
+    "addr:city": "Bordeaux",
+    "addr:housenumber": "61",
+    "addr:postcode": "33000",
+    "addr:street": "Cours d'Alsace et Lorraine",
+    "name": "Tilt Vintage",
+    "phone": "+33557836910",
+    "second_hand": "only",
+    "shop": "clothes",
+    "website": "http://www.tilt-vintage.com"
+  }
+},
+{
+  "type": "node",
+  "id": 7929090389,
+  "lat": 45.2342635,
+  "lon": 5.8820432,
+  "tags": {
+    "name": "JL Auto",
+    "second_hand": "only",
+    "shop": "car",
+    "survey:date": "2020-09-21"
+  }
+},
+{
+  "type": "node",
+  "id": 7932371788,
+  "lat": 43.1252497,
+  "lon": 5.9576892,
+  "tags": {
+    "name": "Auto Analyse",
+    "phone": "+33 4 83 99 95 84",
+    "second_hand": "only",
+    "shop": "car"
   }
 },
 {
@@ -12790,6 +12817,45 @@
     "second_hand": "only",
     "shop": "car",
     "source": "extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 69308571,
+  "center": {
+    "lat": 45.1841054,
+    "lon": 0.7760643
+  },
+  "nodes": [
+    830497296,
+    830502428,
+    830485185,
+    830517401,
+    830527339,
+    830530113,
+    830531795,
+    830523900,
+    830496273,
+    830480100,
+    830499578,
+    830500292,
+    830485516,
+    830490033,
+    830515384,
+    830505687,
+    830503735,
+    830533386,
+    830497465,
+    830522993,
+    830499347,
+    830504988,
+    830497296
+  ],
+  "tags": {
+    "building": "yes",
+    "second_hand": "only",
+    "shop": "car",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
   }
 },
 {
@@ -14174,26 +14240,28 @@
   "type": "way",
   "id": 155326300,
   "center": {
-    "lat": 50.8883110,
-    "lon": 4.7515402
+    "lat": 50.8883189,
+    "lon": 4.7515551
   },
   "nodes": [
-    1677299309,
-    1677299284,
     1677299290,
     1677299311,
-    1677299309
+    1677299309,
+    1677299284,
+    1677299290
   ],
   "tags": {
     "addr:housenumber": "3",
     "addr:street": "Diestsesteenweg",
-    "building": "yes",
+    "building": "retail",
     "contact:email": "info@autoscordons.be",
     "contact:phone": "+32 (0)475 44 66 66",
     "contact:website": "http://www.autoscordons.be/",
     "name": "Cordons",
     "second_hand": "only",
-    "shop": "car"
+    "shop": "car",
+    "source:geometry:date": "2011-05-12",
+    "source:geometry:ref": "Gbg/2900017"
   }
 },
 {
@@ -14931,6 +14999,37 @@
     "second_hand": "only",
     "shop": "clothes",
     "website": "https://www.oxfamsol.be/"
+  }
+},
+{
+  "type": "way",
+  "id": 228949929,
+  "center": {
+    "lat": 50.9449184,
+    "lon": 5.1374185
+  },
+  "nodes": [
+    2375977102,
+    2375977154,
+    2375977151,
+    7920295100,
+    7920295099,
+    7920295098,
+    2375977100,
+    2375977102
+  ],
+  "tags": {
+    "addr:city": "Herk-de-Stad",
+    "addr:country": "BE",
+    "addr:housenumber": "7",
+    "addr:postcode": "3540",
+    "addr:province": "Limburg",
+    "addr:street": "Meerhoutstraat",
+    "addr:suburb": "Donk",
+    "building": "yes",
+    "name": "My Way Haesen",
+    "second_hand": "only",
+    "shop": "car"
   }
 },
 {

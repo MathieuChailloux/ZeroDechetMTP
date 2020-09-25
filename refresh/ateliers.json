@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.56.7 b85c4387",
+  "generator": "Overpass API 0.7.56.6 474850e8",
   "osm3s": {
-    "timestamp_osm_base": "2020-09-16T19:43:03Z",
-    "timestamp_areas_base": "2020-09-16T19:23:03Z",
+    "timestamp_osm_base": "2020-09-25T09:37:02Z",
+    "timestamp_areas_base": "2020-09-25T08:27:03Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -519,6 +519,7 @@
   "lat": 47.2112829,
   "lon": -1.5421668,
   "tags": {
+    "amenity": "workshop",
     "contact:calendar": "https://openagenda.com/ateliers-de-co-reparation/events/atelier-du-pignon",
     "contact:city": "Nantes",
     "contact:email": "lepignon@spationautes.fr",
@@ -532,6 +533,7 @@
     "mapillary": "9vuBGUgBFCk3VpLCOBckIQ",
     "name": "Atelier de co-réparation du Pignon",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour conseils de cartographie.",
+    "office": "association",
     "opening_hours": "We 16:00-20:00",
     "repair": "assisted_self_service",
     "service:bicycle:repair": "yes",
@@ -3468,6 +3470,27 @@
     "service:bicycle:repair": "yes",
     "service:repair": "yes",
     "source": "Envoyé par le gestionnaire"
+  }
+},
+{
+  "type": "node",
+  "id": 7925330858,
+  "lat": 43.5127366,
+  "lon": 1.3222631,
+  "tags": {
+    "addr:city": "Frouzins",
+    "addr:housenumber": "7",
+    "addr:postcode": "31270",
+    "addr:street": "Rue du Vieux Moulin",
+    "amenity": "social_centre",
+    "contact:email": "contact@frouzins-ici.fr",
+    "name": "Frouzins Initiatives Citoyennes (FIC)",
+    "opening_hours": "sa[3] 10:00-12:00",
+    "operator": "FIC",
+    "operator:type": "ngo",
+    "phone:mobile": "+33 783293040",
+    "repair": "assisted_self_service",
+    "website": "https://frouzins-ici.fr"
   }
 },
 {

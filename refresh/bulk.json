@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.7 b85c4387",
   "osm3s": {
-    "timestamp_osm_base": "2020-09-16T19:41:03Z",
-    "timestamp_areas_base": "2020-09-16T19:23:03Z",
+    "timestamp_osm_base": "2020-09-25T09:35:02Z",
+    "timestamp_areas_base": "2020-09-25T08:38:03Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -5728,11 +5728,11 @@
     "addr:postcode": "75006",
     "addr:street": "Boulevard du Montparnasse",
     "brand": "Biocoop",
+    "brand:website": "https://biocoop.fr",
     "brand:wikidata": "Q2904039",
     "brand:wikipedia": "fr:Biocoop",
     "bulk_purchase": "yes",
     "contact:facebook": "https://www.facebook.com/Biocoop-du-Montparnasse-1427897087276124",
-    "contact:website": "https://biocoop.fr",
     "name": "Biocoop du Montparnasse",
     "opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-13:00",
     "organic": "only",
@@ -6134,6 +6134,23 @@
     "operator": "L'Eau Vive",
     "organic": "only",
     "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 3105907533,
+  "lat": 49.8949819,
+  "lon": 2.2966007,
+  "tags": {
+    "addr:city": "Amiens",
+    "addr:housenumber": "14",
+    "addr:postcode": "80000",
+    "addr:street": "Rue Saint-Patrice",
+    "bulk_purchase": "yes",
+    "name": "Biomonde",
+    "operator": "Francis JULLIEN",
+    "organic": "only",
+    "shop": "supermarket"
   }
 },
 {
@@ -7563,6 +7580,37 @@
 },
 {
   "type": "node",
+  "id": 3536327620,
+  "lat": 48.1224845,
+  "lon": -1.7409180,
+  "tags": {
+    "addr:city": "Vezin-le-Coquet",
+    "addr:hamlet": "Le Grand Chevillé",
+    "addr:postcode": "35132",
+    "bulk_purchase": "yes",
+    "change:XLT-GALC": "yes",
+    "currency:XLT": "GALC",
+    "delivery:covid19": "no",
+    "email": "giebrindherbe@orange.fr",
+    "name": "Brin d'Herbe",
+    "opening_hours": "Tu,We,Fr 09:00-19:00; Sa 09:00-17:00",
+    "opening_hours:covid19": "Tu,We,Fr 09:00-19:00; Sa 09:00-17:00",
+    "organic": "yes",
+    "payment:cash": "yes",
+    "payment:cash:XLT-GALC": "yes",
+    "payment:cheque": "yes",
+    "payment:contactless:XLT-GALC": "no",
+    "payment:meal_voucher": "yes",
+    "phone": "+33 2 99 64 79 40",
+    "ref:FR:NAF": "4778C",
+    "ref:FR:SIREN": "521991323",
+    "ref:FR:SIRET": "52199132300010",
+    "shop": "farm",
+    "url": "http://www.brindherbe35.fr/"
+  }
+},
+{
+  "type": "node",
   "id": 3554489123,
   "lat": 50.7402958,
   "lon": 2.2743804,
@@ -8341,9 +8389,9 @@
     "official_name": "Satoriz le bio pour tous !",
     "opening_hours": "Mo-Sa 08:30-19:30",
     "organic": "only",
-    "phone": "+33437401388",
+    "phone": "+33 4 37 40 13 88",
     "shop": "supermarket",
-    "website": "http://www.satoriz.fr/?satoriz=magasin-satoriz-lyon-caluire"
+    "website": "https://www.satoriz.fr/?satoriz=magasin-satoriz-lyon-caluire"
   }
 },
 {
@@ -12200,17 +12248,17 @@
     "addr:street": "Rue Léon Gambetta",
     "bulk_purchase": "only",
     "contact:phone": "+33 3 20 07 62 93",
-    "contact:website": "http://daybyday-shop.com/magasin/lille",
-    "description": "mon épicerie en vrac",
+    "contact:website": "https://daybyday-shop.com/magasin/lille",
+    "description": "Mon épicerie en vrac",
     "description:covid19": "Possibilité de commander avec retrait en magasin.",
     "name": "day by day Lille",
     "opening_hours": "Tu-Sa 09:30-13:00,15:00-19:30, Su 09:25-13:30",
     "opening_hours:covid19": "Tu-Sa 09:00-15:00",
     "operator": "day by day",
     "organic": "yes",
-    "phone": "+33320076293",
+    "phone": "+33 3 20 07 62 93",
     "shop": "convenience",
-    "website": "http://daybyday-shop.com/magasin/lille"
+    "website": "https://daybyday-shop.com/magasin/lille"
   }
 },
 {
@@ -15631,8 +15679,8 @@
 {
   "type": "node",
   "id": 5370595234,
-  "lat": 43.5250155,
-  "lon": 5.4436614,
+  "lat": 43.5251514,
+  "lon": 5.4438257,
   "tags": {
     "addr:city": "Aix-en-Provence",
     "addr:housenumber": "3",
@@ -17769,6 +17817,7 @@
     "brand:wikipedia": "fr:Biocoop",
     "bulk_purchase": "yes",
     "name": "Biocoop",
+    "opening_hours": "Mo-Sa 09:00-19:30",
     "organic": "only",
     "shop": "supermarket",
     "website": "https://www.biocoop-blagnac.fr/"
@@ -18483,10 +18532,12 @@
     "bulk_purchase": "yes",
     "contact:facebook": "https://www.facebook.com/bioandco.bio/",
     "name": "Bio&Co",
+    "opening_hours": "Mo-Sa 09:00-19:30",
     "operator": "Bio&Co",
     "organic": "only",
     "shop": "supermarket",
-    "website": "https://www.bioandco.bio/magasins_bioandco_bio"
+    "website": "https://www.bioandco.bio/magasins_bioandco_bio",
+    "wheelchair": "yes"
   }
 },
 {
@@ -25563,6 +25614,28 @@
 },
 {
   "type": "node",
+  "id": 6283519336,
+  "lat": 46.9476458,
+  "lon": 7.4512638,
+  "tags": {
+    "alt_name": "Palette – Unverpackt Einkaufen",
+    "bulk_purchase": "only",
+    "contact:addr": "Münstergasse 18 , 3011 Bern",
+    "contact:email": "info@palette-bern.ch",
+    "contact:facebook": "https://www.facebook.com/paletteBern",
+    "contact:instagram": "https://www.instagram.com/paletteBern",
+    "name": "Palette",
+    "note": "Angebot an unverpackten, biologischen Lebensmitteln, Hygiene- und Pflegeprodukte",
+    "opening_hours": "Tu 08:00-13:00; Th 15:00-20:00; Fr 15:00-19:00; Sa 09:00-15:00; PH off",
+    "operator": "Genossenschaft Zukunftswerkstatt",
+    "organic": "yes",
+    "shop": "convenience",
+    "website": "http://palette-bern.ch",
+    "zero_waste": "yes"
+  }
+},
+{
+  "type": "node",
   "id": 6284439295,
   "lat": 48.6481481,
   "lon": 6.1833049,
@@ -31472,6 +31545,7 @@
     "bulk_purchase": "yes",
     "contact:facebook": "https://www.facebook.com/epiceriesansemballage/",
     "name": "Les bocaux d'Ana",
+    "opening_hours": "Tu-Sa 10:00-19:00",
     "organic": "yes",
     "shop": "convenience",
     "takeaway:covid19": "only",
@@ -31591,6 +31665,25 @@
     "phone": "+33 3 62 26 34 14",
     "shop": "greengrocer",
     "website": "https://www.fruitsdelaterre.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 7414386258,
+  "lat": 44.5499939,
+  "lon": -0.8683104,
+  "tags": {
+    "addr:city": "Salles",
+    "addr:housenumber": "13",
+    "addr:postcode": "33770",
+    "addr:street": "Place du Champ de Foire",
+    "bulk_purchase": "only",
+    "contact:website": "https://www.facebook.com/Au-Bonheur-du-Vrac-105203767500401/",
+    "name": "Au Bonheur du Vrac",
+    "opening_hours": "Mo-Sa 09:30-13:00,15:00-19:00",
+    "organic": "yes",
+    "shop": "convenience",
+    "start_date": "2020-06-25"
   }
 },
 {
@@ -32488,8 +32581,8 @@
 {
   "type": "node",
   "id": 7778478198,
-  "lat": 48.8410174,
-  "lon": 2.3495485,
+  "lat": 48.8410159,
+  "lon": 2.3495597,
   "tags": {
     "bulk_purchase": "only",
     "name": "Day by Day",
@@ -32497,7 +32590,8 @@
     "organic": "yes",
     "phone": "+33 1 48 87 89 56",
     "shop": "convenience",
-    "website": "https://daybyday-shop.com/magasin/paris5/"
+    "website": "https://daybyday-shop.com/magasin/paris5/",
+    "wheelchair": "yes"
   }
 },
 {
@@ -32599,23 +32693,6 @@
     "organic": "only",
     "shop": "supermarket",
     "website": "https://www.lemarchedeleopold.com/magasin-bio-pian-medoc/"
-  }
-},
-{
-  "type": "node",
-  "id": 7801293150,
-  "lat": 44.5511683,
-  "lon": -0.8703771,
-  "tags": {
-    "addr:city": "Salles",
-    "addr:housenumber": "16",
-    "addr:postcode": "33770",
-    "addr:street": "Place du Champ de Foire",
-    "bulk_purchase": "only",
-    "contact:facebook": "https://www.facebook.com/Au-Bonheur-du-Vrac-105203767500401/",
-    "name": "Au Bonheur du Vrac",
-    "organic": "yes",
-    "shop": "convenience"
   }
 },
 {
@@ -35959,8 +36036,10 @@
     958015898,
     958050294,
     958002542,
+    7940864626,
     958063452,
     958062757,
+    7940864627,
     957986839,
     957965020,
     958050524,
@@ -43440,6 +43519,33 @@
     "shop": "supermarket",
     "source": "cadastre;survey",
     "website": "https://www.source-verte-magasin-bio.fr/"
+  }
+},
+{
+  "type": "way",
+  "id": 618023623,
+  "center": {
+    "lat": 48.0802881,
+    "lon": -1.6018577
+  },
+  "nodes": [
+    5841854661,
+    5841854662,
+    5841854663,
+    5841854664,
+    5841854661
+  ],
+  "tags": {
+    "addr:postcode": "35135",
+    "addr:street": "Allée Gwalarn",
+    "building": "yes",
+    "bulk_purchase": "yes",
+    "description": "Position approximative, nouvelle zone, allées/parking/bâtiments non encore indiquées.",
+    "name": "Brin d'herbe",
+    "opening_hours:covid19": "open",
+    "phone": "+33 2 99 41 48 95",
+    "shop": "supermarket",
+    "website": "https://www.brindherbe35.fr"
   }
 },
 {

@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.56.6 474850e8",
+  "generator": "Overpass API 0.7.56.7 b85c4387",
   "osm3s": {
-    "timestamp_osm_base": "2020-09-16T19:42:02Z",
-    "timestamp_areas_base": "2020-09-16T18:38:02Z",
+    "timestamp_osm_base": "2020-09-25T09:36:02Z",
+    "timestamp_areas_base": "2020-09-25T08:38:03Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -7737,6 +7737,22 @@
 },
 {
   "type": "node",
+  "id": 5973310653,
+  "lat": 50.6199596,
+  "lon": 3.0855502,
+  "tags": {
+    "access": "yes",
+    "amenity": "recycling",
+    "contact:website": "http://www.ajonc.org/",
+    "description": "composteur collectif",
+    "operator": "Ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 6005350042,
   "lat": 43.3004611,
   "lon": -0.3655512,
@@ -9272,7 +9288,7 @@
   "lon": 3.0914339,
   "tags": {
     "amenity": "recycling",
-    "operator": "Ajoncs",
+    "operator": "Ajonc",
     "recycling:compost": "yes",
     "recycling:organic": "yes",
     "recycling_type": "container"
@@ -9284,10 +9300,10 @@
   "lat": 50.6290755,
   "lon": 3.0960566,
   "tags": {
-    "access": "destination",
+    "access": "yes",
     "amenity": "recycling",
     "name": "Composteur Jardin André Ballet",
-    "operator": "Les AJOnc",
+    "operator": "Ajonc",
     "recycling:compost": "yes",
     "recycling:organic": "yes",
     "recycling_type": "container"
@@ -9909,6 +9925,34 @@
 },
 {
   "type": "node",
+  "id": 7315113397,
+  "lat": 50.6272628,
+  "lon": 3.0981595,
+  "tags": {
+    "access": "yes",
+    "amenity": "recycling",
+    "operator": "Ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7315135931,
+  "lat": 50.6215168,
+  "lon": 3.0705873,
+  "tags": {
+    "access": "yes",
+    "amenity": "recycling",
+    "operator": "Ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 7315194887,
   "lat": 50.6142825,
   "lon": 3.0493851,
@@ -9931,6 +9975,34 @@
     "access": "destination",
     "amenity": "recycling",
     "operator": "ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7315247829,
+  "lat": 50.6353243,
+  "lon": 3.0845426,
+  "tags": {
+    "access": "yes",
+    "amenity": "recycling",
+    "operator": "Ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7315346115,
+  "lat": 50.6396293,
+  "lon": 3.0802823,
+  "tags": {
+    "access": "yes",
+    "amenity": "recycling",
+    "operator": "Ajonc",
     "recycling:compost": "yes",
     "recycling:organic": "yes",
     "recycling_type": "container"
@@ -11555,10 +11627,10 @@
 {
   "type": "node",
   "id": 7551346749,
-  "lat": 50.6273041,
-  "lon": 3.1320294,
+  "lat": 50.6270364,
+  "lon": 3.1321081,
   "tags": {
-    "access": "destination",
+    "access": "yes",
     "amenity": "recycling",
     "name": "composteur Le Poteau rose",
     "operator": "ajonc",
@@ -11668,7 +11740,7 @@
   "lat": 50.5411514,
   "lon": 3.0250410,
   "tags": {
-    "access": "destination",
+    "access": "yes",
     "amenity": "recycling",
     "name": "Composteur jardin du riez",
     "operator": "ajonc",
@@ -11822,6 +11894,7 @@
   "lat": 50.6124425,
   "lon": 3.0556239,
   "tags": {
+    "access": "customers",
     "amenity": "recycling",
     "operator": "ajonc",
     "recycling:compost": "yes",
@@ -12111,11 +12184,13 @@
 {
   "type": "node",
   "id": 7831593933,
-  "lat": 50.5927073,
-  "lon": 3.0804206,
+  "lat": 50.5923009,
+  "lon": 3.0805833,
   "tags": {
+    "access": "yes",
     "amenity": "recycling",
     "operator": "AJONCs",
+    "recycling:compost": "yes",
     "recycling:organic": "yes",
     "recycling_type": "container"
   }
@@ -12138,8 +12213,10 @@
   "lat": 50.6203710,
   "lon": 3.0608755,
   "tags": {
+    "access": "yes",
     "amenity": "recycling",
-    "operator": "AJONCs",
+    "operator": "Ajonc",
+    "recycling:compost": "yes",
     "recycling:organic": "yes",
     "recycling_type": "container"
   }
@@ -12150,9 +12227,11 @@
   "lat": 50.6228567,
   "lon": 3.0578340,
   "tags": {
+    "access": "yes",
     "amenity": "recycling",
     "opening_hours": "24/7",
-    "operator": "AJONCs",
+    "operator": "Ajonc",
+    "recycling:compost": "yes",
     "recycling:organic": "yes",
     "recycling_type": "container"
   }
@@ -12325,6 +12404,204 @@
     "amenity": "recycling",
     "recycling:green_waste": "yes",
     "recycling:organic": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7932151168,
+  "lat": 50.6522779,
+  "lon": 3.0399629,
+  "tags": {
+    "access": "customers",
+    "amenity": "recycling",
+    "operator": "Ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7932161879,
+  "lat": 50.6314378,
+  "lon": 3.1007686,
+  "tags": {
+    "access": "yes",
+    "amenity": "recycling",
+    "operator": "Ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7932174552,
+  "lat": 50.6981163,
+  "lon": 2.8863652,
+  "tags": {
+    "access": "customers",
+    "amenity": "recycling",
+    "operator": "Ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7932188981,
+  "lat": 50.6975715,
+  "lon": 2.8846257,
+  "tags": {
+    "access": "yes",
+    "amenity": "recycling",
+    "operator": "Ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7932198600,
+  "lat": 50.6995753,
+  "lon": 2.8877097,
+  "tags": {
+    "access": "customers",
+    "amenity": "recycling",
+    "operator": "Ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7932206239,
+  "lat": 50.6089364,
+  "lon": 3.0629119,
+  "tags": {
+    "access": "yes",
+    "amenity": "recycling",
+    "operator": "Ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7932232548,
+  "lat": 50.6250282,
+  "lon": 3.0905830,
+  "tags": {
+    "access": "yes",
+    "amenity": "recycling",
+    "fixme": "à replacer",
+    "operator": "Ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7932309136,
+  "lat": 50.6353953,
+  "lon": 3.0912776,
+  "tags": {
+    "access": "yes",
+    "amenity": "recycling",
+    "operator": "Ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7932320838,
+  "lat": 50.6319713,
+  "lon": 3.0981639,
+  "tags": {
+    "access": "customers",
+    "amenity": "recycling",
+    "operator": "Ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7932348312,
+  "lat": 50.6222104,
+  "lon": 3.0505512,
+  "tags": {
+    "access": "yes",
+    "amenity": "recycling",
+    "operator": "Ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7932348449,
+  "lat": 50.6196334,
+  "lon": 3.0712988,
+  "tags": {
+    "access": "yes",
+    "amenity": "recycling",
+    "operator": "ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7932348854,
+  "lat": 50.6383889,
+  "lon": 3.0903997,
+  "tags": {
+    "access": "yes",
+    "amenity": "recycling",
+    "fixme": "à replacer",
+    "operator": "Ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7932371484,
+  "lat": 50.6206967,
+  "lon": 3.0516581,
+  "tags": {
+    "access": "yes",
+    "amenity": "recycling",
+    "operator": "Ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7932373203,
+  "lat": 50.6424885,
+  "lon": 3.0890581,
+  "tags": {
+    "access": "yes",
+    "amenity": "recycling",
+    "operator": "Ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
   }
 },
 {
