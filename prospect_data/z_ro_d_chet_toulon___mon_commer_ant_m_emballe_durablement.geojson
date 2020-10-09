@@ -1,0 +1,580 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Autour d'un jus - Bar à jus et restauration",
+        "description": "Bar à jus et smoothies. Restauration sur place et à emporter.\n--- 772 Avenue Jean Monnet, 83190 Ollioules\n06 31 45 17 08\nhttps://www.facebook.com/autourdunjus/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.854683,
+          43.127741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "Blue"
+        },
+        "name": "Fromagerie Grosso",
+        "description": "Fait partie d'un groupement de fromagers \"développement durable\"\n--- 9 Rue Lamalgue, Mourillon, TOULON\nfromageriegrosso@hotmail.fr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.938636,
+          43.111851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "Blue"
+        },
+        "name": "La boîte à biscuits - Galleau",
+        "description": "Biscuiterie artisanale\n--- 10 rue de la République, La Seyne-sur-Mer\n06 08 71 18 96\nhttps://www.facebook.com/La-Bo%C3%AEte-%C3%A0-Biscuits-Galleau-192049120943814/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.879874,
+          43.101621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "iconUrl": "/uploads/pictogram/butcher-24_JsrMyeY.png"
+        },
+        "name": "La Boucherie De La Place",
+        "description": "5 % de remise si on vient avec son contenant !\n--- 8 place Paul Flamenq Le Pradet\n04 94 75 59 59"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.022074,
+          43.106372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "Blue",
+          "showLabel": null,
+          "iconUrl": "/uploads/pictogram/gift-24_xTF7z7O.png"
+        },
+        "name": "La Boutique de Provence",
+        "description": "42 rue Paul Lendrin, Toulon\n04 94 63 57 30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.934811,
+          43.122913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "Blue",
+          "showLabel": null
+        },
+        "name": "La fromagerie du Las",
+        "description": "11 place du jeu de Paume, Toulon\n06 32 77 31 42\nhttps://www.facebook.com/La-Fromagerie-Du-Las-285195512423683/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.914341,
+          43.129072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "Blue",
+          "showLabel": null
+        },
+        "name": "Le petit biscuitier",
+        "description": "Fabricant de biscuits.\n--- 8 rue Pierre Sémard, TOULON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.930525,
+          43.122819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "Blue",
+          "showLabel": null
+        },
+        "name": "Le vermicellier",
+        "description": "Avenue Sadi Carnot, La Garde\n06 03 67 44 71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.00876,
+          43.124534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aux pains spéciaux de Rossana - Boulangerie artisanale",
+        "description": "Pains et spécialités italiennes (focaccia, brioccia, plats cuisinés) bio et végan.\n--- Atelier au 2 ter avenue Pierre Fraysse, La Seyne-sur-Mer\nVente au domaine de Fabrégas, à La Criée, etc.\n06 59 30 55 50\nhttps://www.facebook.com/Aux-Pains-Speciaux-de-Rossana-198540850907525/\n",
+        "_umap_options": {
+          "iconUrl": "/uploads/pictogram/bakery-24_P69yULX.png",
+          "color": "GreenYellow"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.884616,
+          43.099087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Avenir Natur'L",
+        "description": "Lætitia, créatrice de produits d'entretien naturels, consignés et de produits pour le zéro déchet.\nLe truc en + : bocaux et bouteilles consignés.\n--- Siège au 86 chemin Arnaud, La Seyne-sur-Mer\nVente en itinérance\n06 63 76 81 43\navenirnaturl@gmail.com\nhttps://www.facebook.com/AvenirNaturL/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.875475,
+          43.098676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chez Magali - Torréfacteur",
+        "description": "Torréfaction et vente de café et thé en vrac ou en dosette.\n--- 14 rue de Lorgues 83000 Toulon\n04 94 92 21 75\nhttps://www.facebook.com/cafesmagali/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.935224,
+          43.123195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chez Marcel & Fils Volailles",
+        "description": "Volailles, lapins, pintades, œufs bio.\n--- Vente au marché quotidien de Sanary (sauf le dimanche)\nSiège au 1130 chemin Rouve 83330 Le Beausset\n04 94 98 74 74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.792885,
+          43.18606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chez Pitchou - Boulangerie bio",
+        "description": "Tous les pains sont bio, au levain et vendus au poids.\nSandwiches frais à la demande.\n--- 1695 avenue Joseh Gasquet 83100 Toulon\n04 94 08 19 47\nhttps://www.facebook.com/ChezPitchou/",
+        "_umap_options": {
+          "iconUrl": "/uploads/pictogram/bakery-24_P69yULX.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9727,
+          43.122318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "GreenYellow",
+          "iconUrl": "/uploads/pictogram/greengrocer-24_90iJP2Q.png"
+        },
+        "name": "De la graine au panier",
+        "description": "14 rue jean-Baptiste Lavene, La Garde\n06 35 60 76 73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.009967,
+          43.123755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "9 place de la république, La Garde\n06 52 95 11 09",
+        "name": "Fromagerie Label des champs",
+        "_umap_options": {
+          "color": "GreenYellow"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0098,
+          43.124233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "L'aquarelle des Saveurs",
+        "description": "Épicerie fine : cafés, thés, épices.\n--- 23 rue Barthélémy 83110 Sanary sur Mer\n04 94 74 84 87\nhttp://www.laquarelledessaveurs.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.802444,
+          43.118915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "L'Econome - Association",
+        "description": "L'économe collecte les fruits et légumes invendus de producteurs et maraîchers locaux, en distribue une part aux associations caritatives et valorise l'autre part en bocaux pour développer une économie positive et responsable.\n--- Siège à Belgentier, vente en itinérance\n06 09 22 42 79\nhttps://www.facebook.com/associationleconome/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.000552,
+          43.244503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La corbeille d'Orient - Epicerie fine orientale",
+        "description": "Vente en vrac de légumes secs, riz, épices, fruits secs et fruits confits.\n--- 16 rue de Lorgues 83000 Toulon\n04 94 87 92 86\nlacorbeilledorient83@live.fr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.935289,
+          43.123258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "iconUrl": "/uploads/pictogram/convenience-24_W22NTg8.png"
+        },
+        "name": "La criée",
+        "description": "Fruits et légumes locaux, fromagerie, petite charcuterie.\nLe + : vente en vrac (riz, pâtes, etc)\n--- ZA Bassaquet, lot n°286, Six-Fours-les-Plages\n06 46 78 80 72\nhttps://www.facebook.com/La-CRIEE-fruits-et-l%C3%A9gumes-vente-en-gros-et-d%C3%A9tail-1463086660667583/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.844968,
+          43.11984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La maison de Florette - Boulangerie",
+        "description": "3 rue des écoles, Sollies-Toucas",
+        "_umap_options": {
+          "iconUrl": "/uploads/pictogram/bakery-24_P69yULX.png",
+          "color": "GreenYellow"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.025137,
+          43.206349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La reine des tartes",
+        "description": "Restaurant sur place et à emporter, cuisine sans gluten\n--- 3 place Louis Blanc, TOULON\n0645688487\nlareinedestartes.toulon@gmail.com",
+        "_umap_options": {
+          "iconUrl": "/uploads/pictogram/restaurant-24_5faz1Oj.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.934264,
+          43.119969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "GreenYellow",
+          "showLabel": null,
+          "iconUrl": "/uploads/pictogram/restaurant-24_5faz1Oj.png"
+        },
+        "name": "La Saladerie HEP",
+        "description": "Le + : contenants recyclables et compostables\n--- 98 forum de la Méditerranée, Ollioules\n04 94 30 64 73\nhepsaladbar@gmail.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.868641,
+          43.125415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le comptoir des Fromages",
+        "description": "Amandine et Bruno proposent du fromage fermier et au lait cru, de la charcuterie, de la bière locale et du vin biologique.\n--- 5 rue de la paix 83000 Toulon\n04 83 42 48 69\nhttps://www.facebook.com/Comptoir-des-fromages-613931645403564/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.930364,
+          43.124483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "showLabel": null,
+          "color": "GreenYellow"
+        },
+        "name": "Le Fromager des Clarines",
+        "description": "65 cours Lafayette, Toulon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.934779,
+          43.121942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Les Pâtes...",
+        "description": "Fabrication journalière de pâtes fraîches et plats cuisinés.\n--- Avenue Pablo Neruda, Mar-vivo\n83500 La Seyne-Sur-Mer\n04 94 94 27 83\nhttps://www.facebook.com/lespates83/\nCommande en ligne sur https://www.lespates.fr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.885362,
+          43.081294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maison Mado - Biscuiterie artisanale",
+        "description": "Biscuiterie artisanale sucrée et salée.\nLe truc en + : accepte la fève !\n--- Atelier au 18 avenue Maréchal Joffre, Cuers - Vente en itinérance\n06 73 65 30 85\nhttps://www.facebook.com/maisonmado.france/",
+        "_umap_options": {
+          "color": "GreenYellow"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.071706,
+          43.236277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maraîcher bio - Bruno Oberti",
+        "description": "Producteur de légumes bio au domaine de Fabrégas, Bruno vend ses légumes le samedi matin (9-12h) et le mercredi après-midi (14-17h en hiver, 16-19h en été).\nIl ouvre son hangar à d’autres artisans ou producteurs locaux : Rossana et ses pains spéciaux, Maison Mado (biscuits artisanaux), Avenir Natur'L, etc.\n--- 182 chemin de Fabrégas aux Moulières\n83500 La Seyne sur mer\nobertibruno@yahoo.fr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8709,
+          43.07466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Métamorphozes",
+        "description": "Laure Moretti coud des sacs à vrac, des tote bags, des lingettes démaquillantes et propose des préparations culinaires à bases de produits en vrac.\n--- Siège au 245 chemin Arnaud, La Seyne sur mer - Vente en itinérance\n07 83 72 50 69\nhttps://www.facebook.com/Metamorphozes.laseyne/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.876591,
+          43.097881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oliosco",
+        "description": "Fabrication artisanale et écologique de savons aux plantes de Méditerranée avec saponification à froid : le meilleur pour la peau et la planète.\n--- Siège au Quartier paradis, CARQUEIRANNE - Vente en itinérance\n06 04 16 23 28\nhttps://www.facebook.com/Oliosco-1004692516352136/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.076469,
+          43.091112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "iconUrl": "/uploads/pictogram/greengrocer-24_90iJP2Q.png"
+        },
+        "name": "Tini le maraîcher",
+        "description": "Production et vente de fruits et légumes en agriculture raisonnée\n--- 2021 route de l'Almanarre, Hyères\n06 11 88 23 78\nhttps://www.facebook.com/TINI-Le-mara%C3%AEcher-de-lAlmanarre-255301436433/\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.129127,
+          43.08779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "Green",
+          "showLabel": null,
+          "iconUrl": "/uploads/pictogram/greengrocer-24_90iJP2Q.png",
+          "iconClass": "Drop"
+        },
+        "name": "L'épicerie simple",
+        "description": "Le + : vin et huile d'olive en vrac\n--- 48 cours Lafayette, Toulon\n06 60 88 05 05\nmanu@lepicerie.simple.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.935004,
+          43.122416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "Green",
+          "showLabel": null,
+          "iconUrl": "/uploads/pictogram/greengrocer-24_90iJP2Q.png"
+        },
+        "name": "L’Éden Épicerie Paysanne",
+        "description": "Le + : produits locaux en agriculture raisonnée et vente en vrac\n--- 4 rue Corneille, TOULON\n09 83 78 27 23\nhttps://www.facebook.com/leden.epiceriepayanne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.933277,
+          43.124194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Réserve - Epicerie de vrac",
+        "description": "C'est l'épicerie modèle du zéro déchet !\n--- 56 Rue Vincent Raspail, La Garde\n04 94 28 14 36\nhttps://www.facebook.com/LaReservedeChicoetLoca/",
+        "_umap_options": {
+          "iconUrl": "/uploads/pictogram/convenience-24_W22NTg8.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.01001,
+          43.125286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le bric à vrac",
+        "description": "Le + : première épicerie Vrac du Var, c'est l'épicerie modèle !\n--- 1 avenue de la Mer, Saint-Cyr sur Mer\n09 87 59 88 78\nhttps://www.facebook.com/lebricavrac/",
+        "_umap_options": {
+          "iconUrl": "/uploads/pictogram/convenience-24_W22NTg8.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.695349,
+          43.1804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terre de potage",
+        "description": "Epicerie de producteurs locaux en agriculture bio ou raisonnée, produits vracs\n--- 1 rue Gabriel Peri, Pierrefeu du Var\n04 84 41 31 05\nhttps://www.facebook.com/Terres-de-Potage-110928426919156/",
+        "_umap_options": {
+          "iconUrl": "/uploads/pictogram/greengrocer-24_90iJP2Q.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.143546,
+          43.227038
+        ]
+      }
+    }
+  ]
+}
