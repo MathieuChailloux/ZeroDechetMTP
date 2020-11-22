@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.56.6 474850e8",
+  "generator": "Overpass API 0.7.56.8 7d656e78",
   "osm3s": {
-    "timestamp_osm_base": "2020-09-25T09:37:02Z",
-    "timestamp_areas_base": "2020-09-25T08:27:03Z",
+    "timestamp_osm_base": "2020-11-22T16:53:03Z",
+    "timestamp_areas_base": "2020-11-22T16:12:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -111,6 +111,34 @@
     "service:bicycle:repair": "yes",
     "service:bicycle:second_hand": "yes",
     "source": "Envoyé par formulaire 01/2020"
+  }
+},
+{
+  "type": "node",
+  "id": 5458740372,
+  "lat": 48.6607846,
+  "lon": 6.1679804,
+  "tags": {
+    "amenity": "workshop",
+    "club": "doityourself",
+    "contact:email": "repaircafe@mjclorraine.com",
+    "contact:facebook": "https://www.facebook.com/repaircafegrandnancy/",
+    "contact:phone": "+33 3 83159000",
+    "image": "https://repairgrandnancy.fr/wp-content/uploads/2020/09/logo-repair-cafe-2020-grand-nancy.jpg",
+    "level": "1",
+    "name": "Repair Café Vandoeuvre",
+    "opening_hours": "Mo[1] 19:00-22:00",
+    "operator": "MJC Lorraine",
+    "repair": "assisted_self_service",
+    "service:bicycle:repair": "yes",
+    "service:computer:repair": "yes",
+    "service:fabrik:repair": "yes",
+    "service:furniture:repair": "yes",
+    "service:mobile_phone:repair": "yes",
+    "service:repair": "yes",
+    "service:small_electronics_device:repair": "yes",
+    "source": "survey",
+    "website": "https://repairgrandnancy.fr/vandoeuvre/"
   }
 },
 {
@@ -2577,7 +2605,7 @@
     "contact:website": "http://repaircafeouestbordeaux.org",
     "description": "Nous vous donnons rendez-vous à notre prochain atelier réparations pour réparer ensemble votre objet en panne: – cafetière, mixer, sèche cheveux, fer à repasser, grille pain – vélo – jouet – chaise, petit meuble en bois – lampe, ordinateur, alimentation..",
     "image": "http://repaircafeouestbordeaux.org/wp-content/uploads/Affiche-le-Bourg.jpg",
-    "name": "Repair Café Ouest Bordeaux - à la grange du château Lescombes  - Eysines",
+    "name": "Repair Café Ouest Bordeaux - à la grange du château Lescombes - Eysines",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
     "opening_hours": "Un samedi par mois 14:00-18:00",
     "operator": "Association Repair Café Ouest Bordeaux",
@@ -3369,13 +3397,25 @@
 },
 {
   "type": "node",
+  "id": 7620756759,
+  "lat": 47.2174533,
+  "lon": -1.6420631,
+  "tags": {
+    "amenity": "workshop",
+    "name": "Repair Café Saint Herblain Sillon",
+    "repair": "assisted_self_service"
+  }
+},
+{
+  "type": "node",
   "id": 7745737700,
   "lat": 47.3870354,
   "lon": 8.5202517,
   "tags": {
-    "amenity": "workshop",
+    "description": "Klimawerkstatt - Reparatur von Alltagsgegenständen, Workshops, Repaircafé",
     "name": "Share & Repair",
     "repair": "assisted_self_service",
+    "start_date": "25.09.2020",
     "website": "https://site.share.repair/"
   }
 },
@@ -3491,6 +3531,122 @@
     "phone:mobile": "+33 783293040",
     "repair": "assisted_self_service",
     "website": "https://frouzins-ici.fr"
+  }
+},
+{
+  "type": "node",
+  "id": 7953705885,
+  "lat": 48.3419591,
+  "lon": -0.8573923,
+  "tags": {
+    "amenity": "workshop",
+    "contact:city": "Saint-Denis-de-Gastines",
+    "contact:facebook": "https://fr-fr.facebook.com/tierslieusddg/",
+    "contact:housenumber": "2",
+    "contact:postcode": "53500",
+    "contact:street": "rue de Bretagne",
+    "description": "Les habitants sont invités à apporter des petits matériels en panne, afin de les réparer ensemble.",
+    "image": "https://scontent-cdt1-1.xx.fbcdn.net/v/t1.0-9/87385319_500524720636866_4281537435776581632_o.jpg?_nc_cat=110&_nc_sid=8024bb&_nc_ohc=79E_95YPtp8AX-SB2HX&_nc_ht=scontent-cdt1-1.xx&oh=1b14fd655f58dc4e04337790c452d803&oe=5F9A0D5F",
+    "name": "Répar' Café de Saint-Denis-de-Gastines",
+    "network": "Repair Café",
+    "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
+    "opening_hours:url": "Consulter la page Facebook",
+    "operator": "Tiers-Lieu de Saint-Denis-de-Gastines",
+    "repair": "assisted_self_service",
+    "service:bicycle:repair": "yes",
+    "service:computer:repair": "yes",
+    "service:fabrik:repair": "yes",
+    "service:furniture:repair": "yes",
+    "service:mobile_phone:repair": "yes",
+    "service:repair": "yes",
+    "service:small_electronics_device:repair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7997199985,
+  "lat": 47.4383204,
+  "lon": -1.4989606,
+  "tags": {
+    "amenity": "workshop",
+    "contact:city": "Nort-Sur-Erdre",
+    "contact:email": "gil_guerin@yahoo.fr",
+    "contact:facebook": "https://www.facebook.com/repair.cafe.erdre.gesvres/",
+    "contact:housenumber": "rue de la Fraternité",
+    "contact:phone": "+33 6 08 74 37 94",
+    "contact:postcode": "44390",
+    "contact:street": "Salle Sud",
+    "description": "Réparer ensemble les objets abimés ou cassés, le conseil d'experts, une rencontre, l'inspiration. Tarif libre",
+    "image": "http://mieuxtrieranantes.fr/docs/medias/AteliersReparationCollaboratifs/repair_cafe_nort_sur_erdre.png",
+    "name": "Repair Café d'Erdre et Gesvres, à Nort-Sur-Erdre",
+    "network": "Repair Café",
+    "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
+    "opening_hours:url": "Consulter la page Facebook",
+    "operator": "porté par l'Association les Petits ruisseaux, en attendant la création d'une association spécifique",
+    "repair": "assisted_self_service",
+    "service:bicycle:repair": "yes",
+    "service:computer:repair": "yes",
+    "service:fabrik:repair": "yes",
+    "service:furniture:repair": "yes",
+    "service:mobile_phone:repair": "yes",
+    "service:repair": "yes",
+    "service:small_electronics_device:repair": "yes",
+    "source": "Visite 10/2020"
+  }
+},
+{
+  "type": "node",
+  "id": 7997219385,
+  "lat": 47.3313611,
+  "lon": -1.6956469,
+  "tags": {
+    "amenity": "workshop",
+    "contact:city": "Vigneux-de-Bretagne",
+    "contact:email": "gil_guerin@yahoo.fr",
+    "contact:facebook": "https://www.facebook.com/repair.cafe.erdre.gesvres/",
+    "contact:housename": "Salle Jules Verne",
+    "contact:phone": "+33 6 08 74 37 94",
+    "contact:postcode": "44360",
+    "contact:street": "Rue de la Galtière",
+    "contact:website": "https://www.facebook.com/repair.cafe.erdre.gesvres/",
+    "description": "Réparer ensemble les objets abimés ou cassés, le conseil d'experts, une rencontre, l'inspiration. Tarif libre",
+    "image": "http://mieuxtrieranantes.fr/docs/medias/AteliersReparationCollaboratifs/repair_cafe_nort_sur_erdre.png",
+    "name": "Repair Café Erdre Et Gesvres, à La Pâquelais",
+    "network": "Repair Café",
+    "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
+    "opening_hours:url": "Consulter le facebook",
+    "operator": "Porté par l'assocation Les Petits Ruisseaux, en attendant la création d'une association",
+    "repair": "assisted_self_service",
+    "service:bicycle:repair": "yes",
+    "service:computer:repair": "yes",
+    "service:fabrik:repair": "yes",
+    "service:furniture:repair": "yes",
+    "service:mobile_phone:repair": "yes",
+    "service:repair": "yes",
+    "service:small_electronics_device:repair": "yes",
+    "source": "Visite à Nort le 10/2020"
+  }
+},
+{
+  "type": "node",
+  "id": 8118013617,
+  "lat": 46.1194198,
+  "lon": 1.0488322,
+  "tags": {
+    "amenity": "workshop",
+    "contact:email": "celine.bonnet@famillesrurales.org",
+    "contact:facebook": "https://www.facebook.com/atelierdupalais",
+    "name": "Repair Café Tier-lieu L'@telier du palais Bellac",
+    "network": "Repair Café",
+    "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
+    "repair": "assisted_self_service",
+    "service:bicycle:repair": "yes",
+    "service:computer:repair": "yes",
+    "service:fabrik:repair": "yes",
+    "service:furniture:repair": "yes",
+    "service:mobile_phone:repair": "yes",
+    "service:repair": "yes",
+    "service:small_electronics_device:repair": "yes"
   }
 },
 {

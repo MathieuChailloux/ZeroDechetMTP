@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.7 b85c4387",
   "osm3s": {
-    "timestamp_osm_base": "2020-09-25T09:36:02Z",
-    "timestamp_areas_base": "2020-09-25T08:38:03Z",
+    "timestamp_osm_base": "2020-11-22T16:53:03Z",
+    "timestamp_areas_base": "2020-11-22T15:49:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -394,18 +394,6 @@
 },
 {
   "type": "node",
-  "id": 2493670253,
-  "lat": 45.1763144,
-  "lon": 5.7223481,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:green_waste": "yes",
-    "recycling:organic": "yes",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
   "id": 2517385568,
   "lat": 47.2351873,
   "lon": 6.0266376,
@@ -593,7 +581,9 @@
     "amenity": "recycling",
     "recycling:operator": "Rennes Métropole",
     "recycling:organic": "yes",
-    "recycling_type": "container"
+    "recycling_type": "container",
+    "ref": "_CMP 0115",
+    "source": "Localisation des composteurs collectifs - Rennes Métropole"
   }
 },
 {
@@ -2165,20 +2155,6 @@
     "recycling:organic": "yes",
     "recycling_type": "container",
     "ref": "_CMP 0114",
-    "source": "Localisation des composteurs collectifs - Rennes Métropole"
-  }
-},
-{
-  "type": "node",
-  "id": 4020752236,
-  "lat": 48.0998480,
-  "lon": -1.6540970,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:operator": "Rennes Métropole",
-    "recycling:organic": "yes",
-    "recycling_type": "container",
-    "ref": "_CMP 0115",
     "source": "Localisation des composteurs collectifs - Rennes Métropole"
   }
 },
@@ -5686,8 +5662,8 @@
 {
   "type": "node",
   "id": 4020753494,
-  "lat": 48.0819690,
-  "lon": -1.7738100,
+  "lat": 48.0822211,
+  "lon": -1.7733882,
   "tags": {
     "amenity": "recycling",
     "recycling:operator": "Rennes Métropole",
@@ -6933,6 +6909,18 @@
   "tags": {
     "amenity": "recycling",
     "location": "overground",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 5242699993,
+  "lat": 48.5932213,
+  "lon": 7.7581163,
+  "tags": {
+    "amenity": "recycling",
+    "opening_hours": "Sa 09:00-12:00",
     "recycling:organic": "yes",
     "recycling_type": "container"
   }
@@ -9347,12 +9335,12 @@
 {
   "type": "node",
   "id": 7006357976,
-  "lat": 48.7938139,
-  "lon": 2.3365597,
+  "lat": 48.7938063,
+  "lon": 2.3365561,
   "tags": {
     "amenity": "recycling",
+    "description": "Composteur partagé",
     "mapillary": "MNzeN24VemHDnJRs8EKmDw",
-    "name": "Composteur partagé",
     "recycling:green_waste": "yes",
     "recycling:organic": "yes",
     "recycling_type": "container"
@@ -9489,19 +9477,6 @@
 },
 {
   "type": "node",
-  "id": 7121803504,
-  "lat": 46.4604746,
-  "lon": 6.8421472,
-  "tags": {
-    "amenity": "recycling",
-    "location": "overground",
-    "recycling:cans": "yes",
-    "recycling:clothes": "yes",
-    "recycling:organic": "yes"
-  }
-},
-{
-  "type": "node",
   "id": 7125062223,
   "lat": 48.1113793,
   "lon": -1.6880865,
@@ -9520,6 +9495,19 @@
     "amenity": "recycling",
     "recycling:organic": "yes",
     "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7159098257,
+  "lat": 48.7079675,
+  "lon": 5.8045015,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:green_waste": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container",
+    "source": "survey;Ortho HR"
   }
 },
 {
@@ -9704,11 +9692,9 @@
   "lat": 43.2977615,
   "lon": -0.3613881,
   "tags": {
-    "addr:city": "Pau",
-    "addr:housenumber": "2",
-    "addr:street": "Rue Carrérot",
+    "access": "private",
     "amenity": "recycling",
-    "name": "Composteur Collectif Résidence d'Espagne",
+    "description": "Composteur Collectif Résidence d'Espagne",
     "recycling:green_waste": "yes",
     "recycling:organic": "yes",
     "recycling_type": "container"
@@ -9785,6 +9771,7 @@
   "lon": 2.1782819,
   "tags": {
     "amenity": "recycling",
+    "recycling:compost": "yes",
     "recycling:organic": "yes",
     "recycling_type": "container",
     "waste": "organic"
@@ -9915,6 +9902,7 @@
     "access": "customers",
     "amenity": "recycling",
     "description": "Accessible aux inscrits pendant les permanences",
+    "name": "Composteur Hellemmes Centre",
     "operator": "des Jardins et des Hommes",
     "owner": "Métropole Européenne de Lille",
     "recycling:compost": "yes",
@@ -9931,6 +9919,7 @@
   "tags": {
     "access": "yes",
     "amenity": "recycling",
+    "name": "Composteur Le Bizardin",
     "operator": "Ajonc",
     "recycling:compost": "yes",
     "recycling:organic": "yes",
@@ -9957,8 +9946,9 @@
   "lat": 50.6142825,
   "lon": 3.0493851,
   "tags": {
-    "access": "permissive",
+    "access": "customers",
     "amenity": "recycling",
+    "name": "Composteur Jardin du Sud",
     "operator": "des Jardins et des Hommes",
     "owner": "Métropole Européenne de Lille",
     "recycling:compost": "yes",
@@ -9974,6 +9964,7 @@
   "tags": {
     "access": "destination",
     "amenity": "recycling",
+    "name": "composteur Jardin au fil du temps",
     "operator": "ajonc",
     "recycling:compost": "yes",
     "recycling:organic": "yes",
@@ -10343,13 +10334,18 @@
   "lon": 3.1521159,
   "tags": {
     "access": "yes",
-    "amenity": "recycling",
+    "addr:city": "Tourcoing",
+    "addr:country": "FR",
+    "addr:housenumber": "100",
+    "addr:postcode": "59200",
+    "addr:street": "Rue de Lille",
     "name": "Maison des associations",
     "operator": "des Jardins et des Hommes",
     "owner": "Métropole Européenne de Lille",
+    "phone": "03 20 26 72 38",
     "recycling:compost": "yes",
     "recycling:organic": "yes",
-    "recycling_type": "container"
+    "website": "mda-tourcoing.fr"
   }
 },
 {
@@ -11316,7 +11312,7 @@
   "lon": 2.3367126,
   "tags": {
     "amenity": "recycling",
-    "name": "Composteur partagé",
+    "description": "Composteur partagé",
     "recycling:green_waste": "yes",
     "recycling:organic": "yes",
     "recycling_type": "container"
@@ -11329,7 +11325,7 @@
   "lon": 2.3286306,
   "tags": {
     "amenity": "recycling",
-    "name": "Composteur partagé",
+    "description": "Composteur partagé",
     "recycling:green_waste": "yes",
     "recycling:organic": "yes",
     "recycling_type": "container"
@@ -11728,6 +11724,7 @@
   "tags": {
     "access": "destination",
     "amenity": "recycling",
+    "name": "Composteur Jardin de Méta'Lunaire",
     "operator": "ajonc",
     "recycling:compost": "yes",
     "recycling:organic": "yes",
@@ -11882,6 +11879,7 @@
   "tags": {
     "access": "destination",
     "amenity": "recycling",
+    "name": "Composteur Jardin des Agrions",
     "operator": "ajonc",
     "recycling:compost": "yes",
     "recycling:organic": "yes",
@@ -11896,6 +11894,8 @@
   "tags": {
     "access": "customers",
     "amenity": "recycling",
+    "fixme": "mettre au bon endroit",
+    "name": "Composteur Jardin Lazare Garden",
     "operator": "ajonc",
     "recycling:compost": "yes",
     "recycling:organic": "yes",
@@ -12189,7 +12189,8 @@
   "tags": {
     "access": "yes",
     "amenity": "recycling",
-    "operator": "AJONCs",
+    "name": "Composteur Jardin partagé Mandela",
+    "operator": "AJONC",
     "recycling:compost": "yes",
     "recycling:organic": "yes",
     "recycling_type": "container"
@@ -12239,11 +12240,11 @@
 {
   "type": "node",
   "id": 7867823245,
-  "lat": 48.7932743,
-  "lon": 2.3318703,
+  "lat": 48.7932715,
+  "lon": 2.3318950,
   "tags": {
     "amenity": "recycling",
-    "name": "Composteur partagé",
+    "description": "Composteur partagé",
     "recycling:green_waste": "yes",
     "recycling:organic": "yes",
     "recycling_type": "container"
@@ -12288,20 +12289,6 @@
     "access": "customers",
     "amenity": "recycling",
     "name": "Composteur L'îlot 26 / Un bio potager au Marais",
-    "operator": "Ajonc",
-    "recycling:compost": "yes",
-    "recycling:organic": "yes",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
-  "id": 7900260456,
-  "lat": 50.6312899,
-  "lon": 3.1019343,
-  "tags": {
-    "amenity": "recycling",
-    "name": "Composteur Jardin Les Sheds du Coin du monde",
     "operator": "Ajonc",
     "recycling:compost": "yes",
     "recycling:organic": "yes",
@@ -12360,6 +12347,7 @@
   "tags": {
     "access": "customers",
     "amenity": "recycling",
+    "name": "Composteur Jardin Arcadis",
     "operator": "Ajonc",
     "recycling:compost": "yes",
     "recycling:organic": "yes",
@@ -12428,6 +12416,8 @@
   "tags": {
     "access": "yes",
     "amenity": "recycling",
+    "description": "Site mis en place et gérés par l'association AJONC, sont en accès libre, 24h/24h, 7/7 jours. Contact : Association des Jardins Ouverts et Néanmoins Clôturés 03 28 55 03 30 – ajonc@free.fr",
+    "name": "Composteur Au coin du monde",
     "operator": "Ajonc",
     "recycling:compost": "yes",
     "recycling:organic": "yes",
@@ -12484,6 +12474,7 @@
   "tags": {
     "access": "yes",
     "amenity": "recycling",
+    "name": "Composteur Parc Tudor",
     "operator": "Ajonc",
     "recycling:compost": "yes",
     "recycling:organic": "yes",
@@ -12493,12 +12484,13 @@
 {
   "type": "node",
   "id": 7932232548,
-  "lat": 50.6250282,
-  "lon": 3.0905830,
+  "lat": 50.6251019,
+  "lon": 3.0912088,
   "tags": {
     "access": "yes",
     "amenity": "recycling",
-    "fixme": "à replacer",
+    "description": "Site mis en place et gérés par l'association AJONC, sont en accès libre, 24h/24h, 7/7 jours. Contact : Association des Jardins Ouverts et Néanmoins Clôturés 03 28 55 03 30 – ajonc@free.fr",
+    "name": "Composteur Broca",
     "operator": "Ajonc",
     "recycling:compost": "yes",
     "recycling:organic": "yes",
@@ -12513,20 +12505,7 @@
   "tags": {
     "access": "yes",
     "amenity": "recycling",
-    "operator": "Ajonc",
-    "recycling:compost": "yes",
-    "recycling:organic": "yes",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
-  "id": 7932320838,
-  "lat": 50.6319713,
-  "lon": 3.0981639,
-  "tags": {
-    "access": "customers",
-    "amenity": "recycling",
+    "note": "Square Lardemer",
     "operator": "Ajonc",
     "recycling:compost": "yes",
     "recycling:organic": "yes",
@@ -12600,6 +12579,486 @@
     "amenity": "recycling",
     "operator": "Ajonc",
     "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7943038304,
+  "lat": 50.3127014,
+  "lon": 3.3482637,
+  "tags": {
+    "access": "customers",
+    "amenity": "recycling",
+    "name": "Composteur Jardin de Lourches",
+    "operator": "Ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7943060088,
+  "lat": 50.4109513,
+  "lon": 3.0502827,
+  "tags": {
+    "access": "customers",
+    "amenity": "recycling",
+    "name": "Composteur Jardin du Champ Fromentin",
+    "operator": "Ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7943062779,
+  "lat": 50.3396219,
+  "lon": 3.5490183,
+  "tags": {
+    "access": "customers",
+    "amenity": "recycling",
+    "name": "Composteur Jardin des Coquelicots",
+    "operator": "Ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7943072319,
+  "lat": 50.3205789,
+  "lon": 3.4058734,
+  "tags": {
+    "access": "customers",
+    "amenity": "recycling",
+    "name": "Composteur Jardin les Grandes Gamelles",
+    "operator": "Ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7943100445,
+  "lat": 50.4406689,
+  "lon": 3.4278757,
+  "tags": {
+    "access": "customers Jardin des Hamaîdes",
+    "amenity": "recycling",
+    "name": "Composteur Jardin des Hamaîdes",
+    "operator": "Ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7943101159,
+  "lat": 50.4339047,
+  "lon": 3.4232557,
+  "tags": {
+    "access": "customers",
+    "amenity": "recycling",
+    "name": "Composteur Jardin Le champ des oiseaux",
+    "operator": "Ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7944572359,
+  "lat": 45.6587042,
+  "lon": 4.7184254,
+  "tags": {
+    "amenity": "recycling",
+    "material": "wood",
+    "name": "Composteur centre-bourg",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7965802523,
+  "lat": 46.8368585,
+  "lon": 5.7051424,
+  "tags": {
+    "amenity": "recycling",
+    "operator": "Composteurs collectifs",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7968782540,
+  "lat": 51.0308787,
+  "lon": 2.3384612,
+  "tags": {
+    "access": "customers",
+    "amenity": "recycling",
+    "name": "Composteur Jardin partagé des Lys",
+    "operator": "Ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7978839367,
+  "lat": 46.9034341,
+  "lon": 6.3499045,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:garden_waste": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7994161644,
+  "lat": 44.8403344,
+  "lon": -0.6079045,
+  "tags": {
+    "amenity": "recycling",
+    "operator": "Bordeaux Métropole",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7996508643,
+  "lat": 50.6276539,
+  "lon": 3.0612533,
+  "tags": {
+    "access": "yes",
+    "amenity": "recycling",
+    "note": "Place Philippe le Bon",
+    "operator": "Ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7996595917,
+  "lat": 50.6507957,
+  "lon": 3.0265313,
+  "tags": {
+    "access": "yes",
+    "amenity": "recycling",
+    "name": "Composteur Jardin du Béguinage",
+    "operator": "Ajonc",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7997285274,
+  "lat": 43.7007867,
+  "lon": 3.5519925,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8017184467,
+  "lat": 50.8168643,
+  "lon": 4.3839155,
+  "tags": {
+    "amenity": "recycling",
+    "description:fr": "Plusieurs bacs de lombri-compostage (déchets organiques / alimentaires spécifiques)",
+    "location": "overground",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8042210105,
+  "lat": 48.3836436,
+  "lon": -4.4982248,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8042365464,
+  "lat": 49.2568292,
+  "lon": 4.0195357,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Composteur partagé",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8050829093,
+  "lat": 49.2648698,
+  "lon": 4.0256036,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Composteur Saint Thomas",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8051002797,
+  "lat": 49.2654955,
+  "lon": 4.0253505,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8071009598,
+  "lat": 45.7419389,
+  "lon": 4.8677548,
+  "tags": {
+    "amenity": "recycling",
+    "opening_hours": "24/7",
+    "opening_hours:covid19": "open",
+    "operator": "Copopriété Square Saint Nestor",
+    "recycling:green_waste": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8071816717,
+  "lat": 45.7435315,
+  "lon": 4.8610793,
+  "tags": {
+    "amenity": "recycling",
+    "operator": "Grand Lyon",
+    "recycling:green_waste": "yes",
+    "recycling:organic": "yes",
+    "recycling:organic_waste": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8071816718,
+  "lat": 45.7435155,
+  "lon": 4.8610563,
+  "tags": {
+    "amenity": "recycling",
+    "operator": "Grand Lyon",
+    "recycling:green_waste": "yes",
+    "recycling:organic": "yes",
+    "recycling:organic_waste": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8071816719,
+  "lat": 45.7434861,
+  "lon": 4.8610780,
+  "tags": {
+    "amenity": "recycling",
+    "operator": "Grand Lyon",
+    "recycling:green_waste": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8072193131,
+  "lat": 48.9027504,
+  "lon": 2.3491939,
+  "tags": {
+    "access": "yes",
+    "amenity": "recycling",
+    "description": "composteur public",
+    "produce": "compost",
+    "recycling:green_waste": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8107916090,
+  "lat": 45.7435254,
+  "lon": 4.8631058,
+  "tags": {
+    "amenity": "recycling",
+    "operator": "Grand Lyon",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8107916091,
+  "lat": 45.7435032,
+  "lon": 4.8630918,
+  "tags": {
+    "amenity": "recycling",
+    "operator": "Grand Lyon",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8107916092,
+  "lat": 45.7434800,
+  "lon": 4.8630778,
+  "tags": {
+    "amenity": "recycling",
+    "operator": "Grand Lyon",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8111421717,
+  "lat": 48.5453601,
+  "lon": 7.7728486,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:green_waste": "yes",
+    "recycling:organic": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8124988474,
+  "lat": 48.5942081,
+  "lon": 7.7165638,
+  "tags": {
+    "access": "private",
+    "amenity": "recycling",
+    "note": "compostage collectif",
+    "recycling:green_waste": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 8127338776,
+  "lat": 45.9266943,
+  "lon": -0.4973786,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:cartons": "yes",
+    "recycling:glass": "yes",
+    "recycling:organic": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:waste": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8129085827,
+  "lat": 43.5698938,
+  "lon": 5.0667947,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:organic": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8139553968,
+  "lat": 45.7537484,
+  "lon": 4.8423659,
+  "tags": {
+    "amenity": "recycling",
+    "opening_hours": "We 18:00-20:00",
+    "operator": "Les compostiers",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8146752779,
+  "lat": 44.8230741,
+  "lon": -0.5775033,
+  "tags": {
+    "amenity": "recycling",
+    "material": "wood",
+    "opening_hours": "24/7",
+    "opening_hours:covid19": "same",
+    "operator": "Budget Participatif",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8147708554,
+  "lat": 51.0283359,
+  "lon": 2.3546446,
+  "tags": {
+    "amenity": "recycling",
+    "operator": "Ajonc",
+    "produce": "compost",
+    "recycling:compost": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8148485128,
+  "lat": 45.7518482,
+  "lon": 4.8816692,
+  "tags": {
+    "amenity": "recycling",
+    "contact:email": "montchat.vert@gmail.com",
+    "operator": "Grand Lyon",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8149802676,
+  "lat": 48.1198789,
+  "lon": -1.6565035,
+  "tags": {
+    "amenity": "recycling",
     "recycling:organic": "yes",
     "recycling_type": "container"
   }
@@ -13031,7 +13490,7 @@
   ],
   "tags": {
     "amenity": "recycling",
-    "opening_hours": "Mo 10:00-12:00,16:00-18:00; We,Fr 16:00-18:00; Sa 09:30-13:00",
+    "opening_hours": "Mo 13:30-16:00 \"tout sauf emcombrant/bois/inerte\",16:00-18:00; We 09:00-16:00 \"tout sauf emcombrant/bois/inerte\",16:00-18:00; Fr 13:30-18:00; Sa 09:00-13:00",
     "recycling:aluminium": "yes",
     "recycling:batteries": "yes",
     "recycling:cans": "yes",
@@ -13048,7 +13507,9 @@
     "recycling:plastic_bottles": "yes",
     "recycling:scrap_metal": "yes",
     "recycling_type": "centre",
-    "website": "https://www.belmont-broye.ch/environnement-constructions/dechetterie"
+    "website": "https://www.belmont-broye.ch/environnement-constructions/dechetterie",
+    "wheelchair": "limited",
+    "wheelchair:description": "lieu accessible, conteneur un peu haut. marche devant le conteneur papier. personnel présent sauf aux périodes \"tout sauf...\""
   }
 },
 {
