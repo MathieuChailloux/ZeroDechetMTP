@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.8 7d656e78",
   "osm3s": {
-    "timestamp_osm_base": "2020-11-22T17:17:02Z",
-    "timestamp_areas_base": "2020-11-22T16:12:02Z",
+    "timestamp_osm_base": "2021-01-14T21:13:03Z",
+    "timestamp_areas_base": "2021-01-14T20:29:03Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -106,6 +106,61 @@
 },
 {
   "type": "node",
+  "id": 773004246,
+  "lat": 46.3276615,
+  "lon": -0.4377061,
+  "tags": {
+    "name": "Emmaüs",
+    "opening_hours": "We 14:00-17:30; Fr 14:00-17:30; Sa 10:00-12:00,14:00-17:30",
+    "operator": "Emmaüs",
+    "second_hand": "only",
+    "shop": "clothes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 884419253,
+  "lat": 43.5695972,
+  "lon": 1.4983544,
+  "tags": {
+    "addr:city": "Labège",
+    "addr:housenumber": "2175",
+    "addr:postcode": "31670",
+    "addr:street": "Route de Baziege la Lauragaise",
+    "brand": "Multimarque",
+    "name": "VPN Autos Toulouse",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-19:00",
+    "opening_hours:covid19": "same",
+    "operator": "VPN Autos",
+    "phone": "+33 5 64 28 67 76",
+    "second_hand": "only",
+    "service:vehicle:Car_sales": "yes",
+    "service:vehicle:air_conditioning": "yes",
+    "service:vehicle:alignment": "yes",
+    "service:vehicle:batteries": "yes",
+    "service:vehicle:body_repair": "yes",
+    "service:vehicle:brakes": "yes",
+    "service:vehicle:car_parts": "yes",
+    "service:vehicle:car_repair": "yes",
+    "service:vehicle:diagnostics": "yes",
+    "service:vehicle:electrical": "yes",
+    "service:vehicle:glass": "yes",
+    "service:vehicle:inspection": "yes",
+    "service:vehicle:oil_change": "yes",
+    "service:vehicle:repairs": "yes",
+    "service:vehicle:tires": "yes",
+    "service:vehicle:tyres": "yes",
+    "service:vehicle:used_car_sales": "yes",
+    "service:vehicle:wheels": "yes",
+    "shop": "car",
+    "website": "https://toulouse.vpn-autos.com",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
   "id": 937753242,
   "lat": 43.6322462,
   "lon": 1.4343455,
@@ -190,12 +245,12 @@
     "contact:housenumber": "49",
     "contact:phone": "+33 2 53 97 36 76",
     "contact:postcode": "44000",
-    "contact:street": "rue alsace lorraine",
+    "contact:street": "Rue Alsace-Lorraine",
     "description": "Ventes de vêtements d’occasions homme et femme, recyclage de vêtements en atelier couture, cours de couture; machine a coudre en libre service.",
     "mapillary": "BFSN-4BwyE8_0D4waqWCOQ",
     "name": "Miss récup & recycle",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour conseils de cartographie.",
-    "opening_hours": "Tu We Fr 10h30-19h00, Sa 10h30-18h00",
+    "opening_hours": "Tu,We,Fr 10:30-19:00; Sa 10:30-18:00",
     "operator": "Association Miss récup & recycle",
     "recycling:clothes": "yes",
     "second_hand": "only",
@@ -337,7 +392,7 @@
     "description": "Boutique spécialisée dans la réparation de matériel informatique, smartphones, consoles et tous appareils électroniques.",
     "name": "L'atelier des réparations",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour conseils de cartographie. ",
-    "opening_hours": "Tu-Sa 10:00-13:00, 14:00 18:00",
+    "opening_hours": "Tu-Sa 10:00-13:00,14:00-18:00",
     "phone": "+33 2 40 75 64 70",
     "second_hand": "only",
     "shop": "computer,mobile_phone",
@@ -445,7 +500,7 @@
     "name": "La Petite Recyclerie",
     "operator": "Progress",
     "recycling:books": "yes",
-    "recycling:computer": "yes",
+    "recycling:computers": "yes",
     "second_hand": "only",
     "source": "Survey 2019"
   }
@@ -933,6 +988,23 @@
 },
 {
   "type": "node",
+  "id": 2465161675,
+  "lat": 44.8379114,
+  "lon": -0.5751658,
+  "tags": {
+    "addr:city": "Bordeaux",
+    "addr:housenumber": "73",
+    "addr:postcode": "33000",
+    "addr:street": "Rue du Loup",
+    "name": "Trafic",
+    "opening_hours": "Tu-Su 11:00-19:00",
+    "second_hand": "only",
+    "shop": "clothes",
+    "website": "http://www.traficshop.fr/"
+  }
+},
+{
+  "type": "node",
   "id": 2465993953,
   "lat": 43.6030280,
   "lon": 1.4430904,
@@ -1106,21 +1178,6 @@
 },
 {
   "type": "node",
-  "id": 2621320500,
-  "lat": 47.4954821,
-  "lon": 8.7188202,
-  "tags": {
-    "addr:city": "Winterthur",
-    "addr:housenumber": "7",
-    "addr:postcode": "8400",
-    "addr:street": "Lagerplatz",
-    "name": "Brockenhalle Winterthur",
-    "second_hand": "only",
-    "shop": "second_hand"
-  }
-},
-{
-  "type": "node",
   "id": 2621328482,
   "lat": 47.4951603,
   "lon": 8.7651967,
@@ -1211,7 +1268,7 @@
   "lon": 6.0040053,
   "tags": {
     "contact:phone": "+32 484 957122",
-    "contact:website": "www.vzautomobile.be",
+    "contact:website": "https://www.vzautomobile.be/",
     "name": "VZ Automobiles",
     "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-16:00",
     "second_hand": "only",
@@ -1327,9 +1384,10 @@
   "lon": 4.8414892,
   "tags": {
     "contact:email": "ateliervelo@free.fr",
+    "description:covid19": "Sur rendez-vous",
     "name": "L'Atelier du Chat Perché",
     "opening_hours": "Tu 15:00-20:00; We 17:00-21:00; Fr 15:00-19:00",
-    "opening_hours:covid19": "off",
+    "opening_hours:covid19": "open",
     "operator": "Association Atelier du Chat Perché",
     "payment:cash": "yes",
     "payment:coins": "yes",
@@ -1372,8 +1430,7 @@
   "lon": -3.2308834,
   "tags": {
     "name": "Filigrane du Passe",
-    "opening_hours": "Tu-Sa 10:00-12:30, 14:30-19:00, Su 10:00-12:30",
-    "phone": "+33 6 70 07 07 19",
+    "opening_hours": "Tu, We 10:00-18:00; Fr, Sa 11:00-18:00",
     "second_hand": "only",
     "shop": "books",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
@@ -1694,6 +1751,18 @@
     "recycling:toys": "yes",
     "second_hand": "only",
     "shop": "toys"
+  }
+},
+{
+  "type": "node",
+  "id": 3518095649,
+  "lat": 47.5732049,
+  "lon": 8.9467154,
+  "tags": {
+    "name": "Auto Motiv",
+    "second_hand": "only",
+    "shop": "car",
+    "website": "http://auto-motiv.ch/"
   }
 },
 {
@@ -2274,6 +2343,18 @@
     "second_hand": "only",
     "service": "repair",
     "shop": "car"
+  }
+},
+{
+  "type": "node",
+  "id": 3998799108,
+  "lat": 44.8332823,
+  "lon": -0.5675193,
+  "tags": {
+    "name": "AMOS",
+    "operator": "AMOS",
+    "second_hand": "only",
+    "shop": "clothes"
   }
 },
 {
@@ -2870,7 +2951,7 @@
     "opening_hours:covid19": "Tu-Fr 09:30-12:30,14:00-18:30; Sa 10:00-13:00,13:30-17:30",
     "phone": "+33 5 49 74 15 81",
     "second_hand": "only",
-    "shop": "computer;mobil_phone",
+    "shop": "computer",
     "website": "https://la-bootique.com/content/14-boutique-bressuire"
   }
 },
@@ -2949,7 +3030,6 @@
     "amenity": "recycling",
     "charity": "yes",
     "charity:description": "Créés par des membres d'Emmaûs, Envie regroupe désormais 50 entreprises, dont 2 en Loire Atlantique (Saint-Nazaire et Saint-Herblain), ce qui représente 90 salariés dans le département.",
-    "contact:city": "Saint-Herblain",
     "contact:email": "magasin44sth@envie.org",
     "contact:housenumber": "18",
     "contact:phone": "+33 2 40 43 21 11",
@@ -2967,9 +3047,8 @@
     "recycling:electrical_items": "yes",
     "recycling_type": "centre",
     "second_hand": "only",
-    "shop": "home appliance",
+    "shop": "appliance",
     "source": "Visite des locaux par MieuxTrierANantes 01/15",
-    "vending": "électroménager;réfrigérateur;télévision;lave-vaisselle;congélateur",
     "website": "http://envie-44.envie.org"
   }
 },
@@ -3202,6 +3281,25 @@
 },
 {
   "type": "node",
+  "id": 4641896012,
+  "lat": 50.8981543,
+  "lon": 4.3593800,
+  "tags": {
+    "addr:housenumber": "121",
+    "addr:street": "Rue De Wand - De Wandstraat",
+    "contact:phone": "+32 2 268 24 99",
+    "name": "Les Petits Riens - Spullenhulp",
+    "name:fr": "Les Petits Riens",
+    "name:nl": "Spullenhulp",
+    "opening_hours": "Mo-Sa 10:30-18:00",
+    "operator": "Les Petits Riens - Spullenhulp",
+    "second_hand": "only",
+    "shop": "clothes",
+    "website": "https://petitsriens.be/liste-boutiques/laeken-de-wand/"
+  }
+},
+{
+  "type": "node",
   "id": 4686173037,
   "lat": 49.1176389,
   "lon": 6.1824633,
@@ -3253,6 +3351,7 @@
     "description": "Atelier Association de Réparation et de Vente de Cycles d'Occasion",
     "name": "Atelier Vélo Change de Chaîne",
     "opening_hours": "We-Sa 15:00-19:00",
+    "opening_hours:covid19": "Tu-Sa 16:00-19:00",
     "second_hand": "only",
     "service": "repair",
     "service:bicycle:diy": "yes",
@@ -3265,15 +3364,18 @@
   "lat": 47.3488725,
   "lon": 8.2708791,
   "tags": {
+    "addr:city": "Wohlen (AG)",
     "addr:housenumber": "23",
+    "addr:postcode": "5610",
     "addr:street": "Bahnhofstrasse",
     "contact:email": "secondhand.wohlen@caritas-aargau.ch",
     "contact:phone": "+41 56 560 83 81",
     "contact:website": "http://www.caritas-aargau.ch/p89001142.html",
     "name": "Caritas Secondhand",
-    "opening_hours": "Mo-Fr 09:30-12:30,13:30-18:30; Sa 09:00-16:00; PH off",
+    "opening_hours": "Mo off; Tu -Fr 09:30-12:00,14:00-18:30; Sa 09:00-16:00; PH off",
     "second_hand": "only",
-    "shop": "clothes"
+    "shop": "clothes",
+    "website": "https://www.caritas-aargau.ch/was-wir-tun/caritas-secondhand"
   }
 },
 {
@@ -3419,13 +3521,16 @@
     "addr:housenumber": "14",
     "addr:postcode": "1400",
     "addr:street": "Rue du Milieu",
+    "brand": "Ateapic",
+    "brand:wikidata": "Q104468904",
     "name": "Ateapic",
     "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-17:00",
-    "operator": "Société Coopérative Démarche",
+    "operator": "Démarche",
+    "operator:wikidata": "Q104469034",
     "phone": "+41 24 420 32 28",
     "second_hand": "only",
     "shop": "clothes",
-    "website": "http://www.demarche.ch/ateapic.php"
+    "website": "https://ateapic.ch"
   }
 },
 {
@@ -3439,13 +3544,16 @@
     "addr:housenumber": "29",
     "addr:postcode": "1400",
     "addr:street": "Rue du Four",
+    "brand": "Ateapic",
+    "brand:wikidata": "Q104468904",
     "name": "Ateapic",
     "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-17:00",
-    "operator": "Société Coopérative Démarche",
+    "operator": "Démarche",
+    "operator:wikidata": "Q104469034",
     "phone": "+41 24 420 29 21",
     "second_hand": "only",
     "shop": "clothes",
-    "website": "http://www.demarche.ch/ateapic.php"
+    "website": "https://ateapic.ch"
   }
 },
 {
@@ -4226,26 +4334,6 @@
 },
 {
   "type": "node",
-  "id": 5464965294,
-  "lat": 43.2970779,
-  "lon": -0.3726349,
-  "tags": {
-    "addr:city": "Pau",
-    "addr:housenumber": "9",
-    "addr:postcode": "64000",
-    "addr:street": "Rue Tran",
-    "description": "Magasin de vêtements de seconde main pour enfants",
-    "email": "lespatatipatata2015@gmail.com",
-    "name": "Patati Patata",
-    "opening_hours": "Tu-Sa 11:00-14:00,15:00-19:00",
-    "phone": "+336 22 04 49 50",
-    "second_hand": "only",
-    "shop": "baby_goods",
-    "website": "https://lespatatipatata201.wixsite.com/patatipatata"
-  }
-},
-{
-  "type": "node",
   "id": 5485469899,
   "lat": 43.2947368,
   "lon": -0.3704160,
@@ -4430,6 +4518,20 @@
 },
 {
   "type": "node",
+  "id": 5650548252,
+  "lat": 50.6398977,
+  "lon": 3.0194994,
+  "tags": {
+    "clothes": "women",
+    "level": "0",
+    "name": "Comme Neuf",
+    "opening_hours": "Tu-Sa 09:30-12:30,14:30-19:00",
+    "second_hand": "only",
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
   "id": 5673769411,
   "lat": 47.1370456,
   "lon": 7.2553251,
@@ -4444,7 +4546,7 @@
     "contact:website": "http://www.landschaftswerk.ch/kinderkleiderboerse-raegeboge-oeffnungszeiten-und-lageplan/",
     "name": "Kinderkleiderbörse Rägeboge / Bourse d’habits pour enfants Rägeboge",
     "name:de": "Kinderkleiderbörse Rägeboge",
-    "name:fr": "Bourse d’habits pour enfants Rägeboge",
+    "name:fr": "Bourse d’habits pour enfants Raegeboge",
     "opening_hours": "Mo,We,Fr 14:00-18:00; Tu,Th,Sa-Su off",
     "operator": "Landschaftswerk Biel-Seeland",
     "second_hand": "only",
@@ -4564,6 +4666,11 @@
   "lat": 43.6102480,
   "lon": 3.8788940,
   "tags": {
+    "addr:city": "Montpellier",
+    "addr:housenumber": "5",
+    "addr:postcode": "34062",
+    "addr:street": "Rue Embouque d'Or",
+    "facebook": "http://www.facebook.com/pg/doretdeja",
     "name": "D'or & Déjà",
     "second_hand": "only",
     "shop": "clothes"
@@ -4575,6 +4682,10 @@
   "lat": 43.6095994,
   "lon": 3.8786546,
   "tags": {
+    "addr:city": "Montpellier",
+    "addr:housenumber": "6",
+    "addr:postcode": "34062",
+    "addr:street": "Rue des Trésoriers de France",
     "contact:facebook": "https://fr-fr.facebook.com/Les-Puces-Dor%C3%A9es-150391695001688/",
     "description": "Dépôt vente de vêtements",
     "name": "Les Puces Dorées",
@@ -4619,7 +4730,6 @@
   "lat": 47.1647835,
   "lon": -1.2706811,
   "tags": {
-    "amenity": "recycling",
     "charity": "yes",
     "contact:city": "Vallet",
     "contact:email": "patmouille@orange.fr",
@@ -5287,6 +5397,25 @@
 },
 {
   "type": "node",
+  "id": 6252451112,
+  "lat": 48.8415130,
+  "lon": 2.3932132,
+  "tags": {
+    "addr:city": "Paris",
+    "addr:housenumber": "102",
+    "addr:postcode": "75012",
+    "addr:street": "Rue de Reuilly",
+    "clothes": "second_hand",
+    "name": "Boutique Emmaüs",
+    "recycling:clothes": "yes",
+    "second_hand": "only",
+    "shop": "clothes",
+    "source": "local knowledge",
+    "website": "https://www.emmaus-paris.fr/"
+  }
+},
+{
+  "type": "node",
   "id": 6254441892,
   "lat": 46.9495238,
   "lon": 7.4407376,
@@ -5921,7 +6050,7 @@
     "mapillary": "L0LoMUGoAlFRj_Y31pRgEg",
     "name": "Au Bonheur des Bennes",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour conseils de cartographie.",
-    "opening_hours": "Tu-We Fr 09h30-13h00, Sa 10h00-17h00",
+    "opening_hours": "Tu-We,Fr 09:30-13:00; Sa 10:00-17:00",
     "operator": "Association Au Bonheur des Bennes",
     "recycling:books": "yes",
     "recycling:cds": "yes",
@@ -6211,8 +6340,8 @@
 {
   "type": "node",
   "id": 6480258755,
-  "lat": 47.6496801,
-  "lon": -2.0847669,
+  "lat": 47.6496828,
+  "lon": -2.0847915,
   "tags": {
     "addr:city": "Redon",
     "addr:housenumber": "19",
@@ -6504,7 +6633,7 @@
     "opening_hours": "Tu-Fr 14:00-18:00; Th off",
     "recycling_type": "centre",
     "second_hand": "only",
-    "shop": "books, clothes, houseware, interior_decoration"
+    "shop": "books;clothes;houseware;interior_decoration"
   }
 },
 {
@@ -6843,6 +6972,7 @@
     "contact:street": "Chemin de Launay-Violette",
     "contact:website": "http://www.studentsshop44.com",
     "description": "Vous pouvez donner tous les objets du quotidien qui pourront servir aux étudiants (vaisselle, petit électroménager, ustensile de cuisine, vêtements, chaussures, linge de lit, serviettes, torchon, décoration, couette, oreiller, informatique...)",
+    "furniture:repair": "yes",
     "mapillary": "SNBAvQp7_iuCDMnZtRqrEg",
     "name": "Students' shop 44",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
@@ -6856,7 +6986,6 @@
     "recycling:toys": "yes",
     "recycling_type": "centre",
     "second_hand": "only",
-    "service:furniture:repair": "yes",
     "source": "Envoyé par Students shop 02/2017, Actualisation Mieux trier à Nantes 09/2018"
   }
 },
@@ -7076,13 +7205,11 @@
   "lat": 47.2597020,
   "lon": -2.2729066,
   "tags": {
-    "amenity": "recycling",
     "charity": "yes",
-    "contact:city": "Saint-Nazaire",
     "contact:housenumber": "29",
     "contact:phone": "+33 2 53 35 51 92",
     "contact:postcode": "44600",
-    "contact:street": "rue Etoile du Matin, Zone Océanis",
+    "contact:street": "Rue de l'Etoile du Matin",
     "contact:website": "http://envie-44.envie.org/",
     "description": "Environ 200 appareils en stock. Propose un service de dépannage pour le gros électroménager, en atelier uniquement",
     "image": "http://envie-44.envie.org/wp-content/uploads/sites/11/2016/11/P1000883.jpg",
@@ -7093,9 +7220,8 @@
     "recycling:small_electrical_appliances": "yes",
     "second_hand": "only",
     "service:repair": "yes",
-    "shop": "home appliance",
-    "source": "Mieux trier à Nantes 2019",
-    "vending": "lave-linge;réfrigérateur;électro-ménager"
+    "shop": "appliance",
+    "source": "Mieux trier à Nantes 2019"
   }
 },
 {
@@ -7182,7 +7308,7 @@
     "image": "http://www.atelierduretzemploi.org/images/2017-actu/Photos/Pellerin.png",
     "name": "Atelier du Retz Emploi (Le Pèlerin)",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
-    "opening_hours": "We,Sa 10:00-13:00+14:00-18:00",
+    "opening_hours": "We,Sa 10:00-13:00,14:00-18:00",
     "operator": "Association Atelier du Retz Emploi",
     "recycling:bicycles": "yes",
     "recycling:books": "yes",
@@ -7273,17 +7399,17 @@
   "lat": 47.1982951,
   "lon": -1.5967816,
   "tags": {
+    "addr:city": "Nantes",
+    "addr:housenumber": "1",
+    "addr:postcode": "44100",
+    "addr:street": "Rue des Granits",
     "amenity": "recycling",
     "charity": "yes",
     "charity:description": "Cette boutique est tenue par les bénévoles du Secours Populaire.",
     "collection_times": "Tu, Th 09:00-12:00, 13:30-17:00",
-    "contact:city": "Nantes",
     "contact:email": "nantes@spf.org",
     "contact:facebook": "https://www.facebook.com/spf.nantes/",
-    "contact:housenumber": "1",
     "contact:phone": "+33 2 40 95 10 61",
-    "contact:postcode": "44100",
-    "contact:street": "rue des Granits",
     "contact:website": "https://www.secourspopulaire.fr/solidarimeubles",
     "description": "Vous ne savez que faire de vos meubles, vos appareils, de vos nécessaires ménager ou de vos livres qui méritent une seconde vie, pensez à en faire don, et ainsi vous pourrez apporter une aide aux plus déshérités. Attention : pas de vêtements ici.",
     "mapillary": "hm6D8GI4f8q45dF0RNGHug",
@@ -7571,7 +7697,7 @@
     "image": "https://media.ouest-france.fr/v1/pictures/2de8fde29e15f501c1dbf462f5fa8e30-laval-un-nouveau-bric-brac-pour-la-communaute-emmaus.jpg",
     "name": "Emmaüs Laval",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
-    "opening_hours": "We Sa 10h00-12h30, 14h00-18h00",
+    "opening_hours": "We,Sa 10:00-12:30,14:00-18:00",
     "operator": "Association Emmaüs",
     "recycling:books": "yes",
     "recycling:computers": "yes",
@@ -9215,20 +9341,6 @@
 },
 {
   "type": "node",
-  "id": 6723639463,
-  "lat": 46.8822477,
-  "lon": 8.6428870,
-  "tags": {
-    "addr:housenumber": "10",
-    "addr:street": "Tellsgasse",
-    "name": "Medien-Brocky",
-    "opening_hours": "We-Fr 13:30-18:30; Sa 13:30-16:00",
-    "second_hand": "only",
-    "shop": "books"
-  }
-},
-{
-  "type": "node",
   "id": 6724799329,
   "lat": 51.2235614,
   "lon": 4.4284962,
@@ -9236,19 +9348,6 @@
     "name": "Top style 7",
     "second_hand": "only",
     "shop": "clothes"
-  }
-},
-{
-  "type": "node",
-  "id": 6731413236,
-  "lat": 46.8806028,
-  "lon": 8.6456368,
-  "tags": {
-    "addr:housenumber": "6",
-    "addr:street": "Hellgasse",
-    "name": "Boutiqe am Dorfbach",
-    "second_hand": "only",
-    "shop": "boutique"
   }
 },
 {
@@ -9470,9 +9569,27 @@
   "tags": {
     "clothes": "women;men;fashion;denim",
     "name": "Chemiserie - Mode Recycling",
-    "opening_hours": "Mo-Fr 14:00-19:00; Sa 14:00-18:00; PH closed",
+    "opening_hours": "PH off; Mo-Fr 13:00-19:00; Sa 11:00-18:00",
     "second_hand": "only",
     "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 6860724391,
+  "lat": 47.0162686,
+  "lon": 7.6562520,
+  "tags": {
+    "addr:city": "Hasle bei Burgdorf",
+    "addr:housenumber": "6",
+    "addr:postcode": "3415",
+    "addr:street": "Kalchofenstrasse",
+    "clothes": "women",
+    "name": "Tresor",
+    "opening_hours": "We-Fr 14:00-18:00; Sa 11:00-15:00",
+    "second_hand": "only",
+    "shop": "clothes",
+    "website": "https://www.boutiquetresor.ch/"
   }
 },
 {
@@ -9571,6 +9688,39 @@
 },
 {
   "type": "node",
+  "id": 6903325824,
+  "lat": 48.7954518,
+  "lon": 2.1522698,
+  "tags": {
+    "addr:city": "Versailles",
+    "addr:housenumber": "18-22",
+    "addr:postcode": "78000",
+    "addr:street": "Rue de Condé",
+    "brand": "Multimarque",
+    "name": "VPN Autos Versailles",
+    "opening_hours": "Mo-Sa 08:30-19:00",
+    "opening_hours:covid19": "same",
+    "operator": "VPN Autos",
+    "phone": "+331 85 15 29 73",
+    "second_hand": "only",
+    "service:vehicle:Car_sales": "yes",
+    "service:vehicle:air_conditioning": "yes",
+    "service:vehicle:batteries": "yes",
+    "service:vehicle:brakes": "yes",
+    "service:vehicle:car_repair": "yes",
+    "service:vehicle:inspection": "yes",
+    "service:vehicle:oil_change": "yes",
+    "service:vehicle:repairs": "yes",
+    "service:vehicle:tires": "yes",
+    "service:vehicle:tyres": "yes",
+    "service:vehicle:used_car_sales": "yes",
+    "service:vehicle:wheels": "yes",
+    "shop": "car",
+    "website": "https://vpn-autos.com"
+  }
+},
+{
+  "type": "node",
   "id": 6906797951,
   "lat": 50.6836985,
   "lon": 4.2757807,
@@ -9637,8 +9787,8 @@
 {
   "type": "node",
   "id": 6934821901,
-  "lat": 48.0676419,
-  "lon": -0.8087118,
+  "lat": 48.0675370,
+  "lon": -0.8087555,
   "tags": {
     "contact:facebook": "https://www.facebook.com/easycashlaval/",
     "contact:phone": "+33 2 43 91 77 30",
@@ -9700,21 +9850,6 @@
     "name": "Livres Anciens",
     "second_hand": "only",
     "shop": "books"
-  }
-},
-{
-  "type": "node",
-  "id": 6976209435,
-  "lat": 50.6314006,
-  "lon": 3.0591933,
-  "tags": {
-    "brand": "Cash Web",
-    "contact:website": "https://www.cash-web.fr/localisation_cash-web_7_*.html",
-    "name": "Cash Web Gambetta",
-    "opening_hours": "Mo-Fr 10:00-13:00,14:00-19:00; Sa 10:00-19:00",
-    "second_hand": "only",
-    "shop": "second_hand",
-    "survey:date": "2019-11"
   }
 },
 {
@@ -10102,12 +10237,12 @@
     "recycling:books": "yes",
     "recycling:clothes": "yes",
     "recycling:computers": "yes",
+    "recycling:dishes": "yes",
     "recycling:furniture": "yes",
     "recycling:interior_decoration": "yes",
     "recycling:shoes": "yes",
+    "recycling:small_electrical_appliances": "yes",
     "recycling:toys": "yes",
-    "recyling:dishes": "yes",
-    "recyling:small_electrical_appliances": "yes",
     "second_hand": "only",
     "shop": "general",
     "source": "Formulaire envoyé 01/2020"
@@ -10221,6 +10356,28 @@
     "phone": "+33 9 53 85 57 80",
     "second_hand": "only",
     "shop": "car"
+  }
+},
+{
+  "type": "node",
+  "id": 7149088769,
+  "lat": 46.4588309,
+  "lon": 6.8475718,
+  "tags": {
+    "addr:city": "Vevey",
+    "addr:country": "CH",
+    "addr:housenumber": "60",
+    "addr:postcode": "1800",
+    "addr:street": "Rue d'Italie",
+    "brand": "Ateapic",
+    "brand:wikidata": "Q104468904",
+    "level": "0",
+    "name": "Ateapic",
+    "operator": "Démarche",
+    "operator:wikidata": "Q104469034",
+    "second_hand": "only",
+    "shop": "clothes",
+    "website": "https://ateapic.ch"
   }
 },
 {
@@ -10876,7 +11033,7 @@
     "addr:postcode": "78210",
     "addr:street": "Avenue du Colonel Fabien",
     "name": "Secours Catholique Saint Cyr L'École",
-    "opening_hours": "Tu 1:30PM-3:30 PM , Th 10:00-12:00",
+    "opening_hours": "Tu 13:30-15:30; Th 10:00-12:00",
     "opening_hours:covid19": "off",
     "second_hand": "only",
     "shop": "clothes"
@@ -10893,6 +11050,7 @@
     "addr:postcode": "8001",
     "addr:street": "Rämistrasse",
     "name": "Greenwich MT.",
+    "opening_hours": "Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-13:00,14:00-17:00",
     "second_hand": "only",
     "shop": "watches",
     "website": "https://www.greenwich.ch/"
@@ -11133,7 +11291,7 @@
     "addr:street": "Rue Augustin Fresnel",
     "email": "augrenierdeloccaz85@orange.fr",
     "name": "Au Grenier D'eloccaz - Vide grenier permanent",
-    "opening_hours": "Tu-Sa 09:30-12:00 14:00-18:30",
+    "opening_hours": "Tu-Sa 09:30-12:00,14:00-18:30",
     "opening_hours:covid19": "open",
     "phone": "+33 2 51 31 33 65",
     "second_hand": "only",
@@ -11641,9 +11799,10 @@
   "tags": {
     "addr:housenumber": "28",
     "addr:street": "Brühlgasse",
+    "craft": "electronics_repair",
+    "electronics_repair": "computer;phone",
     "name": "revendo",
     "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-17:00",
-    "repair": "yes",
     "second_hand": "only",
     "shop": "electronics",
     "website": "https://revendo.ch"
@@ -11674,6 +11833,7 @@
   "tags": {
     "addr:housenumber": "133",
     "addr:street": "Güterstrasse",
+    "name": "Revendo",
     "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-17:00",
     "repair": "yes",
     "second_hand": "only",
@@ -11729,7 +11889,7 @@
     "addr:street": "Hauptstrasse",
     "clothes": "children",
     "name": "Liram Loram",
-    "opening_hours": "Tu 14:00-16:00; Me-Sa 09:00-11:00",
+    "opening_hours": "Tu 14:00-16:00; We-Sa 09:00-11:00",
     "second_hand": "only",
     "shop": "clothes",
     "website": "https://www.liramloram.ch"
@@ -11756,7 +11916,7 @@
     "delivery": "no",
     "drive_through": "no",
     "name": "Rejoué",
-    "opening_hours": "We 13:00-19:00; Th-Sa 11:00-19:00",
+    "opening_hours": "Tu 11:00-13:30,15:30-19:00; We-Sa 11:00-19:00",
     "payment:cash": "yes",
     "payment:credit_cards": "yes",
     "phone": "+33 6 67 34 19 96",
@@ -11822,6 +11982,18 @@
     "second_hand": "only",
     "shop": "second_hand",
     "website": "https://frauenverein-nidau.ch/angebote/#brokenstube"
+  }
+},
+{
+  "type": "node",
+  "id": 7778350189,
+  "lat": 43.7362312,
+  "lon": 7.4206775,
+  "tags": {
+    "addr:street": "Rue Grimaldi",
+    "name": "DPM Monaco",
+    "second_hand": "only",
+    "shop": "car"
   }
 },
 {
@@ -12656,6 +12828,23 @@
 },
 {
   "type": "node",
+  "id": 8116444234,
+  "lat": 47.6062862,
+  "lon": 7.5069272,
+  "tags": {
+    "addr:city": "Blotzheim",
+    "addr:housenumber": "4a",
+    "addr:postcode": "68730",
+    "addr:street": "Rue Pierre Clostermann",
+    "name": "Happy Troc",
+    "phone": "+33 3 89 25 08 19",
+    "second_hand": "only",
+    "shop": "second_hand",
+    "website": "https://www.happycash.fr/"
+  }
+},
+{
+  "type": "node",
   "id": 8118074560,
   "lat": 47.8712790,
   "lon": -3.9201886,
@@ -12799,6 +12988,667 @@
     "second_hand": "only",
     "shop": "car",
     "website": "https://opportunite-bonchamp.business.site/"
+  }
+},
+{
+  "type": "node",
+  "id": 8151982554,
+  "lat": 43.4908729,
+  "lon": -1.4603569,
+  "tags": {
+    "name": "Cars D'Occaz 64",
+    "second_hand": "only",
+    "shop": "car"
+  }
+},
+{
+  "type": "node",
+  "id": 8158528538,
+  "lat": 50.6268672,
+  "lon": 3.7728620,
+  "tags": {
+    "addr:city": "Ath",
+    "addr:housenumber": "6",
+    "addr:postcode": "7800",
+    "addr:street": "Square Les Locomotives",
+    "currency:EUR": "yes",
+    "name": "Ressourcerie le Carré",
+    "payment:cash": "yes",
+    "payment:maestro": "yes",
+    "second_hand": "only",
+    "shop": "clothes",
+    "website": "http://www.recasbl.be/une-petite-pause-simpose.html"
+  }
+},
+{
+  "type": "node",
+  "id": 8158567470,
+  "lat": 43.3851619,
+  "lon": -1.3053890,
+  "tags": {
+    "addr:housenumber": "10",
+    "addr:postcode": "64240",
+    "addr:street": "Rue Francis Jammes",
+    "name": "Boutique Solidaire Secours Catholique",
+    "phone": "+33559291108",
+    "second_hand": "only",
+    "shop": "charity"
+  }
+},
+{
+  "type": "node",
+  "id": 8167608620,
+  "lat": 42.9274743,
+  "lon": 1.8442916,
+  "tags": {
+    "addr:city": "Lavelanet",
+    "addr:housenumber": "19a",
+    "addr:postcode": "09300",
+    "addr:street": "Rue Jacquard",
+    "name": "Vertex",
+    "phone": "+33534093541",
+    "second_hand": "only",
+    "shop": "clothes",
+    "website": "https://www.emmaus-vertex.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 8172089054,
+  "lat": 47.3003375,
+  "lon": 5.0201828,
+  "tags": {
+    "addr:city": "Dijon",
+    "addr:housenumber": "192 bis",
+    "addr:postcode": "21000",
+    "addr:street": "Avenue Jean Jaurès",
+    "name": "BK Motors by Dijon",
+    "phone": "+33 6 52 84 68 33",
+    "second_hand": "only",
+    "shop": "car"
+  }
+},
+{
+  "type": "node",
+  "id": 8173973567,
+  "lat": 47.1387532,
+  "lon": 7.2458338,
+  "tags": {
+    "addr:city": "Biel/Bienne",
+    "addr:housenumber": "18",
+    "addr:postcode": "2502",
+    "addr:street": "Rue Adam-Friedrich-Molz / Adam-Friedrich-Molz-Gasse",
+    "clothes": "women",
+    "name": "Urban Jungle",
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-16:00",
+    "phone": "+41 78 342 01 75",
+    "second_hand": "only",
+    "shop": "clothes",
+    "website": "https://www.urban-jungle.net/"
+  }
+},
+{
+  "type": "node",
+  "id": 8191982193,
+  "lat": 49.4343462,
+  "lon": 1.0922166,
+  "tags": {
+    "addr:city": "Rouen",
+    "addr:housenumber": "38",
+    "addr:postcode": "76100",
+    "addr:street": "Avenue Champlain",
+    "name": "Cash Pro Express",
+    "payment:cash": "yes",
+    "phone": "+33 6 34 44 01 00",
+    "second_hand": "only",
+    "shop": "second_hand",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8197910327,
+  "lat": 44.8873773,
+  "lon": -0.5965757,
+  "tags": {
+    "addr:city": "Bruges",
+    "addr:postcode": "33520",
+    "name": "Zanzicar Bordeaux",
+    "operator": "Groupe Parot",
+    "second_hand": "only",
+    "shop": "car"
+  }
+},
+{
+  "type": "node",
+  "id": 8204847378,
+  "lat": 47.5567308,
+  "lon": 7.5872560,
+  "tags": {
+    "addr:city": "Basel",
+    "addr:housenumber": "15",
+    "addr:postcode": "4001",
+    "addr:street": "Rümelinsplatz",
+    "name": "ANNA K.",
+    "opening_hours": "Mo 14:00-18:30; Tu,We,Fr 11:00-18:30; Th 11:00-19:00; Sa 11:00-17:00",
+    "phone": "+41 61 261 62 64",
+    "second_hand": "only",
+    "shop": "clothes",
+    "website": "https://www.anna-k.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 8204852433,
+  "lat": 47.5855136,
+  "lon": 7.6512617,
+  "tags": {
+    "addr:city": "Riehen",
+    "addr:housenumber": "18",
+    "addr:postcode": "4125",
+    "addr:street": "Rössligasse",
+    "name": "ANNA K.",
+    "opening_hours": "Tu-Fr 10:00-13:00,14:00-18:00; Sa 10:00-15:00",
+    "phone": "+41 61 641 20 75",
+    "second_hand": "only",
+    "shop": "clothes",
+    "website": "https://www.anna-k.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 8204852451,
+  "lat": 47.4878977,
+  "lon": 7.6092861,
+  "tags": {
+    "addr:city": "Dornach",
+    "addr:housenumber": "10",
+    "addr:postcode": "4143",
+    "addr:street": "Bruggweg",
+    "name": "ANNA K.",
+    "opening_hours": "Mo 14:00-18:30; Tu-Fr 10:00-12:00,14:00-18:30; Sa 11:00-16:00",
+    "phone": "+41 61 701 93 77",
+    "second_hand": "only",
+    "shop": "clothes",
+    "website": "https://www.anna-k.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 8215370484,
+  "lat": 48.0552404,
+  "lon": -1.7323719,
+  "tags": {
+    "addr:city": "Bruz",
+    "addr:postcode": "35170",
+    "addr:street": "La Haie Gautrais",
+    "name": "TH Automobiles",
+    "opening_hours": "Mo-Th 09:00-12:30, 14:00-18:30; Fr 09:00-12:30, 14:00-17:30",
+    "phone": "+33 2 90 56 09 03",
+    "second_hand": "only",
+    "shop": "car",
+    "website": "https://www.thautomobiles.fr"
+  }
+},
+{
+  "type": "node",
+  "id": 8220449788,
+  "lat": 43.1273661,
+  "lon": 5.8528884,
+  "tags": {
+    "addr:city": "Ollioules",
+    "addr:housenumber": "194",
+    "addr:postcode": "83190",
+    "addr:street": "Avenue Jean Monnet",
+    "name": "EWIGO",
+    "second_hand": "only",
+    "shop": "car"
+  }
+},
+{
+  "type": "node",
+  "id": 8221952617,
+  "lat": 44.3691203,
+  "lon": 2.5910230,
+  "tags": {
+    "name": "KM Auto",
+    "second_hand": "only",
+    "shop": "car",
+    "source": "survey 2020"
+  }
+},
+{
+  "type": "node",
+  "id": 8237588824,
+  "lat": 47.2705968,
+  "lon": 6.0625758,
+  "tags": {
+    "name": "Eco Auto 25",
+    "second_hand": "only",
+    "shop": "car"
+  }
+},
+{
+  "type": "node",
+  "id": 8241538841,
+  "lat": 45.6859398,
+  "lon": 0.1775322,
+  "tags": {
+    "brand": "Maboul",
+    "contact:facebook": "maboulchampniers",
+    "contact:mobile": "+33 6 52 57 92 83",
+    "email": "contact@maboul-la-friperie.fr",
+    "name": "Maboul",
+    "opening_hours": "Mo-Fr 10:00-12:30,14:30-19:00; Sa 10:00-19:00",
+    "ref:FR:SIRET": "83168226500010",
+    "second_hand": "only",
+    "shop": "clothes",
+    "survey:date": "2020-12",
+    "website": "https://www.maboul-la-friperie.fr/"
+  }
+},
+{
+  "type": "node",
+  "id": 8252185868,
+  "lat": 44.8804409,
+  "lon": -0.5121413,
+  "tags": {
+    "addr:city": "Lormont",
+    "addr:postcode": "33310",
+    "addr:street": "Rue Pierre Mendès France",
+    "brand": "VPN Autos",
+    "name": "VPN Autos Bordeaux",
+    "opening_hours": "Mo-Sa 09:00-19:00",
+    "opening_hours:covid19": "same",
+    "operator": "VPN Autos",
+    "phone": "+335 64 28 89 71",
+    "second_hand": "only",
+    "service:vehicle:Car_sales": "yes",
+    "service:vehicle:air_conditioning": "yes",
+    "service:vehicle:alignment": "yes",
+    "service:vehicle:batteries": "yes",
+    "service:vehicle:body_repair": "yes",
+    "service:vehicle:brakes": "yes",
+    "service:vehicle:car_parts": "yes",
+    "service:vehicle:car_repair": "yes",
+    "service:vehicle:diagnostics": "yes",
+    "service:vehicle:electrical": "yes",
+    "service:vehicle:glass": "yes",
+    "service:vehicle:inspection": "yes",
+    "service:vehicle:oil_change": "yes",
+    "service:vehicle:repairs": "yes",
+    "service:vehicle:tires": "yes",
+    "service:vehicle:tyres": "yes",
+    "service:vehicle:used_car_sales": "yes",
+    "service:vehicle:wheels": "yes",
+    "shop": "car",
+    "website": "https://bordeaux-lormont.vpn-autos.com"
+  }
+},
+{
+  "type": "node",
+  "id": 8252202377,
+  "lat": 50.4583092,
+  "lon": 3.9945817,
+  "tags": {
+    "addr:housenumber": "427",
+    "addr:street": "Chaussée du Rœulx",
+    "contact:email": "jd-cars@hotmail.com",
+    "contact:phone": "+32 488 23 10 03; +32 474 34 96 53; +32 488 23 10 03",
+    "contact:website": "https://jdcarsmons.be",
+    "name": "J.D.Cars.",
+    "opening_hours": "Mo-Fr 08:15-17:00; Sa 10:00-16:00",
+    "second_hand": "only",
+    "service": "repair",
+    "shop": "car"
+  }
+},
+{
+  "type": "node",
+  "id": 8254520695,
+  "lat": 47.1155257,
+  "lon": 6.8520945,
+  "tags": {
+    "addr:city": "La Chaux-de-Fonds",
+    "addr:housenumber": "8",
+    "addr:postcode": "2300",
+    "addr:street": "La Joux-Perret",
+    "name": "Emmaüs",
+    "opening_hours": "Tu-Fr 10:00-12:00, 13:30-18:00, Sa 09:00-16:00",
+    "phone": "+4132 968 42 02",
+    "second_hand": "only",
+    "shop": "charity",
+    "website": "www.emmaus-ne.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 8257997154,
+  "lat": 46.5109798,
+  "lon": 6.4955846,
+  "tags": {
+    "addr:city": "Morges",
+    "addr:country": "CH",
+    "addr:housenumber": "16",
+    "addr:postcode": "1110",
+    "addr:street": "Rue du Sablon",
+    "brand": "Ateapic",
+    "brand:wikidata": "Q104468904",
+    "name": "Ateapic",
+    "operator": "Démarche",
+    "operator:wikidata": "Q104469034",
+    "second_hand": "only",
+    "shop": "clothes",
+    "website": "https://ateapic.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 8258025475,
+  "lat": 46.3195273,
+  "lon": 6.9615697,
+  "tags": {
+    "addr:city": "Aigle",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "1860",
+    "addr:street": "Chemin de la Zima",
+    "brand": "Ateapic",
+    "brand:wikidata": "Q104468904",
+    "name": "Ateapic",
+    "operator": "Démarche",
+    "operator:wikidata": "Q104469034",
+    "second_hand": "only",
+    "shop": "clothes",
+    "website": "https://ateapic.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 8258032636,
+  "lat": 46.5230646,
+  "lon": 6.6282932,
+  "tags": {
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "12",
+    "addr:postcode": "1003",
+    "addr:street": "Rue des Terreaux",
+    "brand": "Ateapic",
+    "brand:wikidata": "Q104468904",
+    "name": "Ateapic",
+    "operator": "Démarche",
+    "operator:wikidata": "Q104469034",
+    "second_hand": "only",
+    "shop": "clothes",
+    "website": "https://ateapic.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 8258040801,
+  "lat": 46.5211697,
+  "lon": 6.6262463,
+  "tags": {
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "11",
+    "addr:postcode": "1003",
+    "addr:street": "Rue des Côtes-de-Montbenon",
+    "brand": "Ateapic",
+    "brand:wikidata": "Q104468904",
+    "name": "Ateapic",
+    "operator": "Démarche",
+    "operator:wikidata": "Q104469034",
+    "second_hand": "only",
+    "shop": "clothes",
+    "website": "https://ateapic.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 8258740158,
+  "lat": 44.9298316,
+  "lon": 4.8934132,
+  "tags": {
+    "addr:city": "Valence",
+    "addr:housenumber": "9",
+    "addr:postcode": "26000",
+    "addr:street": "Rue Henry Chalamet",
+    "clothes": "women;men",
+    "contact:email": "hello@dragster.store",
+    "contact:facebook": "https://www.facebook.com/dragsterstore/",
+    "contact:instagram": "https://www.instagram.com/dragster.tv",
+    "name": "Dragster",
+    "opening_hours": "Tu-Sa 10:00-19:00",
+    "second_hand": "only",
+    "shop": "clothes",
+    "website": "https://www.dragster.store"
+  }
+},
+{
+  "type": "node",
+  "id": 8261774132,
+  "lat": 43.3012032,
+  "lon": -0.3585615,
+  "tags": {
+    "addr:city": "Pau",
+    "addr:housenumber": "25",
+    "addr:postcode": "64000",
+    "addr:street": "Avenue du Général de Gaulle",
+    "alt_name": "Anahit",
+    "name": "Chez Joël",
+    "opening_hours": "Fr-Su 10:00-12:30",
+    "phone": "+33 5 59 04 41 52",
+    "second_hand": "only",
+    "shop": "second_hand"
+  }
+},
+{
+  "type": "node",
+  "id": 8262970015,
+  "lat": 46.9471836,
+  "lon": 7.4087263,
+  "tags": {
+    "addr:city": "Bern",
+    "addr:housenumber": "60",
+    "addr:postcode": "3008",
+    "addr:street": "Steigerhubelstrasse",
+    "end_date": "2021-06-17",
+    "name": "Eiger Brocki Transporte",
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa 09:00-17:00",
+    "phone": "+41 79 419 22 79",
+    "second_hand": "only",
+    "shop": "second_hand",
+    "website": "http://eigerbrocki-transporte.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 8263047586,
+  "lat": 46.4823564,
+  "lon": 4.4390358,
+  "tags": {
+    "addr:city": "Saint-Bonnet-de-Joux",
+    "addr:housenumber": "252",
+    "addr:postcode": "71220",
+    "addr:street": "Place du champ de foire",
+    "name": "Ressourcerie Réorient' Express",
+    "second_hand": "only",
+    "shop": "second_hand",
+    "website": "http://agencedupatrimoine.org/?page_id=39"
+  }
+},
+{
+  "type": "node",
+  "id": 8265183305,
+  "lat": 42.6683100,
+  "lon": 2.9183709,
+  "tags": {
+    "name": "Auto Discount",
+    "second_hand": "only",
+    "shop": "car"
+  }
+},
+{
+  "type": "node",
+  "id": 8266994209,
+  "lat": 44.3605826,
+  "lon": 2.5867484,
+  "tags": {
+    "addr:housenumber": "70",
+    "addr:street": "Avenue de Paris",
+    "name": "PLB Automobile",
+    "second_hand": "only",
+    "shop": "car",
+    "website": "https://plbauto.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 8273380422,
+  "lat": 45.1521099,
+  "lon": 5.7073272,
+  "tags": {
+    "name": "Corner Auto",
+    "second_hand": "only",
+    "shop": "car"
+  }
+},
+{
+  "type": "node",
+  "id": 8275182422,
+  "lat": 50.4505936,
+  "lon": 3.9834505,
+  "tags": {
+    "addr:housenumber": "50B/13",
+    "addr:street": "Chaussée de Binche",
+    "contact:facebook": "https://www.facebook.com/Les-petites-trouvailles-de-Deborah-194211628120076/",
+    "contact:website": "http://lestrouvaillesdedeborah.com",
+    "name": "Les Petites Trouvailles de Deborah",
+    "opening_hours": "We,Fr 13:30-17:30; Sa 10:30-17:30",
+    "second_hand": "only",
+    "shop": "baby_goods"
+  }
+},
+{
+  "type": "node",
+  "id": 8294675591,
+  "lat": 47.0216686,
+  "lon": 8.6532480,
+  "tags": {
+    "addr:city": "Schwyz",
+    "addr:housenumber": "7",
+    "addr:postcode": "6430",
+    "addr:street": "Schulgasse",
+    "cafe": "tea_room",
+    "clothes": "second_hand",
+    "name": "Café & Laden",
+    "phone": "+41 41 558 61 00",
+    "second_hand": "only",
+    "shop": "clothes",
+    "website": "https://www.cafeladen.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 8298166697,
+  "lat": 50.5147592,
+  "lon": 1.6373073,
+  "tags": {
+    "addr:city": "Étaples",
+    "addr:housenumber": "24",
+    "addr:postcode": "62630",
+    "addr:street": "Rue Rosamel",
+    "name": "La Friperie Chic",
+    "second_hand": "only",
+    "shop": "clothes",
+    "website": "https://www.facebook.com/pg/didinemick3008/about/?ref=page_internal"
+  }
+},
+{
+  "type": "node",
+  "id": 8299188574,
+  "lat": 45.0125450,
+  "lon": 4.4023110,
+  "tags": {
+    "amenity": "community_centre",
+    "contact:facebook": "https://www.facebook.com/Recyclerie-du-Plato-100620461312703",
+    "description": "Recyclerie du PlatÔ / Boutique du RéZO / Tiers-Lieu à vocation d'accueil, organisation d'ateliers, expositions, animations, spectacles, etc.",
+    "email": "larecyclerieduplato@gmail.com",
+    "mobile": "+33 6 84 21 75 89",
+    "name": "Recyclerie du PlatÔ",
+    "second_hand": "only",
+    "shop": "second_hand",
+    "website": "https://recyclerieduplato.wordpress.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 8303099692,
+  "lat": 48.3734748,
+  "lon": 2.8157195,
+  "tags": {
+    "name": "Euro cars 77",
+    "second_hand": "only",
+    "shop": "car"
+  }
+},
+{
+  "type": "node",
+  "id": 8312950040,
+  "lat": 50.8994747,
+  "lon": 4.3602760,
+  "tags": {
+    "addr:housenumber": "191",
+    "addr:street": "Rue De Wand - De Wandstraat",
+    "contact:email": "cashbackdewand@gmail.com",
+    "contact:mobile": "+32 493 70 87 43",
+    "name": "Cash € back",
+    "opening_hours": "Tu-Sa 10:00-18:00",
+    "second_hand": "only",
+    "shop": "second_hand",
+    "website": "https://cash-back-store.business.site/"
+  }
+},
+{
+  "type": "node",
+  "id": 8313088189,
+  "lat": 48.7981893,
+  "lon": 2.1251352,
+  "tags": {
+    "name": "Achat & Vente",
+    "second_hand": "only",
+    "shop": "books"
+  }
+},
+{
+  "type": "node",
+  "id": 8313138104,
+  "lat": 49.0501799,
+  "lon": 2.0977270,
+  "tags": {
+    "addr:city": "Pontoise",
+    "addr:housenumber": "1",
+    "addr:postcode": "95300",
+    "addr:street": "Rue de la Bretonnerie",
+    "name": "Ding Fring",
+    "phone": "+33130380880",
+    "second_hand": "only",
+    "shop": "clothes",
+    "website": "http://www.lerelais.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 8320551593,
+  "lat": 48.6883172,
+  "lon": 6.1830737,
+  "tags": {
+    "level": "0",
+    "name": "frip'n'kicks",
+    "second_hand": "only",
+    "shop": "clothes"
   }
 },
 {
@@ -14063,29 +14913,6 @@
 },
 {
   "type": "way",
-  "id": 81675303,
-  "center": {
-    "lat": 42.6689349,
-    "lon": 2.9189274
-  },
-  "nodes": [
-    950097532,
-    950337131,
-    950406792,
-    950373573,
-    950364895,
-    950469318,
-    950097532
-  ],
-  "tags": {
-    "building": "yes",
-    "name": "Auto Discount",
-    "second_hand": "only",
-    "shop": "car"
-  }
-},
-{
-  "type": "way",
   "id": 82037134,
   "center": {
     "lat": 49.0172956,
@@ -14206,6 +15033,41 @@
     "source": "Info envoyée à MieuxTrierANantes 10/17",
     "vending": "mobilier;meuble;jouet;puériculture;vaisselle;bibelot;cadre;livre;vêtement;linge de maison;outillage;jardinerie;vélo;luminaire;CD-DVD;jeux vidéos;literie;article de sport;électroménager;pull;pantalon;veste",
     "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 86265554,
+  "center": {
+    "lat": 46.1959783,
+    "lon": 6.2677165
+  },
+  "nodes": [
+    1001418006,
+    1001418014,
+    1001418009,
+    1001418077,
+    1001418091,
+    8234508886,
+    1001418006
+  ],
+  "tags": {
+    "addr:housenumber": "4",
+    "addr:street": "Rue Germain Sommeiller",
+    "building": "commercial",
+    "building:levels": "1",
+    "contact:phone": "+33 6 95 02 25 56",
+    "contact:website": "https://agenceauto.com/fr/fr/agences/annemasse/",
+    "name": "L'Agence Automobilière",
+    "official_name": "L'Agence Automobilière d'Annemasse",
+    "opening_hours": "Mo-Fr 09:30-12:00, 14:00-18:00; Sa 09:30-12:00; Su off",
+    "ref:FR:NAF": "4511Z",
+    "ref:FR:SIRET": "87802431400014",
+    "roof:shape": "flat",
+    "second_hand": "only",
+    "shop": "car",
+    "source": "extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010",
+    "start_date": "2019-10-11"
   }
 },
 {
@@ -14714,6 +15576,34 @@
 },
 {
   "type": "way",
+  "id": 119805440,
+  "center": {
+    "lat": 46.1635642,
+    "lon": -1.1490840
+  },
+  "nodes": [
+    1344779522,
+    1344778810,
+    1344779573,
+    1344779562,
+    1344779599,
+    1344779709,
+    1344779736,
+    1344779710,
+    1344780197,
+    8238690123,
+    1344779522
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Vêtement d'occasion haut de gamme",
+    "second_hand": "only",
+    "shop": "clothes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+  }
+},
+{
+  "type": "way",
   "id": 120776661,
   "center": {
     "lat": 48.6314590,
@@ -14959,45 +15849,6 @@
 },
 {
   "type": "way",
-  "id": 144210995,
-  "center": {
-    "lat": 50.2836980,
-    "lon": 2.7796615
-  },
-  "nodes": [
-    1577961469,
-    1577961560,
-    1577961581,
-    1577961794,
-    1577961854,
-    1577961995,
-    1577961952,
-    1577962120,
-    1577962140,
-    1577962122,
-    1577962070,
-    1577961469
-  ],
-  "tags": {
-    "addr:city": "Arras",
-    "addr:housenumber": "21",
-    "addr:postcode": "62000",
-    "addr:street": "Avenue Fernand Lobbedez",
-    "building": "yes",
-    "email": "contact@smav62.fr",
-    "name": "Le Cercle des Objets",
-    "opening_hours": "Tu-Fr 13:00-18:00; Sa 9:00-13:00",
-    "operator": "SMAV",
-    "second_hand": "only",
-    "service:bicycle:retail": "yes",
-    "shop": "second_hand",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
-    "website": "https://www.smav62.fr/les-recycleries/",
-    "wheelchair": "yes"
-  }
-},
-{
-  "type": "way",
   "id": 144476218,
   "center": {
     "lat": 47.4587480,
@@ -15183,6 +16034,57 @@
     "phone": "+32 65 22 11 00",
     "second_hand": "only",
     "shop": "car"
+  }
+},
+{
+  "type": "way",
+  "id": 164304154,
+  "center": {
+    "lat": 44.8327775,
+    "lon": -0.6712785
+  },
+  "nodes": [
+    1759493561,
+    1759493537,
+    1759494272,
+    1759494292,
+    1759493561
+  ],
+  "tags": {
+    "addr:city": "Mérignac",
+    "addr:housenumber": "5",
+    "addr:postcode": "33700",
+    "addr:street": "Rue Euler",
+    "brand": "Multimarque",
+    "building": "yes",
+    "name": "VPN Autos Mérignac",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-19:00",
+    "opening_hours:covid19": "same",
+    "operator": "VPN Autos",
+    "phone": "+33 5 64 28 93 66",
+    "second_hand": "only",
+    "service:vehicle:Transmission_Repair": "yes",
+    "service:vehicle:air_conditioning": "yes",
+    "service:vehicle:batteries": "yes",
+    "service:vehicle:body_repair": "yes",
+    "service:vehicle:brakes": "yes",
+    "service:vehicle:car_parts": "yes",
+    "service:vehicle:car_repair": "yes",
+    "service:vehicle:diagnostics": "yes",
+    "service:vehicle:electrical": "yes",
+    "service:vehicle:glass": "yes",
+    "service:vehicle:inspection": "yes",
+    "service:vehicle:motor": "yes",
+    "service:vehicle:oil_change": "yes",
+    "service:vehicle:repairs": "yes",
+    "service:vehicle:tires": "yes",
+    "service:vehicle:tyres": "yes",
+    "service:vehicle:used_car_sales": "yes",
+    "service:vehicle:wheels": "yes",
+    "shop": "car",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012;local knowledge",
+    "survey:date": "2020-10-10",
+    "website": "https://bordeaux-merignac.vpn-autos.com"
   }
 },
 {
@@ -15922,6 +16824,37 @@
     "shop": "car",
     "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2013",
     "website": "http://hy-retro-utilitaire.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 236258655,
+  "center": {
+    "lat": 50.9577611,
+    "lon": 4.7458725
+  },
+  "nodes": [
+    2443096635,
+    2443096646,
+    2443096651,
+    2443096658,
+    2443096652,
+    2443096653,
+    2443096648,
+    2443096645,
+    2443096649,
+    2443096644,
+    2443096642,
+    2443096635
+  ],
+  "tags": {
+    "addr:housenumber": "149",
+    "addr:street": "Steenweg op Wezemaal",
+    "building": "yes",
+    "name": "Autocenter Hein",
+    "second_hand": "only",
+    "service:vehicle:car_repair": "yes",
+    "shop": "car"
   }
 },
 {
@@ -16982,7 +17915,7 @@
   ],
   "tags": {
     "building": "retail",
-    "name": "Nissan",
+    "name": "Nissan Occasions",
     "second_hand": "only",
     "shop": "car",
     "source": "extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010"
@@ -17651,6 +18584,56 @@
 },
 {
   "type": "way",
+  "id": 704368902,
+  "center": {
+    "lat": 50.7194547,
+    "lon": 4.6123250
+  },
+  "nodes": [
+    6614753864,
+    6614753866,
+    6614753867,
+    6614753875,
+    6614753868,
+    6614753865,
+    6614753864
+  ],
+  "tags": {
+    "addr:housenumber": "15",
+    "addr:street": "Chaussée de Bruxelles",
+    "building": "yes",
+    "name": "Hello Car",
+    "phone": "+32 471 91 66 22",
+    "second_hand": "only",
+    "shop": "car",
+    "website": "https://www.autoscout24.be/fr/lst?cid=34067139&atype=C&fbclid=IwAR1aXYjIOk_aoNxdAhKHVlw6-7IC3BNfekQ1ZCg-tUZ4Xe7TwPiuJYKzF4g"
+  }
+},
+{
+  "type": "way",
+  "id": 704369015,
+  "center": {
+    "lat": 50.7193588,
+    "lon": 4.6120085
+  },
+  "nodes": [
+    6614754379,
+    6614754380,
+    6614754381,
+    6614754382,
+    6614754379
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Kazemi Cars",
+    "phone": "+32 484 02 00 00",
+    "second_hand": "only",
+    "shop": "car",
+    "website": "https://gocar.be/fr/garage/1300-wavre/kazemi-cars_1-26400-1252765"
+  }
+},
+{
+  "type": "way",
   "id": 707842963,
   "center": {
     "lat": 51.0239653,
@@ -18160,6 +19143,29 @@
 },
 {
   "type": "way",
+  "id": 847529494,
+  "center": {
+    "lat": 50.6762897,
+    "lon": 5.9656641
+  },
+  "nodes": [
+    7908692639,
+    7908692640,
+    7908692641,
+    7908692642,
+    7908692639
+  ],
+  "tags": {
+    "addr:housenumber": "369",
+    "addr:street": "Rue Mitoyenne",
+    "building": "yes",
+    "name": "Garage Van Leendert",
+    "second_hand": "only",
+    "shop": "car"
+  }
+},
+{
+  "type": "way",
   "id": 863042885,
   "center": {
     "lat": 50.3449501,
@@ -18180,6 +19186,250 @@
   "tags": {
     "building": "yes",
     "name": "SW Cars",
+    "second_hand": "only",
+    "shop": "car"
+  }
+},
+{
+  "type": "way",
+  "id": 877959572,
+  "center": {
+    "lat": 49.0018162,
+    "lon": 2.4006073
+  },
+  "nodes": [
+    8168515941,
+    8168511810,
+    8168515939,
+    8168515938,
+    8168515941
+  ],
+  "tags": {
+    "landuse": "commercial",
+    "name": "Barnes Cars",
+    "second_hand": "only",
+    "shop": "car"
+  }
+},
+{
+  "type": "way",
+  "id": 881232015,
+  "center": {
+    "lat": 49.2377118,
+    "lon": -0.8729803
+  },
+  "nodes": [
+    2944124323,
+    8196060535,
+    8196060536,
+    8196060537,
+    8196060538,
+    8196060539,
+    8196060540,
+    8196060541,
+    8196060542,
+    8196060543,
+    2944124323
+  ],
+  "tags": {
+    "addr:city": "Le Molay-Littry",
+    "addr:postcode": "14330",
+    "addr:street": "Route de Balleroy",
+    "building": "garage",
+    "name": "Autos occasions",
+    "second_hand": "only",
+    "shop": "car"
+  }
+},
+{
+  "type": "way",
+  "id": 881769801,
+  "center": {
+    "lat": 46.2640793,
+    "lon": 6.3693220
+  },
+  "nodes": [
+    8152189700,
+    8152189701,
+    8200252793,
+    8200252792,
+    8200252791,
+    8200252790,
+    8152189700
+  ],
+  "tags": {
+    "second_hand": "only",
+    "shop": "car"
+  }
+},
+{
+  "type": "way",
+  "id": 882821511,
+  "center": {
+    "lat": 43.1210771,
+    "lon": 5.8425160
+  },
+  "nodes": [
+    8210027042,
+    8210027043,
+    8210027044,
+    8210027045,
+    8210027046,
+    8210027047,
+    8210027048,
+    8210027049,
+    8210027050,
+    8210027071,
+    8210027051,
+    8210027055,
+    8210027042
+  ],
+  "tags": {
+    "addr:city": "Six-Fours les Plages",
+    "addr:housenumber": "320",
+    "addr:postcode": "83140",
+    "addr:street": "Chemin des Delphiniums",
+    "brand": "Suzuki",
+    "name": "JN Auto",
+    "second_hand": "only",
+    "shop": "car"
+  }
+},
+{
+  "type": "way",
+  "id": 882821512,
+  "center": {
+    "lat": 43.1210669,
+    "lon": 5.8429239
+  },
+  "nodes": [
+    8210027052,
+    8210027053,
+    8210027054,
+    8210027056,
+    8210027042,
+    8210027043,
+    8210027052
+  ],
+  "tags": {
+    "addr:city": "Six-Fours les Plages",
+    "addr:housenumber": "320",
+    "addr:postcode": "83140",
+    "addr:street": "Chemin des Delphiniums",
+    "name": "Auto négoces 83",
+    "second_hand": "only",
+    "shop": "car"
+  }
+},
+{
+  "type": "way",
+  "id": 882821519,
+  "center": {
+    "lat": 43.1214899,
+    "lon": 5.8427128
+  },
+  "nodes": [
+    8210027073,
+    8219876983,
+    8210027074,
+    8210027053,
+    8210027046,
+    8210027075,
+    8210027079,
+    8210027073
+  ],
+  "tags": {
+    "addr:city": "Ollioules",
+    "addr:postcode": "83190",
+    "addr:street": "Chemin de Six-Fours",
+    "name": "Ollioules Services Auto",
+    "second_hand": "only",
+    "shop": "car"
+  }
+},
+{
+  "type": "way",
+  "id": 882821521,
+  "center": {
+    "lat": 43.1220215,
+    "lon": 5.8435219
+  },
+  "nodes": [
+    3079306239,
+    8210027086,
+    8210027087,
+    8210027090,
+    8210027081,
+    8210027082,
+    3079306239
+  ],
+  "tags": {
+    "addr:city": "Ollioules",
+    "addr:postcode": "83190",
+    "addr:street": "Chemin de Six-Fours",
+    "name": "KW auto",
+    "second_hand": "only",
+    "shop": "car"
+  }
+},
+{
+  "type": "way",
+  "id": 887521848,
+  "center": {
+    "lat": -21.3360349,
+    "lon": 55.4696157
+  },
+  "nodes": [
+    8251730791,
+    8251730792,
+    8251730793,
+    8251730794,
+    8251730791
+  ],
+  "tags": {
+    "building": "hut",
+    "name": "Sogecore",
+    "second_hand": "only",
+    "shop": "car",
+    "website": "https://www.changerdevoiture.re/occasions"
+  }
+},
+{
+  "type": "way",
+  "id": 889168997,
+  "center": {
+    "lat": 49.2091260,
+    "lon": -0.3641684
+  },
+  "nodes": [
+    8266424555,
+    8266424554,
+    8266424558,
+    8266424559,
+    8266424555
+  ],
+  "tags": {
+    "name": "Jolies Pépites Vintage",
+    "second_hand": "only",
+    "shop": "clothes"
+  }
+},
+{
+  "type": "way",
+  "id": 893389064,
+  "center": {
+    "lat": 47.8845669,
+    "lon": 1.9234888
+  },
+  "nodes": [
+    8303367799,
+    8303367800,
+    8303367801,
+    8303367802,
+    8303367799
+  ],
+  "tags": {
+    "building": "yes",
     "second_hand": "only",
     "shop": "car"
   }
