@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.8 7d656e78",
   "osm3s": {
-    "timestamp_osm_base": "2021-01-14T21:12:02Z",
-    "timestamp_areas_base": "2021-01-14T20:29:03Z",
+    "timestamp_osm_base": "2021-01-22T21:02:03Z",
+    "timestamp_areas_base": "2021-01-22T20:29:03Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -10143,13 +10143,12 @@
 {
   "type": "node",
   "id": 7343281563,
-  "lat": 47.2527956,
-  "lon": 6.0354752,
+  "lat": 47.2526269,
+  "lon": 6.0355384,
   "tags": {
     "access": "private",
     "amenity": "recycling",
     "description": "Chalet de Compostage",
-    "fixme": "Emplacement approximatif",
     "name": "Résal",
     "opening_hours": "24/7",
     "opening_hours:covid19": "off",
@@ -13253,6 +13252,32 @@
     "amenity": "recycling",
     "description": "Composteur partagé",
     "recycling:green_waste": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8341516331,
+  "lat": 50.6936001,
+  "lon": 4.0431339,
+  "tags": {
+    "amenity": "recycling",
+    "operator": "IPALE",
+    "recycling:cans": "yes",
+    "recycling:organic": "yes",
+    "recycling:plastic": "yes",
+    "recycling:waste": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8349205682,
+  "lat": 45.3232926,
+  "lon": 7.0002249,
+  "tags": {
+    "amenity": "recycling",
     "recycling:organic": "yes",
     "recycling_type": "container"
   }

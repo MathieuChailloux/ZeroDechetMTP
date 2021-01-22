@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.56.8 7d656e78",
+  "generator": "Overpass API 0.7.56.7 b85c4387",
   "osm3s": {
-    "timestamp_osm_base": "2021-01-14T21:13:03Z",
-    "timestamp_areas_base": "2021-01-14T20:29:03Z",
+    "timestamp_osm_base": "2021-01-22T21:03:02Z",
+    "timestamp_areas_base": "2021-01-22T20:02:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -277,7 +277,10 @@
   "lat": 50.6284160,
   "lon": 3.0522950,
   "tags": {
+    "contact:website": "https://bon-chic-bonne-fripe.business.site/",
     "name": "Bon Chic Bonne Fripe",
+    "opening_hours": "Mo-Su 14:00-19:00; Su 10:00-13:00",
+    "opening_hours:covid19": "Mo-Sa 12:00-17:30; Su 10:00-14:00",
     "second_hand": "only",
     "shop": "clothes",
     "source": "survey",
@@ -2375,13 +2378,13 @@
 {
   "type": "node",
   "id": 4029792890,
-  "lat": 50.8669915,
-  "lon": 4.3165269,
+  "lat": 50.8670372,
+  "lon": 4.3165202,
   "tags": {
     "addr:city": "Koekelberg",
-    "addr:housenumber": "Porte 4",
     "addr:postcode": "1081",
     "addr:street": "Parvis de la Basilique - Basiliekvoorplein",
+    "description": "Entrance near door nbr 4",
     "name": "Le Vestiaire",
     "opening_hours": "Th 14:00-15:30; PH off",
     "operator": "Unité pastorale Père Damien",
@@ -3185,7 +3188,7 @@
     "addr:housenumber": "3",
     "addr:postcode": "6700",
     "addr:street": "Rue du Marché-au-Beurre",
-    "name": "Oxfam Magasins du monde",
+    "name": "Oxfam Magasins du monde (vêtements)",
     "opening_hours": "Tu-Fr 09:30-18:30; Sa 09:30-13:00, 14:00-17:00",
     "second_hand": "only",
     "sells:clothes": "yes",
@@ -3802,6 +3805,24 @@
     "second_hand": "only",
     "shop": "clothes",
     "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5175900921,
+  "lat": 48.8913654,
+  "lon": 2.3498841,
+  "tags": {
+    "addr:city": "Paris",
+    "addr:housenumber": "96 bis",
+    "addr:postcode": "75018",
+    "addr:street": "Boulevard Barbès",
+    "name": "Guerrisol",
+    "opening_hours": "Mo-Sa 10:00-19:30",
+    "phone": "+33 1 53 28 11 86",
+    "second_hand": "only",
+    "shop": "clothes",
+    "website": "https://guerrisol.shop/fr/"
   }
 },
 {
@@ -10794,6 +10815,21 @@
 },
 {
   "type": "node",
+  "id": 7387324348,
+  "lat": 50.6277950,
+  "lon": 3.0508684,
+  "tags": {
+    "contact:phone": "+33 3 74 45 21 62",
+    "contact:website": "https://www.cash-web.fr/localisation_cash-web_7_lille%202.html",
+    "name": "Cash Web",
+    "old_name": "Camaïeu Outlet",
+    "opening_hours:covid19": "Mo-Sa 10:00-19:00; Su 10:00-13:30",
+    "second_hand": "only",
+    "shop": "second_hand"
+  }
+},
+{
+  "type": "node",
   "id": 7401171334,
   "lat": 49.2190438,
   "lon": 4.0693879,
@@ -13324,8 +13360,8 @@
 {
   "type": "node",
   "id": 8257997154,
-  "lat": 46.5109798,
-  "lon": 6.4955846,
+  "lat": 46.5108418,
+  "lon": 6.4956798,
   "tags": {
     "addr:city": "Morges",
     "addr:country": "CH",
@@ -13618,6 +13654,7 @@
   "lon": 2.1251352,
   "tags": {
     "name": "Achat & Vente",
+    "opening_hours": "Mo,We,Fr 11:00-15:00",
     "second_hand": "only",
     "shop": "books"
   }
@@ -13649,6 +13686,83 @@
     "name": "frip'n'kicks",
     "second_hand": "only",
     "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 8325408105,
+  "lat": 45.7967130,
+  "lon": 1.1168887,
+  "tags": {
+    "delivery": "yes",
+    "name": "Secours Populaire",
+    "opening_hours": "We 14:00-17:00",
+    "operator": "Secours Populaire",
+    "second_hand": "only",
+    "shop": "charity",
+    "start_date": "2021-01-27",
+    "website": "http://www.spf87.org/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8328602630,
+  "lat": 50.6464354,
+  "lon": 3.0597262,
+  "tags": {
+    "contact:facebook": "https://www.facebook.com/maiteramavintage/",
+    "contact:instagram": "https://www.instagram.com/maiteramavintage/",
+    "name": "Maiterama vintage",
+    "opening_hours": "Sa 15:00-19:00",
+    "second_hand": "only",
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 8330453681,
+  "lat": 50.6285722,
+  "lon": 3.0521770,
+  "tags": {
+    "contact:website": "https://bon-chic-bonne-fripe.business.site/",
+    "name": "Bon Chic Bonne Fripe 2",
+    "opening_hours": "Mo-Su 14:00-19:00; Su 10:00-13:00",
+    "opening_hours:covid19": "Mo-Sa 12:00-17:30; Su 10:00-14:00",
+    "second_hand": "only",
+    "shop": "clothes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 8331833302,
+  "lat": 50.4659285,
+  "lon": 3.8030470,
+  "tags": {
+    "second_hand": "only",
+    "shop": "car"
+  }
+},
+{
+  "type": "node",
+  "id": 8334932602,
+  "lat": 50.4593462,
+  "lon": 3.8116719,
+  "tags": {
+    "name": "Salaz Auto",
+    "second_hand": "only",
+    "shop": "car"
+  }
+},
+{
+  "type": "node",
+  "id": 8334932651,
+  "lat": 50.4601018,
+  "lon": 3.8112937,
+  "tags": {
+    "second_hand": "only",
+    "shop": "car"
   }
 },
 {
@@ -14109,6 +14223,34 @@
     "second_hand": "only",
     "shop": "charity",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 65349452,
+  "center": {
+    "lat": 45.6954797,
+    "lon": 4.8147410
+  },
+  "nodes": [
+    798356885,
+    798354136,
+    798295740,
+    798310657,
+    798358102,
+    798333213,
+    798332824,
+    798356885
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Emmaüs Saint-Genis-Laval",
+    "network": "Communauté Emmaüs",
+    "second_hand": "only",
+    "shop": "charity",
+    "source": "Grand Lyon Ortho 2018",
+    "wikidata": "Q3053001",
+    "wikipedia": "fr:Emmaüs France"
   }
 },
 {
@@ -15416,6 +15558,51 @@
 },
 {
   "type": "way",
+  "id": 112036265,
+  "center": {
+    "lat": 48.7766990,
+    "lon": 2.5932955
+  },
+  "nodes": [
+    1274497506,
+    1274456545,
+    1274552374,
+    1274603878,
+    1274483651,
+    1274443241,
+    1274437302,
+    1274576084,
+    1274514950,
+    1274472281,
+    1274459969,
+    1274602474,
+    1274544152,
+    1274501610,
+    1274489794,
+    1274447851,
+    1274565143,
+    1274534511,
+    1274560806,
+    1274526426,
+    1274449769,
+    1274597780,
+    1274497506
+  ],
+  "tags": {
+    "addr:city": "Pontault-Combault",
+    "addr:housenumber": "21",
+    "addr:postcode": "77340",
+    "addr:street": "Route de Paris",
+    "building": "yes",
+    "name": "JPA Autos RN4",
+    "phone": "+33 1 60 60 12 60",
+    "second_hand": "only",
+    "shop": "car",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+  }
+},
+{
+  "type": "way",
   "id": 112277462,
   "center": {
     "lat": 49.6611100,
@@ -16543,6 +16730,33 @@
     "name": "Brockenhaus",
     "second_hand": "only",
     "shop": "second_hand"
+  }
+},
+{
+  "type": "way",
+  "id": 209614713,
+  "center": {
+    "lat": 43.1151729,
+    "lon": 5.8507867
+  },
+  "nodes": [
+    2198091032,
+    2198091027,
+    2198091022,
+    2198091038,
+    2198091070,
+    2198091056,
+    2198091053,
+    2198091032
+  ],
+  "tags": {
+    "addr:city": "La Seyne sur Mer",
+    "addr:postcode": "83500",
+    "addr:street": "Avenue de Bruxelles",
+    "building": "yes",
+    "second_hand": "only",
+    "shop": "car",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
   }
 },
 {
@@ -18878,14 +19092,12 @@
   "type": "way",
   "id": 779108319,
   "center": {
-    "lat": 50.6641597,
-    "lon": 5.9782263
+    "lat": 50.6641557,
+    "lon": 5.9782370
   },
   "nodes": [
     1320720513,
     7274294530,
-    7274294531,
-    7274294532,
     7274294533,
     7274294534,
     7274294535,
@@ -19432,6 +19644,43 @@
     "building": "yes",
     "second_hand": "only",
     "shop": "car"
+  }
+},
+{
+  "type": "way",
+  "id": 897473422,
+  "center": {
+    "lat": 48.7027344,
+    "lon": 2.3721033
+  },
+  "nodes": [
+    838464417,
+    838481157,
+    838513460,
+    8341377346,
+    838500483,
+    838556970,
+    838518960,
+    838552981,
+    838467590,
+    838543792,
+    838477584,
+    838510969,
+    8341377341,
+    8341377345,
+    838512968,
+    838464417
+  ],
+  "tags": {
+    "addr:city": "Athis-Mons",
+    "addr:housenumber": "66",
+    "addr:postcode": "91200",
+    "addr:street": "Avenue François Mitterrand",
+    "brand": "Volvo",
+    "name": "Volvo Selekt",
+    "second_hand": "only",
+    "shop": "car",
+    "website": "https://societebidaudpereetfils-athismons.selekt.volvocars.fr/fr/vehicules"
   }
 }
 
