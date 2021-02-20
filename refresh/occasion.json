@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.7 b85c4387",
   "osm3s": {
-    "timestamp_osm_base": "2021-01-22T21:03:02Z",
-    "timestamp_areas_base": "2021-01-22T20:02:02Z",
+    "timestamp_osm_base": "2021-02-20T17:17:03Z",
+    "timestamp_areas_base": "2021-02-20T16:27:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -38,8 +38,8 @@
 {
   "type": "node",
   "id": 568000408,
-  "lat": 47.4998756,
-  "lon": 8.7302188,
+  "lat": 47.4998918,
+  "lon": 8.7302101,
   "tags": {
     "addr:city": "Winterthur",
     "addr:country": "CH",
@@ -394,7 +394,7 @@
     "contact:phone": "+33 2 72 65 91 67",
     "description": "Boutique spécialisée dans la réparation de matériel informatique, smartphones, consoles et tous appareils électroniques.",
     "name": "L'atelier des réparations",
-    "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour conseils de cartographie. ",
+    "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour conseils de cartographie.",
     "opening_hours": "Tu-Sa 10:00-13:00,14:00-18:00",
     "phone": "+33 2 40 75 64 70",
     "second_hand": "only",
@@ -3285,20 +3285,19 @@
 {
   "type": "node",
   "id": 4641896012,
-  "lat": 50.8981543,
-  "lon": 4.3593800,
+  "lat": 50.8981516,
+  "lon": 4.3593891,
   "tags": {
-    "addr:housenumber": "121",
-    "addr:street": "Rue De Wand - De Wandstraat",
+    "contact:facebook": "https://www.facebook.com/Les-Petits-Riens-Spullenhulp-1788808187848693/",
     "contact:phone": "+32 2 268 24 99",
+    "contact:website": "https://petitsriens.be/liste-boutiques/laeken-de-wand/",
     "name": "Les Petits Riens - Spullenhulp",
     "name:fr": "Les Petits Riens",
     "name:nl": "Spullenhulp",
     "opening_hours": "Mo-Sa 10:30-18:00",
     "operator": "Les Petits Riens - Spullenhulp",
     "second_hand": "only",
-    "shop": "clothes",
-    "website": "https://petitsriens.be/liste-boutiques/laeken-de-wand/"
+    "shop": "clothes"
   }
 },
 {
@@ -4159,24 +4158,6 @@
     "second_hand": "only",
     "shop": "second_hand",
     "wheelchair": "no"
-  }
-},
-{
-  "type": "node",
-  "id": 5407079991,
-  "lat": 51.0352508,
-  "lon": 5.1645379,
-  "tags": {
-    "addr:city": "Beringen",
-    "addr:housenumber": "104",
-    "addr:postcode": "3583",
-    "addr:street": "Diestersesteenweg",
-    "email": "autosseba@hotmail.com",
-    "name": "Auto 's Seba",
-    "phone": "+32 11 762 993",
-    "second_hand": "only",
-    "shop": "car",
-    "website": "http://www.autosseba.be"
   }
 },
 {
@@ -6338,7 +6319,7 @@
     "brand": "Véhicules toutes marques",
     "email": "vtmauto77@gmail.com",
     "name": "VTMAUTO",
-    "opening_hours": "Mo-Wen 09:00-19:00 Sa 09:00-17:00 Sun Closed",
+    "opening_hours": "Mo-We 09:00-19:00; Sa 09:00-17:00; Su closed",
     "phone": "+33 1 60 71 88 87",
     "second_hand": "only",
     "service:vehicle:used_car_sales": "yes",
@@ -6574,37 +6555,6 @@
     "recycling:shoes": "yes",
     "second_hand": "only",
     "shop": "clothes"
-  }
-},
-{
-  "type": "node",
-  "id": 6507549585,
-  "lat": 47.2213224,
-  "lon": -1.5621722,
-  "tags": {
-    "amenity": "recycling",
-    "charity": "yes",
-    "clothes": "children",
-    "contact:city": "Nantes",
-    "contact:email": "contact@charlotteetcie.com",
-    "contact:housenumber": "14",
-    "contact:phone": "+33 2 72 02 80 27",
-    "contact:postcode": "44000",
-    "contact:street": "place Viarme",
-    "contact:website": "http://www.charlotteetcie.com/",
-    "description": "Située place Viarme, cette grande boutique d'achat (et non pas dépôt) - vente, propose une très grande gamme d'articles pour enfants de 0 à 12 ans. Il y a environ 80% des articles d'occasion, 20% de neuf (fin de série).",
-    "mapillary": "-xMc9z3bSQD28h-RYqCYdQ",
-    "name": "Charlotte et Compagnie",
-    "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
-    "opening_hours": "Tu-Fr 10:00-19:00, Sa 10:00-13:30,15:30-19:00",
-    "operator": "Entreprise Charlotte et Compagnie",
-    "recycling:books": "yes",
-    "recycling:clothes": "yes",
-    "recycling:toys": "yes",
-    "second_hand": "only",
-    "shop": "clothes;toys",
-    "source": "Mieux trier à Nantes, 2018",
-    "vending": "vêtement; chaussure; puériculture; Playmobil; Lego; jeu; jouet; chaussure; figurine; livre; dvd; meuble; décoration; poussette; baignoire; turbulette"
   }
 },
 {
@@ -7563,7 +7513,7 @@
     "image": "https://www.ouest-france.fr/sites/default/files/styles/image-640x360/public/2014/10/05/la-recuperette-se-structure-et-sinstalle-clisson.jpg?itok=pah-uB34",
     "name": "La Récupérette",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
-    "opening_hours": "We 09:00-13:00,14:00-18:00; Fr 09:00-13:00; Sa[2][4] 10:00-13:00,14:00-18:00; PH Off",
+    "opening_hours": "We 09:00-13:00,14:00-18:00; Fr 09:00-13:00; Sa[2,4] 10:00-13:00,14:00-18:00; PH off",
     "operator": "Association La Récupérette",
     "recycling:bicycles": "yes",
     "recycling:books": "yes",
@@ -8093,7 +8043,7 @@
     "image": "https://lh3.googleusercontent.com/p/AF1QipM5312_nogzL6PN01J7ugbt3Q5R4Wpfqi-PTLEx=w600-k",
     "name": "Emmaüs Pays des Olonnes",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
-    "opening_hours": "We,Fr 14:00-18:00; Sa 10:00-12:00 14:00-18:00; du 15 nov au 15 fév le fermeture à 17h30",
+    "opening_hours": "We,Fr 14:00-18:00; Sa 10:00-12:00,14:00-18:00; Nov 15-Feb 15 We,Fr 14:00-17:30; Nov 15-Feb 15 Sa 10:00-12:00,14:00-17:30",
     "operator": "Association Emmaüs des Essarts",
     "recycling:bicycles": "yes",
     "recycling:clothes": "yes",
@@ -8158,7 +8108,7 @@
     "image": "http://www.emmaus-essarts.org/wp-content/uploads/2016/05/vair%C3%A9-A%C3%A9rien-2.jpg",
     "name": "Emmaüs Essarts",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
-    "opening_hours": "We,Fr,Sa 14:00-18:00; du 15 nov au 15 fév le fermeture à 17h30",
+    "opening_hours": "We,Fr,Sa 14:00-18:00; Nov 15-Feb 15 We,Fr,Sa 14:00-17:30",
     "operator": "Association Communauté Emmaüs Les Essarts",
     "recycling:bicycles": "yes",
     "recycling:books": "yes",
@@ -8693,7 +8643,7 @@
     "image": "https://www.nousandco.fr/media/resize/nouveau-local-cles-511x349.jpg?zoom=media/nouveau-local-cles-1582x1080.jpg&1556196842",
     "name": "Boutique du partage",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
-    "opening_hours": "Mo 14:00-18:00; We 10h-17h; Fr 10:00-13:00. Fermée début août",
+    "opening_hours": "Mo 14:00-18:00; We 10:00-17:00; Fr 10:00-13:00 || \"Fermée début août\"",
     "operator": "Association Nous & Co",
     "second_hand": "only",
     "shop": "rental",
@@ -8872,7 +8822,7 @@
     "image": "https://www.habilletoi.fr/s/img/emotionheader_1.jpg",
     "name": "Habille toi & ses petits pois",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour conseils de cartographie.",
-    "opening_hours": "Tu,Fr 09:30-13:30,15:00,19:00; We,Sa 09:30-12:30,14:00-18:00; Th 09:30-12:30",
+    "opening_hours": "Tu,Fr 09:30-13:30,15:00-19:00; We,Sa 09:30-12:30,14:00-18:00; Th 09:30-12:30",
     "operator": "Entreprise Habille toi & ses petits pois",
     "recycling:clothes": "yes",
     "recycling:shoes": "yes",
@@ -8977,7 +8927,7 @@
     "image": "https://www.legranddetournement.fr/wp-content/themes/lgd-1/images/logo.png",
     "name": "Le Grand Détournement",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
-    "opening_hours": "Mo 10:00-17:00; Sa [2] [4] 10:00-18:00",
+    "opening_hours": "Mo 10:00-17:00; Sa[2,4] 10:00-18:00",
     "operator": "Association Le Grand Détournement",
     "recycling:bicycles": "yes",
     "recycling:books": "yes",
@@ -9113,7 +9063,7 @@
     "image": "http://cdn1_3.reseaudesvilles.fr/cities/109/images/z0ccj8l90o5cs.JPG",
     "name": "Vertou Solidaire",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
-    "opening_hours": "Mo 14:00-16:00; We 15:00-17:00; Th[2][4] 09:00-12:00 14:00-17:00; Sa[1] 10:00-12:00",
+    "opening_hours": "Mo 14:00-16:00; We 15:00-17:00; Th[2,4] 09:00-12:00,14:00-17:00; Sa[1] 10:00-12:00",
     "operator": "Association Vertou Solidaire",
     "recycling:clothes": "yes",
     "second_hand": "only",
@@ -9338,9 +9288,15 @@
   "lat": 46.6641953,
   "lon": 4.3568704,
   "tags": {
+    "addr:city": "Montceau-les-Mines",
+    "addr:housenumber": "6",
+    "addr:postcode": "71300",
+    "addr:street": "Rue de Gueugnon",
     "contact:phone": "+33 3 85 55 58 10",
     "name": "Emmaüs",
     "opening_hours": "Tu-Sa 14:00-17:00; Th off",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
     "second_hand": "only",
     "shop": "charity",
     "website": "http://www.emmaus-etang.com/magasin-montceau-les-mines.html"
@@ -9982,7 +9938,7 @@
   "lat": 44.0910685,
   "lon": 6.2332119,
   "tags": {
-    "addr:city": "DIgne-les-Bains",
+    "addr:city": "Digne-les-Bains",
     "addr:country": "FR",
     "addr:housenumber": "7",
     "addr:postcode": "04000",
@@ -11326,7 +11282,7 @@
     "addr:postcode": "85600",
     "addr:street": "Rue Augustin Fresnel",
     "email": "augrenierdeloccaz85@orange.fr",
-    "name": "Au Grenier D'eloccaz - Vide grenier permanent",
+    "name": "Au Grenier d'Eloccaz - Vide grenier permanent",
     "opening_hours": "Tu-Sa 09:30-12:00,14:00-18:30",
     "opening_hours:covid19": "open",
     "phone": "+33 2 51 31 33 65",
@@ -11592,7 +11548,7 @@
   "lon": -1.2620258,
   "tags": {
     "name": "Happy Cash  Gétigné Clisson",
-    "opening_hours": "Tu-Sa 09:30-13:00 14:00-19:00",
+    "opening_hours": "Tu-Sa 09:30-13:00,14:00-19:00",
     "phone": "+33251790802",
     "second_hand": "only",
     "shop": "second_hand",
@@ -11841,7 +11797,8 @@
     "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-17:00",
     "second_hand": "only",
     "shop": "electronics",
-    "website": "https://revendo.ch"
+    "website": "https://revendo.ch",
+    "wheelchair": "no"
   }
 },
 {
@@ -12691,17 +12648,19 @@
   "lat": 43.6860904,
   "lon": 4.1534479,
   "tags": {
-    "addr:city": "Lunel",
-    "addr:housenumber": "1",
-    "addr:postcode": "34400",
-    "addr:street": "Chemin des Nouguiés",
+    "contact:city": "Lunel",
+    "contact:housenumber": "1",
+    "contact:postcode": "34400",
+    "contact:street": "Chemin des nouguies",
     "email": "selectvo34@gmail.com",
     "name": "Select Vo",
-    "opening_hours": "Tu-Fr 09:30-13:00,14:00-18:00; Sa 09:30-18:00",
+    "official_name": "Select Vo",
+    "opening_hours": "Tu-Sa 09:30-12:00, 14:00-18:00",
     "phone": "+33 6 50 40 39 89",
+    "ref:FR:SIRET": "79177902800012",
     "second_hand": "only",
     "shop": "car",
-    "website": "https://selectvo.auto-gestion.net"
+    "website": "https://selectvo.auto-gestion.net/"
   }
 },
 {
@@ -12895,8 +12854,8 @@
 {
   "type": "node",
   "id": 8123703947,
-  "lat": 43.8373227,
-  "lon": 4.3577709,
+  "lat": 43.8380056,
+  "lon": 4.3581625,
   "tags": {
     "addr:housenumber": "4",
     "addr:street": "Rue Fresque",
@@ -12976,7 +12935,7 @@
     "amenity": "recycling",
     "building": "hangar",
     "name": "Au Bonheur de Tous",
-    "opening_hours": "We Fr Sa[2] 14:00-18:00",
+    "opening_hours": "We,Fr,Sa[2] 14:00-18:00",
     "opening_hours:covid19": "off",
     "operator": "Au Bonheur de Tous",
     "operator:type": "association",
@@ -13236,7 +13195,8 @@
     "addr:housenumber": "194",
     "addr:postcode": "83190",
     "addr:street": "Avenue Jean Monnet",
-    "name": "EWIGO",
+    "name": "Ewigo",
+    "phone": "+33 4 94 87 53 22",
     "second_hand": "only",
     "shop": "car"
   }
@@ -13763,6 +13723,280 @@
   "tags": {
     "second_hand": "only",
     "shop": "car"
+  }
+},
+{
+  "type": "node",
+  "id": 8361940012,
+  "lat": 50.8048300,
+  "lon": 4.1362325,
+  "tags": {
+    "name": "Auto-Mobile",
+    "second_hand": "only",
+    "shop": "car"
+  }
+},
+{
+  "type": "node",
+  "id": 8363135675,
+  "lat": 16.0035057,
+  "lon": -61.7274996,
+  "tags": {
+    "name": "Auto Guadeloupe Occasions",
+    "second_hand": "only",
+    "shop": "car"
+  }
+},
+{
+  "type": "node",
+  "id": 8364249244,
+  "lat": 44.1216583,
+  "lon": 4.0788093,
+  "tags": {
+    "clothes": "men",
+    "name": "Nouveaux Genres",
+    "phone": "+33 6 72 76 63 29",
+    "second_hand": "only",
+    "shop": "clothes",
+    "source": "https://www.midilibre.fr/2021/01/26/ales-il-cree-une-friperie-haut-de-gamme-en-plein-centre-ville-9333450.php"
+  }
+},
+{
+  "type": "node",
+  "id": 8372089190,
+  "lat": 41.9491017,
+  "lon": 8.7708002,
+  "tags": {
+    "contact:email": "iniziativa@orange.fr",
+    "contact:phone": "+33 4 20 03 73 84",
+    "contact:website": "https://www.iniziativa-association.com/",
+    "name": "Recycl'eco",
+    "operator": "Iniziativa",
+    "recycling": "information",
+    "ref:FR:SIRET": "49901947900033",
+    "second_hand": "only",
+    "shop": "electronics",
+    "source": "CRESS Corse",
+    "source:date": "2021-01-28"
+  }
+},
+{
+  "type": "node",
+  "id": 8372106459,
+  "lat": 42.6784998,
+  "lon": 9.4321857,
+  "tags": {
+    "contact:email": "contact@olcq.fr",
+    "contact:phone": "+33 4 95 30 12 05",
+    "contact:website": "https://www.opra.corsica/sociale/mag/",
+    "name": "Boutique solidaire Histoire de Fringues",
+    "operator": "OPRA A Leccia Comité de quartier",
+    "ref:FR:SIRET": "43421489600020",
+    "second_hand": "only",
+    "shop": "clothes",
+    "source": "CRESS Corse",
+    "source:date": "2021-01-28"
+  }
+},
+{
+  "type": "node",
+  "id": 8372128474,
+  "lat": 41.9326929,
+  "lon": 8.7361609,
+  "tags": {
+    "contact:email": "falepacorsica@orange.fr",
+    "contact:phone": "+33 4 95 26 65 46",
+    "name": "Le Garage by Falepa Corsica",
+    "operator": "Falepa Corsica",
+    "ref:FR:SIRET": "48432793700021",
+    "second_hand": "only",
+    "shop": "bicycle",
+    "source": "CRESS Corse",
+    "source:date": "2021-01-28"
+  }
+},
+{
+  "type": "node",
+  "id": 8374035829,
+  "lat": 46.5705187,
+  "lon": 6.6053734,
+  "tags": {
+    "addr:city": "Romanel-sur-Lausanne",
+    "addr:housenumber": "4",
+    "addr:postcode": "1032",
+    "addr:street": "Route de Neuchâtel",
+    "name": "Autocorner J.-C. & C. Oberson SA",
+    "second_hand": "only",
+    "shop": "car",
+    "website": "http://www.autocorner.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 8377221661,
+  "lat": 48.9117788,
+  "lon": 2.3850528,
+  "tags": {
+    "name": "Librairie solidaire",
+    "second_hand": "only",
+    "shop": "books"
+  }
+},
+{
+  "type": "node",
+  "id": 8390873866,
+  "lat": 44.3593500,
+  "lon": 2.5753264,
+  "tags": {
+    "car:parts": "tires",
+    "fixme": "verifier si toujours en activité",
+    "name": "Pneus Occasion12",
+    "second_hand": "only",
+    "shop": "car_parts",
+    "source": "survey 2020"
+  }
+},
+{
+  "type": "node",
+  "id": 8394735614,
+  "lat": 48.5705155,
+  "lon": 2.2318192,
+  "tags": {
+    "second_hand": "only",
+    "shop": "car"
+  }
+},
+{
+  "type": "node",
+  "id": 8397777186,
+  "lat": 48.7443920,
+  "lon": 7.9210140,
+  "tags": {
+    "ref:FR:SIRET": "84286456300015",
+    "second_hand": "only",
+    "shop": "car",
+    "source": "INSEE - 2021-01"
+  }
+},
+{
+  "type": "node",
+  "id": 8414356243,
+  "lat": 43.3837251,
+  "lon": -1.3060047,
+  "tags": {
+    "addr:city": "Hasparren",
+    "addr:housenumber": "14",
+    "addr:postcode": "64240",
+    "addr:street": "Rue Jean Lissar",
+    "name": "Dépôt-vente la Casa à Valou",
+    "second_hand": "only",
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 8429175788,
+  "lat": -12.8502263,
+  "lon": 45.0992069,
+  "tags": {
+    "contact:email": "ccas@mairiedesada.fr",
+    "contact:phone": "02 69 60 41 18",
+    "name": "Atelier d’insertion réparation des DEA",
+    "office": "association",
+    "operator": "Centre Communal D'action Sociale De Sada",
+    "recycling": "information",
+    "ref:FR:SIRET": "20005132400016",
+    "second_hand": "only",
+    "shop": "furniture",
+    "source": "CRESS Mayotte"
+  }
+},
+{
+  "type": "node",
+  "id": 8429218575,
+  "lat": -12.7747661,
+  "lon": 45.2223055,
+  "tags": {
+    "contact:email": "contact.wenkaculture@gmail.com",
+    "contact:facebook": "https://www.facebook.com/wenkaculture/",
+    "contact:phone": "02 69 66 91 60",
+    "name": "Atelier d’insertion propreté urbaine et recyclage de palettes",
+    "office": "association",
+    "operator": "Wenka Culture",
+    "recycling": "information",
+    "ref:FR:SIRET": "81409613700033",
+    "second_hand": "only",
+    "shop": "wood",
+    "source": "CRESS Mayotte",
+    "source:date": "2021-02-10"
+  }
+},
+{
+  "type": "node",
+  "id": 8429317743,
+  "lat": -12.8017515,
+  "lon": 45.2128499,
+  "tags": {
+    "contact:email": "ankibanamaecha@outlook.fr",
+    "contact:facebook": "https://fr-fr.facebook.com/people/Ankiba-Na-Maecha/100010921184249",
+    "contact:phone": "06 39 25 87 97",
+    "name": "Atelier d’insertion réparation des DEEE et espaces verts",
+    "office": "association",
+    "operator": "Ankiba Na Maecha",
+    "recycling": "information",
+    "ref:FR:SIRET": "80916002100022",
+    "second_hand": "only",
+    "shop": "electronics",
+    "source": "CRESS Mayotte",
+    "source:date": "2021-02-10"
+  }
+},
+{
+  "type": "node",
+  "id": 8434945872,
+  "lat": 51.0525584,
+  "lon": 5.2167247,
+  "tags": {
+    "addr:city": "Beringen",
+    "addr:housenumber": "1",
+    "addr:postcode": "3580",
+    "addr:street": "Nijverheidspark",
+    "email": "info@autosseba.be",
+    "name": "Auto's Seba",
+    "phone": "+32 11 76 29 93",
+    "second_hand": "only",
+    "shop": "car",
+    "website": "https://autosseba.be/"
+  }
+},
+{
+  "type": "node",
+  "id": 8438537394,
+  "lat": 48.7802975,
+  "lon": 2.6079248,
+  "tags": {
+    "addr:city": "Pontault-Combault",
+    "addr:housenumber": "80",
+    "addr:postcode": "77340",
+    "addr:street": "Rue Gilbert Rey",
+    "name": "MSS Automobiles",
+    "phone": "+33 6 51 78 40 67",
+    "second_hand": "only",
+    "shop": "car",
+    "website": "http://pros.lacentrale.fr/C043969/"
+  }
+},
+{
+  "type": "node",
+  "id": 8440217580,
+  "lat": 51.2079682,
+  "lon": 4.4088772,
+  "tags": {
+    "clothes": "unisex",
+    "name": "Scruples",
+    "second_hand": "only",
+    "shop": "clothes",
+    "website": "https://scruplesantwerpen.be"
   }
 },
 {
@@ -15272,6 +15506,39 @@
 },
 {
   "type": "way",
+  "id": 91333570,
+  "center": {
+    "lat": 43.1944690,
+    "lon": 0.0279455
+  },
+  "nodes": [
+    1060340433,
+    1060338785,
+    1060337651,
+    1060338100,
+    1060336306,
+    1060334648,
+    1060345169,
+    1060339372,
+    1060338159,
+    1060340433
+  ],
+  "tags": {
+    "building": "yes",
+    "clothes": "yes",
+    "fax": "+33 5 62 32 99 61",
+    "name": "Moto Expert",
+    "opening_hours": "Mo 14:00-18:00; Tu-Fr 10:00-12:00,14:00-19:00; Sa 10:00-12:00,14:00-18:00",
+    "parts": "yes",
+    "phone": "+33 5 62 32 99 60",
+    "sale": "yes",
+    "second_hand": "only",
+    "shop": "motorcycle",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+  }
+},
+{
+  "type": "way",
   "id": 92065250,
   "center": {
     "lat": 43.1817720,
@@ -15812,6 +16079,34 @@
     "second_hand": "only",
     "shop": "charity",
     "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 126094901,
+  "center": {
+    "lat": 47.3538275,
+    "lon": 5.0650820
+  },
+  "nodes": [
+    1398756756,
+    1398756672,
+    1398756670,
+    1398756686,
+    1398756685,
+    1398756718,
+    1398756732,
+    1398756752,
+    1398756756
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Concept Car",
+    "phone": "+33 3 80 73 26 04",
+    "second_hand": "only",
+    "shop": "car",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+    "website": "https://conceptcar-dijon.espacevo.fr"
   }
 },
 {
@@ -16534,6 +16829,7 @@
   ],
   "tags": {
     "building": "yes",
+    "layer": "1",
     "name": "Bahman cars",
     "second_hand": "only",
     "shop": "car",
@@ -16949,37 +17245,6 @@
     "source:geometry:date": "2012-03-09",
     "source:geometry:ref": "Gbg/3327118",
     "website": "http://dekapelle.be/"
-  }
-},
-{
-  "type": "way",
-  "id": 228421602,
-  "center": {
-    "lat": 50.8734150,
-    "lon": 4.3766885
-  },
-  "nodes": [
-    2371045645,
-    2371045647,
-    2371045679,
-    2371045674,
-    2371045658,
-    2371045635,
-    2371045639,
-    2371045645
-  ],
-  "tags": {
-    "addr:city": "Schaerbeek - Schaarbeek",
-    "addr:housenumber": "47",
-    "addr:postcode": "1030",
-    "addr:street": "Boulevard Lambermont - Lambermontlaan",
-    "building": "yes",
-    "name": "Oxfam Solidarité",
-    "phone": "+32 2 215 05 11",
-    "ref:UrbIS": "7957449",
-    "second_hand": "only",
-    "shop": "clothes",
-    "website": "https://www.oxfamsol.be/"
   }
 },
 {

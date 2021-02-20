@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.7 b85c4387",
   "osm3s": {
-    "timestamp_osm_base": "2021-01-22T21:03:02Z",
-    "timestamp_areas_base": "2021-01-22T20:02:02Z",
+    "timestamp_osm_base": "2021-02-20T17:17:03Z",
+    "timestamp_areas_base": "2021-02-20T16:27:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -104,7 +104,7 @@
     "image": "http://mieuxtrieranantes.fr/docs/medias/AteliersReparationCollaboratifs/MaisonDuVeloValenciennes.jpg",
     "name": "Maison du Vélo Valenciennes",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
-    "opening_hours": "We, Fr 16:30-19:30; Sa 14:00-17:30; Heures d'été : mercredi et vendredi 17:30-20:30",
+    "opening_hours": "We,Fr 16:30-19:30; Sa 14:00-17:30; We, Fr 17:30-20:30 \"Heures d'été\"",
     "operator": "Maison de Quartier Centre Ville",
     "repair": "assisted_self_service",
     "service:bicycle:diy": "yes",
@@ -617,7 +617,7 @@
     "image": "https://services.jamesnook.com/services/storage?id=615569&type=picture&secret=7lnOXawZ8LSKCJCbwXroYImCsp8VtszYLroSzKXv&timestamp=1558447168",
     "mobile_phone:repair": "yes",
     "name": "Repair Café du Fontanil",
-    "opening_hours": "En général le premier lundi de chaque mois, hors vacances scolaires, dans les locaux de la MJC du Fontanil de 16h à 19h et 2 samedis de 8h30 à 12h.",
+    "opening_hours": "\"En général le premier lundi de chaque mois, hors vacances scolaires, dans les locaux de la MJC du Fontanil de 16h à 19h et 2 samedis de 8h30 à 12h.\"",
     "repair": "assisted_self_service"
   }
 },
@@ -670,7 +670,7 @@
     "mobile_phone:repair": "yes",
     "name": "Repair Café de Meylan",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
-    "opening_hours": "Un mardi sur deux, sauf vacances scolaires d'été.",
+    "opening_hours": "\"Un mardi sur deux, sauf vacances scolaires d'été.\"",
     "repair": "assisted_self_service",
     "source": "Site internet \"ici Grenoble\" (avec son accord)"
   }
@@ -697,7 +697,7 @@
     "image": "https://www.repaircafemontbonnot.fr/wp-content/uploads/2015/04/2015-04-04-1er-samedi-01_1.jpg",
     "mobile_phone:repair": "yes",
     "name": "Repair Café de Montbonnot-Saint-Martin",
-    "opening_hours": "2 mardi par mois 14:00-18:45",
+    "opening_hours": "Tu 14:00-18:45 \"2 mardi par mois\"",
     "repair": "assisted_self_service"
   }
 },
@@ -1354,7 +1354,7 @@
     "mobile_phone:repair": "yes",
     "name": "Repair Café de Drain, Orée d'Anjou",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
-    "opening_hours": "Sa[-1] 09:30-12-00",
+    "opening_hours": "Sa[-1] 09:30-12:00",
     "opening_hours:url": "salle de la mairie de Drain",
     "operator": "Centre Socioculturel Rives de Loire",
     "repair": "assisted_self_service"
@@ -1473,7 +1473,7 @@
     "mobile_phone:repair": "yes",
     "name": "Repair Café Loire-Authion",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
-    "opening_hours": "Sa[2] 09:0m30-13:00; Aug off",
+    "opening_hours": "Sa[2] 09:30-13:00; Aug off",
     "operator": "Association Aidal",
     "repair": "assisted_self_service"
   }
@@ -1610,7 +1610,7 @@
     "mobile_phone:repair": "yes",
     "name": "Repair Café Venansault",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
-    "opening_hours": "Sa[3] 09:00-12:00; Jul Aug Off",
+    "opening_hours": "Sa[3] 09:00-12:00; Jul,Aug off",
     "operator": "Association VEN’ENSEMBLE",
     "repair": "assisted_self_service"
   }
@@ -1641,7 +1641,7 @@
     "mobile_phone:repair": "yes",
     "name": "Repair Café Talmont-Saint-Hilaire",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
-    "opening_hours": "Un samedi sur deux. 9h30 à 12h.",
+    "opening_hours": "Sa 09:30-12:00 \"Un samedi sur deux\"",
     "operator": "Centre Soscioculturel de Talmont-Saint-Hilaire",
     "repair": "assisted_self_service"
   }
@@ -1974,7 +1974,7 @@
     "furniture:repair": "yes",
     "name": "Repair Café Iroise",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
-    "opening_hours": "We[2] 16:00-20:00; Sa[-1] 14:00-18:00; Jul Aug Dec OFF; ",
+    "opening_hours": "We[2] 16:00-20:00; Sa[-1] 14:00-18:00; Jul,Aug,Dec off",
     "repair": "assisted_self_service",
     "source": "Site Repair Cafés du Finistère"
   }
@@ -2026,7 +2026,7 @@
     "mobile_phone:repair": "yes",
     "name": "Repair Café Lille",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
-    "opening_hours": "Tu[3] 18:30-20:30; Jul Aug Off; ",
+    "opening_hours": "Tu[3] 18:30-20:30; Jul,Aug off",
     "repair": "assisted_self_service",
     "wheelchair": "yes"
   }
@@ -2052,7 +2052,7 @@
     "furniture:repair": "yes",
     "name": "Cap Solidarité Ouest Cornouaille",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
-    "opening_hours": "4 à 5 samedis par an 10:00-12:00 14:00-16:30",
+    "opening_hours": "Sa 10:00-12:00,14:00-16:30 \"4 à 5 samedis par an\"",
     "operator": "Association Cap Solidarité Ouest Cornouaille",
     "repair": "assisted_self_service",
     "source": "Site internet \"Les Repair Cafés du Finistère\" (avec son accord)"
@@ -2202,7 +2202,7 @@
     "mobile_phone:repair": "yes",
     "name": "Système R (Centre social la Courte Echelle)",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
-    "opening_hours": "4 à 5 par an le samedi de 10h à 12h et de 14h à 16h30",
+    "opening_hours": "Sa 10:00-12:00,14:00-16:30 \"4 à 5 samedis par an\"",
     "operator": "Centre social",
     "phone": "+33 2 98 45 42 42",
     "repair": "assisted_self_service",
@@ -2279,7 +2279,7 @@
     "mobile_phone:repair": "yes",
     "name": "Repair Café de Pont-de-Claix",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
-    "opening_hours": "Th 14:00-18:30; SH PH Off",
+    "opening_hours": "Th 14:00-18:30; SH,PH off",
     "repair": "assisted_self_service",
     "source": "Site internet \"ici Grenoble\" (avec son accord)"
   }
@@ -2445,7 +2445,7 @@
     "image": "http://repaircafeouestbordeaux.org/wp-content/uploads/Affiche-Guy-Queyroi-01-20-814x540.jpg",
     "name": "Repair Café Ouest Bordeaux - maison de quartier Guy Queyroi",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
-    "opening_hours": "Un samedi par mois 14:00-18:00",
+    "opening_hours": "Sa 14:00-18:00 \"Un samedi par mois\"",
     "operator": "Association Repair Café Ouest Bordeaux",
     "repair": "assisted_self_service",
     "source": "Formulaire envoyé 01/2020"
@@ -2476,7 +2476,7 @@
     "image": "http://repaircafeouestbordeaux.org/wp-content/uploads/dec-2019-rc-Migron.jpg",
     "name": "Repair Café Ouest Bordeaux - à l’Eycho antenne de Migron - Eysines",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
-    "opening_hours": "Un samedi par mois 14:00-17:00",
+    "opening_hours": "Sa 14:00-17:00 \"Un samedi par mois\"",
     "operator": "Association Repair Café Ouest Bordeaux",
     "repair": "assisted_self_service",
     "source": "Formulaire envoyé 01/2020"
@@ -2539,7 +2539,7 @@
     "image": "http://repaircafeouestbordeaux.org/wp-content/uploads/Affiche-le-Bourg.jpg",
     "name": "Repair Café Ouest Bordeaux - à la grange du château Lescombes - Eysines",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
-    "opening_hours": "Un samedi par mois 14:00-18:00",
+    "opening_hours": "Sa 14:00-18:00 \"Un samedi par mois\"",
     "operator": "Association Repair Café Ouest Bordeaux",
     "repair": "assisted_self_service",
     "source": "Formulaire envoyé 02/2020"
@@ -2570,7 +2570,7 @@
     "mobile_phone:repair": "yes",
     "name": "Repair Café Auxerre - antenne Epicerie Solidaire de l’Auxerrois",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
-    "opening_hours": "Dernier samedi de chaque mois 14:00-18:00. Le lieu variant tous les mois consulter la page Facebook.",
+    "opening_hours": "Sa[-1] 14:00-18:00 \"Le lieu variant tous les mois consulter la page Facebook.\"",
     "operator": "association Repair Cafe Auxerre en collaboration avec la JCE Auxerre et l’Atelier des Beaux Boulons",
     "repair": "assisted_self_service",
     "source": "Formulaire envoyé 01/2020"
@@ -2601,7 +2601,7 @@
     "mobile_phone:repair": "yes",
     "name": "Repair Café Auxerre - antenne Tiers-Lieu Les Riverains",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
-    "opening_hours": "Dernier samedi de chaque mois 14:00-18:00. Attention le lieu varie tous les mois, consulter le Facebook",
+    "opening_hours": "Sa[-1] 14:00-18:00 \"Attention le lieu varie tous les mois, consulter le Facebook\"",
     "operator": "Association Repair Café Auxerre",
     "repair": "assisted_self_service",
     "source": "Formulaire envoyé 01/2020"
@@ -2687,7 +2687,7 @@
     "image": "https://i1.wp.com/albi44.fr/wp-content/uploads/2019/07/repaircafe.png?w=792",
     "name": "L'atelier du Repair Café  Base Indre",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
-    "opening_hours": "Un samedi matin par mois, de 9h30 à 12h30",
+    "opening_hours": "Sa 09:30-12:30 \"Un samedi matin par mois\"",
     "operator": "Amicale Laïque de Basse-Indre",
     "repair": "assisted_self_service"
   }
@@ -2716,7 +2716,7 @@
     "image": "http://www.restaurant-interlude.org/wp-content/uploads/2019/09/Le-repair-caf%C3%A9-1er-semestre-2018-pour-facebook.jpg",
     "name": "Rendez-vous du Repair Café de l’Erdre",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
-    "opening_hours": "Certains samedis de 9h30 à 12h",
+    "opening_hours": "\"Certains samedis de 9h30 à 12h\"",
     "repair": "assisted_self_service"
   }
 },
@@ -2764,7 +2764,7 @@
     "image": "https://france3-regions.francetvinfo.fr/grand-est/sites/regions_france3/files/styles/asset_thumbnail_large_smarphone_2x/public/assets/images/2018/12/16/repair_cafe_dans_laube-4000833.jpg?",
     "name": "Repair Café de l'Aube",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
-    "opening_hours": "3ème samedi du mois. Le lieu varie tous les mois.",
+    "opening_hours": "Sa[3] \"Le lieu varie tous les mois\"",
     "opening_hours:url": "https://www.rcaube.fr/date.html",
     "repair": "assisted_self_service"
   }
@@ -2896,7 +2896,7 @@
     "image": "https://image1.lamontagne.fr/photoSRC/VVNUJ1paUTgIBhVOCRAHHQ4zRSkXaldfVR5dW1sXVA49/donner-une-deuxieme-vie-au-petit-electromenager_4315743.jpeg",
     "name": "Repair Café Saint Fé",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
-    "opening_hours": "Fr[1] 14:00-16:00; ou sur Rendez-vous",
+    "opening_hours": "Fr[1] 14:00-16:00 || \"ou sur Rendez-vous\"",
     "operator": "Association Repair Café Saint Fé",
     "repair": "assisted_self_service",
     "source": "Formulaire envoyé par la structure 01/2020"
@@ -3097,7 +3097,7 @@
     "image": "http://mieuxtrieranantes.fr/docs/medias/AteliersReparationCollaboratifs/RepairCafe24_01.jpg",
     "name": "repaircafe24 MAIF",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
-    "opening_hours": "Atelier bi-mensuel",
+    "opening_hours": "\"Atelier bi-mensuel\"",
     "operator": "Association repaircafe24",
     "repair": "assisted_self_service"
   }
@@ -3185,7 +3185,7 @@
     "mobile_phone:repair": "yes",
     "name": "Repair Café Pays de Grasse",
     "note": "Voir https://wiki.openstreetmap.org/wiki/WikiProject_CircularEconomy pour des conseils de cartographie.",
-    "opening_hours": "14h-17h. Consulter la page FAcebook ou le site internet.",
+    "opening_hours": "14:00-17:00 \"Consulter la page FAcebook ou le site internet\"",
     "operator": "Association Repair Café Pays de Grasse",
     "repair": "assisted_self_service",
     "source": "Formulaire rempli par la structure"
@@ -3594,6 +3594,40 @@
     "image": "mapillary",
     "repair": "assisted_self_service",
     "source": "http://repaircafesudfrancilien.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 794556414,
+  "center": {
+    "lat": 46.8949930,
+    "lon": 6.2327444
+  },
+  "nodes": [
+    8331265283,
+    7431598457,
+    7431598458,
+    7431598459,
+    8331265283
+  ],
+  "tags": {
+    "addr:housenumber": "16C",
+    "addr:street": "Rue des Hauts du Drugeon",
+    "building": "yes",
+    "contact:instagram": "https://www.instagram.com/selfgarage25/",
+    "contact:whatsapp": "+33 7 68 05 52 90",
+    "email": "selfgarage25@outlook.com",
+    "facebook": "https://www.facebook.com/Selfgarage25",
+    "name": "Self Garage 25",
+    "opening_hours": "Tu-Sa 09:00-18:00",
+    "phone": "+33 7 68 05 52 90",
+    "ref:FR:SIRET": "85176408400014",
+    "repair": "assisted_self_service",
+    "reservation": "yes",
+    "service:repair": "yes",
+    "shop": "car_repair",
+    "website": "https://www.selfgarage.org/garages-par-departement/liste-garage-Doubs.html",
+    "wheelchair": "yes"
   }
 }
 

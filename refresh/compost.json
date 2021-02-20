@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.8 7d656e78",
   "osm3s": {
-    "timestamp_osm_base": "2021-01-22T21:02:03Z",
-    "timestamp_areas_base": "2021-01-22T20:29:03Z",
+    "timestamp_osm_base": "2021-02-20T17:16:03Z",
+    "timestamp_areas_base": "2021-02-20T16:21:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -12744,8 +12744,8 @@
 {
   "type": "node",
   "id": 7996508643,
-  "lat": 50.6276539,
-  "lon": 3.0612533,
+  "lat": 50.6274147,
+  "lon": 3.0616900,
   "tags": {
     "access": "yes",
     "amenity": "recycling",
@@ -13212,6 +13212,7 @@
   "lon": 4.8588008,
   "tags": {
     "amenity": "recycling",
+    "opening_hours": "We 19:00-19:30; Sa 11:30-12:00",
     "operator": "Compost'elle",
     "recycling:organic": "yes",
     "recycling_type": "container"
@@ -13280,6 +13281,75 @@
     "amenity": "recycling",
     "recycling:organic": "yes",
     "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8357851780,
+  "lat": 46.6737630,
+  "lon": 5.5577498,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8364806905,
+  "lat": 48.3830833,
+  "lon": -4.5031909,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8390841630,
+  "lat": 45.7721572,
+  "lon": 4.8114401,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8424708408,
+  "lat": 45.6310377,
+  "lon": 4.4539737,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:green_waste": "yes",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8438878422,
+  "lat": 47.2380832,
+  "lon": -0.1028057,
+  "tags": {
+    "amenity": "recycling",
+    "location": "overground",
+    "recycling:organic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8440744768,
+  "lat": 44.8838797,
+  "lon": -0.6135345,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:organic": "yes",
+    "recycling_type": "container",
+    "source": "survey"
   }
 },
 {
